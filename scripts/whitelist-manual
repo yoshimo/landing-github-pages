@@ -4,6 +4,7 @@
 a.basemaps.cartocdn.com
 a.espncdn.com
 a.kickstarter.com
+a.tile.openstreetmap.fr
 a0.muscache.com
 aadcdn.msauth.net
 aadcdn.msftauth.net
@@ -47,6 +48,7 @@ assets.zorincdn.com
 at.staticfiles.at
 b.basemaps.cartocdn.com
 b.staticfiles.at
+b.tile.openstreetmap.fr
 base.maps.api.here.com.edgekey.net
 base.maps.ls.hereapi.com
 bilder.deutschlandfunk.de.edgekey.net
@@ -55,6 +57,7 @@ builds.crazygames.com
 builds.mlbstatic.com
 c.basemaps.cartocdn.com
 c.ndtvimg.com
+c.tile.openstreetmap.fr
 c02.purpledshub.com
 ca-times.brightspotcdn.com
 canary.discord.com
@@ -74,6 +77,7 @@ cms-images.mmst.eu
 cname.vercel-dns.com
 community.akamai.steamstatic.com
 community.cloudflare.steamstatic.com
+community.fastly.steamstatic.com
 connect.ubisoft.com
 content.invisioncic.com
 cpwebassets.codepen.io
@@ -163,6 +167,8 @@ img.medscapestatic.com.edgekey.net
 img.ui-portal.de
 ip266460634.ahcdn.com
 ir.ebaycdn.net
+js.skyscnr.com
+js.skyscnr.com.cdn.skyscannerplatform.net
 js.static-cache.de
 js.ui-portal.de
 js.ui-portal.de.edgekey.net
@@ -269,6 +275,7 @@ shopfairphonecom-7f4b2d14.deltablue.io
 slot9428.ebay.com.edgekey.net
 sp-ao.shortpixel.ai
 speedcdn.cloud.funkedigital.de
+spenden.twingle.de
 ss.phncdn.com.sds.rncdn7.com
 ssl-static.libsyn.com
 ssl.zdf.de.edgekey.net
@@ -325,6 +332,7 @@ store-static-modular.gog-statics.com
 store.akamai.steamstatic.com
 store.cloudflare.steamstatic.com
 store.evehome.com.hosting.netsuite.com
+store.fastly.steamstatic.com
 store.steampowered.com
 styles.finanzen.net.edgekey.net
 t1.daumcdn.net
@@ -337,6 +345,7 @@ ttcache.com
 turnip.cdn.turner.com
 twemoji.maxcdn.com
 u.jimcdn.com
+umap.openstreetmap.fr
 usher.ttvnw.net
 v2.mediax.faz.net.edgekey.net
 video-api.shdsvc.dowjones.io
@@ -345,6 +354,7 @@ vip0x08e.ssl.rncdn5.com
 vptpsn.com
 wac.edgecastcdn.net
 web-cdn.jitsi.net
+wildcard.change.org.cdn.cloudflare.net
 wildcard.nbcnews.com.edgekey.net
 wow.zamimg.com
 ww1.wdr.de
