@@ -45,6 +45,7 @@ assets.static-bahn.de
 assets.static-chmedia.ch
 assets.steadyhq.com
 assets.ubuntu.com
+assets.volkswagen.com
 assets.website-files.com
 assets.zorincdn.com
 at.staticfiles.at
@@ -126,6 +127,7 @@ facebook.com
 fahrplaner.vbn.de
 fdn.gsmarena.com.cdn.cloudflare.net
 fdn2.gsmarena.com.cdn.cloudflare.net
+feature-services.vwonehub.io
 feeds2.feedburner.com
 fonts.bunny.net
 forum-uploads.privacyguidesusercontent.com
@@ -150,6 +152,7 @@ i.redd.it
 i.scdn.co
 i1.daumcdn.net
 i1.sndcdn.com
+i8.amplience.net
 ichef.bbc.co.uk.edgekey.net
 ichef.bbci.co.uk
 ichef.bbci.co.uk.edgekey.net
@@ -187,6 +190,7 @@ login.msa.msidentity.com
 login.mso.msidentity.com
 m.files.bbci.co.uk.edgekey.net
 manifest.prod.boltdns.net
+media-cldnry.s-nbcnews.com.edgekey.net
 media-video.chip.de.edgekey.net
 media.blubrry.com
 media.cdn.sapphiretech.com.cn
@@ -216,6 +220,7 @@ menu-static.gog-statics.com
 miro.medium.com
 mosaic01.ztat.net
 mosaic02.ztat.net
+my.dhlecommerce.nl
 nasa-smd.go-vip.net
 nav.files.bbci.co.uk.edgekey.net
 neveragain.allstatics.com
@@ -224,6 +229,7 @@ npr.brightspotcdn.com
 nstatic.dcinside.com.cdnga.net
 nvdst.com
 nxedge.io
+one.o9.de
 open.scdn.co
 open.spotifycdn.com
 p16-sign-sg.tiktokcdn.com
@@ -348,6 +354,8 @@ talon-service-prod.ecosec.on.epicgames.com.cdn.cloudflare.net
 tb-lb.sb-cd.com
 thumb-lvlt.xhcdn.com
 tile.openstreetmap.org
+tiles-storage.venus.bayern
+tiles.venus.bayern
 tistory1.daumcdn.net
 ttcache.com
 turnip.cdn.turner.com
@@ -362,6 +370,7 @@ vip0x08e.ssl.rncdn5.com
 vptpsn.com
 wac.edgecastcdn.net
 web-cdn.jitsi.net
+widget.gleamjs.io
 wildcard.change.org.cdn.cloudflare.net
 wildcard.nbcnews.com.edgekey.net
 wow.zamimg.com
