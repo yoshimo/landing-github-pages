@@ -1,3 +1,5 @@
+*.blocka.net
+*.blokada.org
 149366088.v2.pressablecdn.com
 3p.ampproject.net
 50992.edgekey.net
@@ -55,8 +57,6 @@ b.tile.openstreetmap.fr
 base.maps.api.here.com.edgekey.net
 base.maps.ls.hereapi.com
 bilder.deutschlandfunk.de.edgekey.net
-*.blocka.net
-*.blokada.org
 bloximages.newyork1.vip.townnews.com
 builds.crazygames.com
 builds.mlbstatic.com
@@ -119,6 +119,7 @@ e-cdn-files.dzcdn.net
 e5hougg55fx.exactdn.com
 edge.gycpi.b.yahoodns.net
 ei.phncdn.com.sds.rncdn7.com
+embed.acast.com
 emp.bbci.co.uk.edgekey.net
 esx.bigo.sg
 exporte.wdr.de.v1.edgekey.net
@@ -128,6 +129,7 @@ fahrplaner.vbn.de
 fdn.gsmarena.com.cdn.cloudflare.net
 fdn2.gsmarena.com.cdn.cloudflare.net
 feature-services.vwonehub.io
+feeder.acast.com
 feeds2.feedburner.com
 fonts.bunny.net
 forum-uploads.privacyguidesusercontent.com
@@ -146,6 +148,7 @@ heise.cloudimg.io
 hips.hearstapps.com
 i.computer-bild.de
 i.ebayimg.com
+i.etsystatic.com
 i.gyazo.com
 i.postimg.cc
 i.redd.it
@@ -223,6 +226,7 @@ mosaic02.ztat.net
 my.dhlecommerce.nl
 nasa-smd.go-vip.net
 nav.files.bbci.co.uk.edgekey.net
+nether.wowhead.com
 neveragain.allstatics.com
 newassets.hcaptcha.com
 npr.brightspotcdn.com
@@ -247,6 +251,7 @@ playerservice.cdn.tv1.eu
 preview.redd.it
 products.delight-vr.com
 programm.ard.de
+public-ubiservices.ubi.com
 public.onlyfans.com
 qsbr.cf2.quoracdn.net.cdn.cloudflare.net
 r.bing.com
@@ -348,6 +353,7 @@ store.evehome.com.hosting.netsuite.com
 store.fastly.steamstatic.com
 store.steampowered.com
 stream.mux.com
+style-cdn.ravelrycache.com
 styles.finanzen.net.edgekey.net
 t1.daumcdn.net
 talon-service-prod.ecosec.on.epicgames.com.cdn.cloudflare.net
