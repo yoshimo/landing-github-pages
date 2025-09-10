@@ -1,7 +1,7 @@
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
 # More info at https://go.blokada.org/exodusprivacy
-# Generated at 2025-08-26 09:47:05.983311
+# Generated at 2025-09-10 08:31:37.937216
 # Made by Blokada
 
 databerries.com
