@@ -1,14 +1,14 @@
-# 
-# Phishing Army | The Blocklist to filter Phishing 
-# 
+#
+# Phishing Army | The Blocklist to filter Phishing
+#
 # Last Update: Wed, 10 Sep 2025 16:00:06 UTC
-# 
+#
 # This is the extended version, also contains domains without subdomains.
-# 
-# Project website: https://phishing.army 
-# Support the project with a donation:: https://www.buymeacoffee.com/andreadraghetti 
-# 
-# This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
+#
+# Project website: https://phishing.army
+# Support the project with a donation:: https://www.buymeacoffee.com/andreadraghetti
+#
+# This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 # ======================================================================================================
 
 0-1-x.06215785.xyz
@@ -69456,7 +69456,6 @@ mexoroi.com
 mexudo-cunigi.site
 meye.nuvixos.com
 meyemuz.live
-mez.ink
 mezcalgoldrush.com
 mezcalhotel.com
 mezcalpreneur.com
@@ -123225,7 +123224,6 @@ vkdlgfjnzbh.info
 vkewrolkde.top
 vkfplbwhctk.net
 vko.wextro.top
-vkontakte.ru
 vl0ndr46196.top
 vl3t9n.cfd
 vladcazan.com

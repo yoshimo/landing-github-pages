@@ -18,7 +18,7 @@
 #
 # --------------------------------------------
 # G O O D B Y E A D S  B E G I N S
-# --------------------------------------------   
+# --------------------------------------------
 0.0.0.0 0.fls.doubleclick.net
 0.0.0.0 00.video-ak.cdn.spotify.com
 0.0.0.0 000.fls.doubleclick.net
@@ -466,7 +466,6 @@
 0.0.0.0 ad.br.doubleclick.net
 0.0.0.0 ad.de.doubleclick.net
 0.0.0.0 ad.dk.doubleclick.net
-0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.es.doubleclick.net
 0.0.0.0 ad.fi.doubleclick.net
 0.0.0.0 ad.fr.doubleclick.net
@@ -495,7 +494,6 @@
 0.0.0.0 adgen.spotify.com
 0.0.0.0 adgrx.moatads.com
 0.0.0.0 adjust-callback.spotify.com
-0.0.0.0 adjust.com
 0.0.0.0 admetrix.comscore.com
 0.0.0.0 admob.biz
 0.0.0.0 admob.co.kr
@@ -558,7 +556,6 @@
 0.0.0.0 adstudio-assets.scdn.co
 0.0.0.0 adstudio.spotify.com
 0.0.0.0 advertisers.l.doubleclick.net
-0.0.0.0 advertising.com
 0.0.0.0 ae.video-ak.cdn.spotify.com
 0.0.0.0 af.video-ak.cdn.spotify.com
 0.0.0.0 afconsult.com
@@ -598,7 +595,6 @@
 0.0.0.0 analytics-classic.spotify.com
 0.0.0.0 analytics-preview.spotify.com
 0.0.0.0 analytics.admob.com
-0.0.0.0 analytics.google.com
 0.0.0.0 analytics.spotify.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
 0.0.0.0 ap.spotify.com
@@ -614,7 +610,6 @@
 0.0.0.0 api.wac.4867.edgecastcdn.net
 0.0.0.0 api.zwizzarmyknife.com
 0.0.0.0 apiskywebbercom-a.akamaihd.net
-0.0.0.0 app.adjust.com
 0.0.0.0 app1.ams.0212.edgecastcdn.net
 0.0.0.0 app1.ams.0de9.edgecastcdn.net
 0.0.0.0 app1.cdg.04f1.edgecastcdn.net
@@ -843,7 +838,6 @@
 0.0.0.0 audio-ak.spotify.com
 0.0.0.0 audio-ak.spotify.com.edgesuite.net
 0.0.0.0 audio-ak.spotify.com.eip.akadns.net
-0.0.0.0 audio-ake.spotify.com.edgesuite.net
 0.0.0.0 audio-akp-bbr-spotify-com.akamaized.net
 0.0.0.0 audio-akp-quic-control-spotify-com.akamaized.net
 0.0.0.0 audio-akp-spotify-com.akamaized.net
@@ -1086,7 +1080,6 @@
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 cdn.greenhousegroup.com
-0.0.0.0 cdn.ravenjs.com
 0.0.0.0 cdn.wac.0b12.edgecastcdn.net
 0.0.0.0 cdn.wac.14c4.edgecastcdn.net
 0.0.0.0 cdn.wac.9972.edgecastcdn.net
@@ -1120,7 +1113,6 @@
 0.0.0.0 comscorenetworks.net
 0.0.0.0 configuration.ma.tune.com
 0.0.0.0 content.bitsontherun.com
-0.0.0.0 content.invisioncic.com
 0.0.0.0 contentcache-a.akamaihd.net
 0.0.0.0 contentclick.akamaized.net
 0.0.0.0 core.insightexpressai.com
@@ -1141,7 +1133,6 @@
 0.0.0.0 crashdump.ciqe-gslb.spotify.com
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 crashlytics.163.com
-0.0.0.0 crashlytics.com
 0.0.0.0 crashlytics.twimg.com
 0.0.0.0 crayfishpolicy.edgecastcdn.net
 0.0.0.0 crayfishpolicydev.edgecastcdn.net
@@ -1262,7 +1253,6 @@
 0.0.0.0 domains.googlesyndication.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
-0.0.0.0 doubleclick.net
 0.0.0.0 dq1dnt4af4eyy.cloudfront.net
 0.0.0.0 drpcxl6pg3tfr.cloudfront.net
 0.0.0.0 ds.serving-sys.com
@@ -1798,11 +1788,8 @@
 0.0.0.0 gew1-accesspoint-b-zg10.ap.spotify.com
 0.0.0.0 gnmcuaacaakmol2pahcs6t6saqaaaxilqdanemmjxrjasaaaahj6dya3aaaaa7y.b77xacaawaajqbvhcmj4xxlnohivrgm2ur2d4k2jpejuxcbi.a.j.e5.sk
 0.0.0.0 go.scdn.co
-0.0.0.0 google-analytics.com
-0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 gtssl2-ocsp.geotrust.com
 0.0.0.0 gw.admob.com
@@ -1848,10 +1835,8 @@
 0.0.0.0 img.ads4.mocean.mobi
 0.0.0.0 img.ads4.mojiva.com
 0.0.0.0 imqvs2qippm65n6g2qtyyqimyeggervnt64cyzl2x2fduo6g.tb6aoen5rgxsd3vrsm5x6257pe43ez5jpbpqs7mnhfd2gwpm.6p43cx5jyukului62krjkjbuw27drk43s2wizh2rqbzqnoix.rr4lyf2ny4j5pit663giazaneive3wnxoi67oietaezfarxq.nvkux5go6wfzevmi.er.spo.spotify.com
-0.0.0.0 intercom.io
 0.0.0.0 internal.akadns.net
 0.0.0.0 internal.intercom.io
-0.0.0.0 ipinfo.io
 0.0.0.0 iv.doubleclick.net
 0.0.0.0 j.admob.com
 0.0.0.0 jethrodata.qlik.com
@@ -1870,10 +1855,8 @@
 0.0.0.0 lb1-217593028.us-east-1.elb.amazonaws.com
 0.0.0.0 leadvisualdesigner.intercom.io
 0.0.0.0 leopolda.lon2.spotify.com
-0.0.0.0 links.iterable.com
 0.0.0.0 links.spotify.com
 0.0.0.0 linsey.lon2.spotify.com
-0.0.0.0 live.adyen.com
 0.0.0.0 ln.doubleclick.net
 0.0.0.0 log.spotify.com
 0.0.0.0 log2.spotify.com
@@ -2359,7 +2342,6 @@
 0.0.0.0 metrics.admob.com
 0.0.0.0 mil04s27-in-f131.1e100.net
 0.0.0.0 mil04s27-in-f142.1e100.net
-0.0.0.0 mixpanel.com
 0.0.0.0 mkt.tune.com
 0.0.0.0 mm.admob.com
 0.0.0.0 mm1.vip.sc1.admob.com
@@ -2471,8 +2453,6 @@
 0.0.0.0 p.admob.com
 0.0.0.0 p1.vip.sc9.admob.com
 0.0.0.0 pagead-googlehosted.l.google.com
-0.0.0.0 pagead.l.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead46.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 paix1.sc1.admob.com
@@ -3183,7 +3163,6 @@
 0.0.0.0 s.moatads.com
 0.0.0.0 s.update.moatads.com
 0.0.0.0 s0-2mdn-net.l.google.com
-0.0.0.0 s0.2mdn.net
 0.0.0.0 s0qa.2mdn.net
 0.0.0.0 s1.2mdn.net
 0.0.0.0 s2.2mdn.net
@@ -3273,7 +3252,6 @@
 0.0.0.0 tps-geo.dvgtm.akadns.net
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 track-eu.adformnet.akadns.net
-0.0.0.0 track.adform.net
 0.0.0.0 track.leanlab.co
 0.0.0.0 tracking.admobsphere.com
 0.0.0.0 tribpubdfp745347008913.s.moatpixel.com
@@ -3291,8 +3269,6 @@
 0.0.0.0 ulink.adjust.com
 0.0.0.0 update.moatads.com
 0.0.0.0 updates.tune.com
-0.0.0.0 upgrade.scdn.co
-0.0.0.0 upgrade.scdn.com
 0.0.0.0 upgrade.spotify.com
 0.0.0.0 upsell.scdn.co
 0.0.0.0 upv4.moatads.com
@@ -3491,7 +3467,6 @@
 0.0.0.0 wac.cf62.edgecastcdn.net
 0.0.0.0 wac.ebd2.edgecastcdn.net
 0.0.0.0 wac.ec13.edgecastcdn.net
-0.0.0.0 wac.edgecastcdn.net
 0.0.0.0 wac.ee35.edgecastcdn.net
 0.0.0.0 wac.f9b3.edgecastcdn.net
 0.0.0.0 wac.fa83.edgecastcdn.net
@@ -3762,7 +3737,6 @@
 0.0.0.0 www.comscore.com
 0.0.0.0 www.cp.tune.com
 0.0.0.0 www.dev.spotify.pinterest.adtz.com
-0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.intercom.io
 0.0.0.0 www.mixpanel.com

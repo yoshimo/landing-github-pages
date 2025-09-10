@@ -111,7 +111,6 @@
 0.0.0.0 bet2earn.net
 0.0.0.0 bet3000.com
 0.0.0.0 bet33.com
-0.0.0.0 bet365.com
 0.0.0.0 bet7days.com
 0.0.0.0 bet90.com
 0.0.0.0 bet9ja.com
@@ -151,7 +150,6 @@
 0.0.0.0 betepic.com
 0.0.0.0 betextratime.com
 0.0.0.0 betezy.com.au
-0.0.0.0 betfair.com
 0.0.0.0 betfair.com.au
 0.0.0.0 betfan.pl
 0.0.0.0 betfinal.com
@@ -876,7 +874,6 @@
 0.0.0.0 lutrija.hr
 0.0.0.0 lutrija.rs
 0.0.0.0 luxbet.com
-0.0.0.0 lvbet.pl
 0.0.0.0 m.boylesports.com
 0.0.0.0 m.jetbull.com
 0.0.0.0 m.klik4d.com
@@ -1045,8 +1042,6 @@
 0.0.0.0 pasarbola.com
 0.0.0.0 pelaa.com
 0.0.0.0 pikakasino.com
-0.0.0.0 pinnacle.com
-0.0.0.0 pinnaclesports.com
 0.0.0.0 piratespin.com
 0.0.0.0 planetofbets.com
 0.0.0.0 planetwin365.com
@@ -1502,7 +1497,6 @@
 0.0.0.0 www.bet2win.ag
 0.0.0.0 www.bet3000.com
 0.0.0.0 www.bet33.com
-0.0.0.0 www.bet365.com
 0.0.0.0 www.bet7days.com
 0.0.0.0 www.bet90.com
 0.0.0.0 www.betadonis55.com

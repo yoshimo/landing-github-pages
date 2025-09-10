@@ -3,7 +3,6 @@
 360.yahoo.com
 43things.com
 9rules.com
-academia.edu
 acelerame.com
 acitizen.net
 addthis.com
@@ -11,7 +10,6 @@ advogato.org
 agentb.com
 albicla.com
 allmyfavorites.net
-allrecipes.com
 amiglia.com
 amina.com
 anobii.com
@@ -61,7 +59,6 @@ box.net
 broadcaster.com
 buddymarks.com
 busuu.com
-buymeacoffee.com
 buzzflash.net
 buzznet.com
 cafemom.com
@@ -71,7 +68,6 @@ care2.com
 carmun.com
 carnivalofpolitics.com
 catster.com
-cdninstagram.com
 cellufun.com
 changetolink.com
 chemistry.com
@@ -116,21 +112,15 @@ de.lirio.us
 dealcomet.com
 dealigg.com
 del.icio.us
-delicious.com
 designbump.com
 designfloat.com
 designrelated.com
 developersniche.com
-deviantart.com
-digg.com
 digglicious.com
 digstock.com
 diigo.com
 disaboom.com
-discord.com
-discord.gg
 discordapp.com
-disqus.com
 disqussearch.com
 dnhour.com
 dogster.com
@@ -164,10 +154,8 @@ everytrail.com
 experienceproject.com
 exploroo.com
 facebook.cn
-facebook.com
 facebook.com.br
 facebook.fr
-facebook.net
 facebook.ro
 faceparty.com
 faces.com
@@ -186,8 +174,6 @@ faves.com
 favorites.live.com
 favoritoo.com
 fazed.org
-fb.com
-fbcdn.net
 feecle.jp
 feedmarker.com
 fetlife.com
@@ -197,14 +183,12 @@ filmcrave.com
 filmow.com
 fledgewing.com
 flick.im
-flickr.com
 flirtomatic.com
 flixster.com
 fohboh.com
 fotka.com
 fotki.com
 fotolog.com
-foursquare.com
 foxmarks.com
 frazr.com
 freagle.com.au
@@ -237,12 +221,10 @@ globalvoicesonline.org
 gogoyoko.com
 golark.com
 goldenline.pl
-goodreads.com
 goodwizz.com
 gooruze.com
 gospelshout.com
 graduates.com
-gravatar.com
 greatschools.net
 greekstrength.com
 grono.net
@@ -311,7 +293,6 @@ imeem.com
 indabamusic.com
 indianpad.com
 instagram-press.com
-instagram.com
 iq.lycos.co.uk
 irc-galleria.net
 italki.com
@@ -320,7 +301,6 @@ jackofalllinks.com
 jaiku.com
 jambo.net
 jamnow.com
-jango.com
 jasezone.com
 jeteye.com
 joga.com
@@ -336,7 +316,6 @@ kitchenbug.com
 kiwibox.com
 komoo.cn
 konnects.com
-koyu.space
 lafango.com
 lagbook.com
 last.fm
@@ -346,7 +325,6 @@ lifeknot.com
 lilisto.com
 linkagogo.com
 linkatopia.com
-linkedin.com
 linkedin.com.br
 linkedin.fr
 linkfilter.net
@@ -357,7 +335,6 @@ listible.com
 listmixer.com
 listography.com
 livecounts.org
-livejournal.com
 livemocha.com
 loopt.com
 loveandfriends.com
@@ -374,7 +351,6 @@ mbuzzy.com
 meetin.org
 meetme.com
 meettheboss.tv
-meetup.com
 meinvz.net
 metrofriendly.com
 mewe.com
@@ -396,7 +372,6 @@ movmnt.net
 moxie-moms.com
 mubi.com
 multiply.com
-musical.ly
 my.opera.com
 myartinfo.com
 mybookmarks.com
@@ -416,7 +391,6 @@ mymfb.com
 mypharmanote.com
 mypip.com
 myshutterspace.com
-myspace.com
 myvmarks.com
 mywebprofile.com
 myyearbook.com
@@ -439,7 +413,6 @@ noc.social
 nowpublic.com
 numpa.nl
 odnoklassniki.ru
-ok.ru
 okcupid.com
 one.revver.com
 oneclimate.net
@@ -463,7 +436,6 @@ peacefmonline.com
 peeks.com
 petside.com
 petzume.com
-photobucket.com
 photography-network.net
 photographymentor.com
 photographyvoter.com
@@ -474,7 +446,6 @@ piczo.com
 pikapet.com
 pingsta.com
 pinimg.com
-pinterest.com
 pixelgroovy.com
 plantchange.com
 plaxo.com
@@ -487,7 +458,6 @@ plurk.com
 plus.google.com
 plusone.google.com
 pnn.com
-po.st
 polfejs.net
 pownce.com
 prepchamps.com
@@ -511,7 +481,6 @@ recipekey.com
 recipezaar.com
 recruiting.com
 red-note.co
-reddit.com
 reddnote.com
 rednote.bio
 rednote.club
@@ -522,7 +491,6 @@ rednoteapp.org
 rednotee.com
 reelempire.com
 renren.com
-researchgate.net
 reunion.com
 reverbnation.com
 robisz.pl
@@ -561,7 +529,6 @@ socializr.com
 sociallife.com.br
 socialvibe.com
 sonico.com
-soundcloud.com
 soundpedia.com
 speeddate.com
 sphinn.com
@@ -582,7 +549,6 @@ student.com
 studentscircle.net
 studivz.net
 stufflinker.com
-stumbleupon.com
 stylecaster.com
 stylehive.com
 stylehop.com
@@ -631,7 +597,6 @@ trekcafe.com
 tribe.net
 tribel.com
 trig.com
-tripadvisor.com
 tripup.com
 trombi.com
 truemors.com
@@ -642,11 +607,9 @@ turboclip.com
 tv.oneworld.net
 tweako.com
 twikeo.com
-twitter.com
 uniteddogs.com
 upspring.com
 us.cyworld.com
-userapi.com
 ustrendy.com
 valueinvestingnews.com
 vampirefreaks.com
@@ -658,9 +621,7 @@ videobomb.com
 videosift.com
 vimby.com
 virb.com
-vk.com
 vk.ru
-vkontakte.ru
 walkertracker.com
 wamba.com
 wattpad.com
@@ -670,7 +631,6 @@ wedigsports.com
 weeatt.com
 weeworld.com
 wegame.com
-weibo.com
 wellwer.com
 weourfamily.com
 wepolls.com
@@ -697,9 +657,7 @@ xanga.com
 xianz.com
 xiaohongshu.com
 xilliantv.com
-xing.com
 yammer.com
-yelp.com
 yigg.de
 yub.com
 zaadz.com

@@ -18,7 +18,6 @@
 0.0.0.0 0-157-99-m.lite.facebook.com
 0.0.0.0 0-edge-chat-latest.facebook.com
 0.0.0.0 0-edge-chat-latest.messenger.com
-0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 0-edge-chat.messenger.com
 0.0.0.0 0.beta.facebook.com
 0.0.0.0 0.facebook.com
@@ -28,7 +27,6 @@
 0.0.0.0 0bmvipuk9etado5gl3wrqhs167nxyc2fz4j8.fbsbx.com
 0.0.0.0 0ieyqj2t57f4lbrvgzxdnph3caswmu9k816o.fb.me
 0.0.0.0 1-edege-chat.messenger.com
-0.0.0.0 1-edge-chat.facebook.com
 0.0.0.0 1-edge-chat.messenger.com
 0.0.0.0 1.beta.facebook.com
 0.0.0.0 1.fb.me
@@ -43,7 +41,6 @@
 0.0.0.0 1v4nxmk.dns.facebook.com
 0.0.0.0 1ynsm7483ffp2lc5j5rs4bu13mm.facebookbrand-dev.fb.com
 0.0.0.0 2-edge-chat-latest.messenger.com
-0.0.0.0 2-edge-chat.facebook.com
 0.0.0.0 2-edge-chat.messenger.com
 0.0.0.0 2.2018.1513w27uc.dns.facebook.com
 0.0.0.0 2.20157.240.18.152055qnll.dns.facebook.com
@@ -61,7 +58,6 @@
 0.0.0.0 2o-9s1id.zh-hk.vi-vn.lite.facebook.com
 0.0.0.0 3-edge-chat-latest.facebook.com
 0.0.0.0 3-edge-chat-latest.messenger.com
-0.0.0.0 3-edge-chat.facebook.com
 0.0.0.0 3-edge-chat.messenger.com
 0.0.0.0 3.fb.me
 0.0.0.0 3.fbsbx.com
@@ -70,19 +66,16 @@
 0.0.0.0 3dmodel.secure.beta.facebook.com
 0.0.0.0 4-edge-chat-latest.facebook.com
 0.0.0.0 4-edge-chat-latest.messenger.com
-0.0.0.0 4-edge-chat.facebook.com
 0.0.0.0 4-edge-chat.messenger.com
 0.0.0.0 4g.fb.me
 0.0.0.0 4urwgge7.dns.facebook.com
 0.0.0.0 5-edge-chat-latest.facebook.com
 0.0.0.0 5-edge-chat-latest.messenger.com
-0.0.0.0 5-edge-chat.facebook.com
 0.0.0.0 5-edge-chat.messenger.com
 0.0.0.0 5bl0t1.dns.facebook.com
 0.0.0.0 5o78-6d3wl.pl-pl.tr-tr.prod.facebook.com
 0.0.0.0 5uk2lse7.dns.facebook.com
 0.0.0.0 5www.fbjs.facebook.com
-0.0.0.0 6-edge-chat.facebook.com
 0.0.0.0 6-edge-chat.messenger.com
 0.0.0.0 6di6rbwf.dns.facebook.com
 0.0.0.0 7.fbjs.facebook.com
@@ -626,11 +619,9 @@
 0.0.0.0 api.13.oculusvr.com
 0.0.0.0 api.alpha.facebook.com
 0.0.0.0 api.beta.facebook.com
-0.0.0.0 api.facebook.com
 0.0.0.0 api.fb.com
 0.0.0.0 api.fb.messenger.com
 0.0.0.0 api.fbcdn.com
-0.0.0.0 api.giphy.com
 0.0.0.0 api.google.fb.messenger.com
 0.0.0.0 api.instagram.com
 0.0.0.0 api.new.facebook.com
@@ -1042,7 +1033,6 @@
 0.0.0.0 apps.ar.ar.lite.facebook.com
 0.0.0.0 apps.beta.facebook.com
 0.0.0.0 apps.cstools.facebook.com
-0.0.0.0 apps.facebook.com
 0.0.0.0 apps.fbjs.facebook.com
 0.0.0.0 apps.fbsbx.com
 0.0.0.0 apps.hide.lite.facebook.com
@@ -1556,13 +1546,10 @@
 0.0.0.0 b2gether.facebook.com
 0.0.0.0 b-api.alpha.facebook.com
 0.0.0.0 b-api.beta.facebook.com
-0.0.0.0 b-api.facebook.com
 0.0.0.0 b-api.fb.me
 0.0.0.0 b-graph.alpha.facebook.com
 0.0.0.0 b-graph.beta.facebook.com
-0.0.0.0 b-graph.facebook.com
 0.0.0.0 b-m.facebook.com
-0.0.0.0 b-www.facebook.com
 0.0.0.0 b.beta.facebook.net
 0.0.0.0 b.fb.me
 0.0.0.0 b.i.instagram.com
@@ -2005,10 +1992,8 @@
 0.0.0.0 cdn2.giphy.com
 0.0.0.0 cdn4.giphy.com
 0.0.0.0 cdn-qa.giphy.com
-0.0.0.0 cdn.fbsbx.com
 0.0.0.0 cdn.giphy.com
 0.0.0.0 cdn.whatsapp.net
-0.0.0.0 cdninstagram.com
 0.0.0.0 cdp.fb.com
 0.0.0.0 cekvirus.staging.scgraph.facebook.com
 0.0.0.0 celcom.fb.me
@@ -2029,8 +2014,6 @@
 0.0.0.0 chat.cdn.whatsapp.net
 0.0.0.0 chat.messenger.com
 0.0.0.0 chat.whatsapp.com
-0.0.0.0 check4.facebook.com
-0.0.0.0 check6.facebook.com
 0.0.0.0 chevron.facebook.com
 0.0.0.0 chicago.m.beta.facebook.com
 0.0.0.0 chooseyourmask.fb.me
@@ -2101,7 +2084,6 @@
 0.0.0.0 conference.m.beta.facebook.com
 0.0.0.0 connect.beta.facebook.net
 0.0.0.0 connect.facebook.com
-0.0.0.0 connect.facebook.net
 0.0.0.0 connect.facebook.net.edgekey.net
 0.0.0.0 connect.lite.facebook.com
 0.0.0.0 connectivity.fb.com
@@ -2293,7 +2275,6 @@
 0.0.0.0 cspire.facebook.com
 0.0.0.0 css.fb.com
 0.0.0.0 cstools.facebook.com
-0.0.0.0 ct-m-fbx.fbsbx.com
 0.0.0.0 ctscan.facebook.com
 0.0.0.0 cuarentena.beta.facebook.com
 0.0.0.0 cuarentena.scgraph.facebook.com
@@ -3137,8 +3118,6 @@
 0.0.0.0 edge-cg-rtc-shv-01-qro1.facebook.com
 0.0.0.0 edge-cg-rtc-shv-02-kut2pt-br.fbjs.facebook.com
 0.0.0.0 edge-chat-latest.messenger.com
-0.0.0.0 edge-chat.facebook.com
-0.0.0.0 edge-chat.instagram.com
 0.0.0.0 edge-chat.messenger.com
 0.0.0.0 edge-chat.p.facebook.com
 0.0.0.0 edge-chat.z.facebook.com
@@ -3322,7 +3301,6 @@
 0.0.0.0 edge-mqtt-shv-13-frc1.facebook.com
 0.0.0.0 edge-mqtt-shv-17-prn1.facebook.com
 0.0.0.0 edge-mqtt-shv-18-prn1.facebook.com
-0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 edge-msgr-latest-shv-01-kut2.facebook.com
 0.0.0.0 edge-msgr-latest-shv-01-lax3.facebook.com
 0.0.0.0 edge-msgr-latest-shv-02-hkg4.facebook.com
@@ -4267,7 +4245,6 @@
 0.0.0.0 epsilontel.facebook.com
 0.0.0.0 eqcoivd.fb.me
 0.0.0.0 eris.oculusvr.com
-0.0.0.0 error.facebook.com
 0.0.0.0 error.id-id.m.fb.me
 0.0.0.0 error.intern.facebook.com
 0.0.0.0 error.lt-lt.m.fb.me
@@ -5097,7 +5074,6 @@
 0.0.0.0 external-lax3-2.xx.fbcdn.net
 0.0.0.0 external-lga3-1.xx.fbcdn.net
 0.0.0.0 external-lga3-2.xx.fbcdn.net
-0.0.0.0 external-lhr8-1.xx.fbcdn.net
 0.0.0.0 external-lht6-1.xx.fbcdn.net
 0.0.0.0 external-lis1-1.xx.fbcdn.net
 0.0.0.0 external-los2-1.xx.fbcdn.net
@@ -5416,7 +5392,6 @@
 0.0.0.0 external.fzag3-1.fna.fbcdn.net
 0.0.0.0 external.fzrh1-1.fna.fbcdn.net
 0.0.0.0 external.fzrh3-1.fna.fbcdn.net
-0.0.0.0 external.xx.fbcdn.net
 0.0.0.0 ezautoutodiscover.oculusvr.com
 0.0.0.0 f0a3cbf7580-dcbcbsdz1605727367-sonar.xz.fbcdn.net
 0.0.0.0 f0a441e2380-vxptyuok1599679398-sonar.xz.fbcdn.net
@@ -6347,7 +6322,6 @@
 0.0.0.0 facebook360.fb.com
 0.0.0.0 facebook-research.facebookmail.com
 0.0.0.0 facebook-web-clients.appspot.com
-0.0.0.0 facebook.com
 0.0.0.0 facebook.com.edgekey.net
 0.0.0.0 facebook.com.edgesuite.net
 0.0.0.0 facebook.de
@@ -6355,7 +6329,6 @@
 0.0.0.0 facebook.facebook.com
 0.0.0.0 facebook.fr
 0.0.0.0 facebook.messenger.com
-0.0.0.0 facebook.net
 0.0.0.0 facebookbrand-2018-dev.fb.com
 0.0.0.0 facebookbrand-2018-preprod.fb.com
 0.0.0.0 facebookbrand-2018-release.fb.com
@@ -6490,7 +6463,6 @@
 0.0.0.0 fb.alpha.messenger.com
 0.0.0.0 fb.beta.facebook.com
 0.0.0.0 fb.beta.messenger.com
-0.0.0.0 fb.com
 0.0.0.0 fb.facebook.com
 0.0.0.0 fb.internmc.facebook.com
 0.0.0.0 fb.m.alpha.facebook.com
@@ -6498,7 +6470,6 @@
 0.0.0.0 fb.m.beta.facebook.com
 0.0.0.0 fb.m.beta.messenger.com
 0.0.0.0 fb.m.facebook.com
-0.0.0.0 fb.me
 0.0.0.0 fb.me.g.co.4g.fb.me
 0.0.0.0 fb.messenger.com
 0.0.0.0 fba7f70bc80-onpnuwyo1581604734-sonar.xz.fbcdn.net
@@ -6520,10 +6491,8 @@
 0.0.0.0 fbcb9d0b380-kzdnngfl1581599608-sonar.xz.fbcdn.net
 0.0.0.0 fbcbc8e9680-pbchotmc1608992986-sonar.xz.fbcdn.net
 0.0.0.0 fbcdn-cachefill-shv-01-arn2.fbcdn.net
-0.0.0.0 fbcdn-creative-a.akamaihd.net
 0.0.0.0 fbcdn-photos-a.akamaihd.net
 0.0.0.0 fbcdn-photos-e-a.akamaihd.net
-0.0.0.0 fbcdn-profile-a.akamaihd.net
 0.0.0.0 fbcdn-sphotos-a-a.akamaihd.net
 0.0.0.0 fbcdn-sphotos-a.akamaihd.net
 0.0.0.0 fbcdn-sphotos-b-a.akamaihd.net
@@ -6552,7 +6521,6 @@
 0.0.0.0 fbcdn-vthumb-a.akamaihd.net
 0.0.0.0 fbcdn.com
 0.0.0.0 fbcdn.fb.me
-0.0.0.0 fbcdn.net
 0.0.0.0 fbcec35f380-xkgtnwcp1587264617-sonar.xz.fbcdn.net
 0.0.0.0 fbcf5e1fe80-epjhhqcs1608683606-sonar.xz.fbcdn.net
 0.0.0.0 fbcf805c880-tdbelfdg1608691287-sonar.xz.fbcdn.net
@@ -7696,7 +7664,6 @@
 0.0.0.0 frc-fsoutpost.fb.com
 0.0.0.0 frc-vsp.fb.com
 0.0.0.0 free.beta.facebook.com
-0.0.0.0 free.facebook.com
 0.0.0.0 free.fb.com
 0.0.0.0 free.freebasics.com
 0.0.0.0 free.internet.org
@@ -7800,7 +7767,6 @@
 0.0.0.0 giftofgiving.fb.com
 0.0.0.0 gingerhotels.m.facebook.com
 0.0.0.0 giphy-analytics.giphy.com
-0.0.0.0 giphy.com
 0.0.0.0 giphy.fb.me
 0.0.0.0 giphy.map.fastly.net
 0.0.0.0 giphy_analytics.giphy.com
@@ -7889,10 +7855,8 @@
 0.0.0.0 graph.alpha.facebook.com
 0.0.0.0 graph.beta.facebook.com
 0.0.0.0 graph.cinyour.facebook.com
-0.0.0.0 graph.facebook.com
 0.0.0.0 graph.fb.me
 0.0.0.0 graph.fbpigeon.com
-0.0.0.0 graph.instagram.com
 0.0.0.0 graph.messenger.com
 0.0.0.0 graph.oculus.com
 0.0.0.0 graph.prod.facebook.com
@@ -7959,8 +7923,6 @@
 0.0.0.0 gwqz42wjyil0m7gsfofjvb.fbjs.facebook.com
 0.0.0.0 gyron.facebook.com
 0.0.0.0 h-ct-m-fbx.fbsbx.com.online-metrix.net
-0.0.0.0 h.beta.facebook.com
-0.0.0.0 h.facebook.com
 0.0.0.0 h.fb.com
 0.0.0.0 h.fb.me
 0.0.0.0 ha3virus.cinyourrc.facebook.com
@@ -9025,8 +8987,6 @@
 0.0.0.0 instagram-shv-13-frc1.fbcdn.net
 0.0.0.0 instagram-shv-17-prn1.fbcdn.net
 0.0.0.0 instagram-shv-18-prn1.fbcdn.net
-0.0.0.0 instagram.c10r.facebook.com
-0.0.0.0 instagram.com
 0.0.0.0 instagram.faar2-1.fna.fbcdn.net
 0.0.0.0 instagram.fabb1-1.fna.fbcdn.net
 0.0.0.0 instagram.fabj1-1.fna.fbcdn.net
@@ -11472,7 +11432,6 @@
 0.0.0.0 ka-ge.zh.lite.facebook.com
 0.0.0.0 kailashbhalerao1.new.facebook.com
 0.0.0.0 kaios-d-test.facebook.com
-0.0.0.0 kaios-d.facebook.com
 0.0.0.0 kaios.whatsapp.net
 0.0.0.0 kaside.fbsbx.com
 0.0.0.0 kcb.facebook.com
@@ -11820,9 +11779,7 @@
 0.0.0.0 l.developers.prod.facebook.com
 0.0.0.0 l.es-es.es-la.prod.facebook.com
 0.0.0.0 l.es-la.zh-cn.fbjs.facebook.com
-0.0.0.0 l.facebook.com
 0.0.0.0 l.fbjs.facebook.com
-0.0.0.0 l.instagram.com
 0.0.0.0 l.intern.facebook.com
 0.0.0.0 l.messenger.com
 0.0.0.0 l.nb-no.id-id.prod.facebook.com
@@ -11883,7 +11840,6 @@
 0.0.0.0 letools.facebook.com
 0.0.0.0 liammaskell.messenger.com
 0.0.0.0 lifeedu-016.oculusvr.com
-0.0.0.0 limited-prod.giphy.map.fastly.net
 0.0.0.0 limited-sni-prod.giphy.map.fastly.net
 0.0.0.0 line-cdn.fb.me
 0.0.0.0 links.event.facebookmail.com
@@ -11893,7 +11849,6 @@
 0.0.0.0 lite.facebook.com
 0.0.0.0 lite.lite.beta.facebook.com
 0.0.0.0 lite.on.lite.facebook.com
-0.0.0.0 lithium.facebook.com
 0.0.0.0 live-6e1.oculusvr.com
 0.0.0.0 live-api-a.facebook.com
 0.0.0.0 live-api-s.facebook.com
@@ -11931,7 +11886,6 @@
 0.0.0.0 lju0ebyak5x92gsq8onzd1witpc3fh67r4mv.messenger.com
 0.0.0.0 llc.messenger.com
 0.0.0.0 lm.aap.lite.facebook.com
-0.0.0.0 lm.facebook.com
 0.0.0.0 lm.messenger.com
 0.0.0.0 lm.prod.facebook.com
 0.0.0.0 lms.live.oculusvr.com
@@ -11949,7 +11903,6 @@
 0.0.0.0 login.messenger.com
 0.0.0.0 lokaside.fbsbx.com
 0.0.0.0 lookasid.fbsbx.com
-0.0.0.0 lookaside.facebook.com
 0.0.0.0 lookaside.fbcdn.com
 0.0.0.0 lookaside.fbsbx.com
 0.0.0.0 lookaside.instagram.com
@@ -12119,7 +12072,6 @@
 0.0.0.0 m.es-la.it-it.ro-ro.fbjs.facebook.com
 0.0.0.0 m.es-la.latest.facebook.com
 0.0.0.0 m.fa-ir.developers.prod.facebook.com
-0.0.0.0 m.facebook.com
 0.0.0.0 m.facebook.messenger.com
 0.0.0.0 m.fb.me
 0.0.0.0 m.fb.messenger.com
@@ -13045,8 +12997,6 @@
 0.0.0.0 mn-mn.sq-al.is-is.fbjs.facebook.com
 0.0.0.0 mn.fb.me
 0.0.0.0 mns.messenger.com
-0.0.0.0 mobile.beta.facebook.com
-0.0.0.0 mobile.facebook.com
 0.0.0.0 mobile.facebook.messenger.com
 0.0.0.0 mobile.lite.facebook.com
 0.0.0.0 mobile.prod.facebook.com
@@ -13063,10 +13013,8 @@
 0.0.0.0 mqtt-ig-p4.facebook.com
 0.0.0.0 mqtt-latest.c10r.facebook.com
 0.0.0.0 mqtt-mini.c10r.facebook.com
-0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 mqtt-p4.c10r.facebook.com
 0.0.0.0 mqtt-p4.facebook.com
-0.0.0.0 mqtt.c10r.facebook.com
 0.0.0.0 mqtt.facebook.com
 0.0.0.0 mqtt.vvv.facebook.com
 0.0.0.0 mr-in.af-za.ro-ro.fbjs.facebook.com
@@ -13746,7 +13694,6 @@
 0.0.0.0 origincache-all.fbsbx.com
 0.0.0.0 origincache-ash.fbcdn.net
 0.0.0.0 origincache-ash.t.fbcdn.net
-0.0.0.0 origincache-atn.fbcdn.net
 0.0.0.0 origincache-atn.fbsbx.com
 0.0.0.0 origincache-frc.fbcdn.net
 0.0.0.0 origincache-frc.fbsbx.com
@@ -13886,7 +13833,6 @@
 0.0.0.0 pimg.fb.com
 0.0.0.0 pingback-dev.giphy.com
 0.0.0.0 pingback-staging.giphy.com
-0.0.0.0 pingback.giphy.com
 0.0.0.0 pixel5.fbjs.facebook.com
 0.0.0.0 pixel-brand.fbjs.facebook.com
 0.0.0.0 pixel-demo.fbjs.facebook.com
@@ -15032,7 +14978,6 @@
 0.0.0.0 rupload-tpe1-1.up.facebook.com
 0.0.0.0 rupload-waw.up.facebook.com
 0.0.0.0 rupload-xsp.up.facebook.com
-0.0.0.0 rupload.facebook.com
 0.0.0.0 rupload.p.facebook.com
 0.0.0.0 rupload.z.facebook.com
 0.0.0.0 rw-rw.af-za.ro-ro.fbjs.facebook.com
@@ -15055,7 +15000,6 @@
 0.0.0.0 rw-rw.www.www.lite.facebook.com
 0.0.0.0 s9ea2g2ww151gl-wyxmal88.zh-tw.prod.facebook.com
 0.0.0.0 s4363a.live.oculusvr.com
-0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 s-static.ak.facebook.com.edgekey.net
 0.0.0.0 s-static.beta.facebook.com
 0.0.0.0 s-static.cstools.facebook.com
@@ -15315,7 +15259,6 @@
 0.0.0.0 scontent-lga3-2.xx.fbcdn.net
 0.0.0.0 scontent-lga.cdninstagram.com
 0.0.0.0 scontent-lga.xx.fbcdn.net
-0.0.0.0 scontent-lhr3-1.xx.fbcdn.net
 0.0.0.0 scontent-lhr8-1.cdninstagram.com
 0.0.0.0 scontent-lhr8-1.xx.fbcdn.net
 0.0.0.0 scontent-lhr8-2.cdninstagram.com
@@ -15361,14 +15304,12 @@
 0.0.0.0 scontent-mxp1-2.xx.fbcdn.net
 0.0.0.0 scontent-mxp.xx.fbcdn.net
 0.0.0.0 scontent-nrt1-1.cdninstagram.com
-0.0.0.0 scontent-nrt1-1.xx.fbcdn.net
 0.0.0.0 scontent-nrt.cdninstagram.com
 0.0.0.0 scontent-nrt.xx.fbcdn.net
 0.0.0.0 scontent-ord.xx.fbcdn.net
 0.0.0.0 scontent-ort2-1.cdninstagram.com
 0.0.0.0 scontent-ort2-1.xx.fbcdn.net
 0.0.0.0 scontent-ort2-2.cdninstagram.com
-0.0.0.0 scontent-ort2-2.xx.fbcdn.net
 0.0.0.0 scontent-otp1-1.cdninstagram.com
 0.0.0.0 scontent-otp1-1.xx.fbcdn.net
 0.0.0.0 scontent-pmo1-1.cdninstagram.com
@@ -15425,7 +15366,6 @@
 0.0.0.0 scontent-yyz1-1.xx.fbcdn.net
 0.0.0.0 scontent-zrh1-1.cdninstagram.com
 0.0.0.0 scontent-zrh1-1.xx.fbcdn.net
-0.0.0.0 scontent.cdninstagram.com
 0.0.0.0 scontent.faae1-1.fna.fbcdn.net
 0.0.0.0 scontent.faae1-2.fna.fbcdn.net
 0.0.0.0 scontent.faar2-1.fna.fbcdn.net
@@ -15758,7 +15698,6 @@
 0.0.0.0 scontent.fgbb2-2.fna.fbcdn.net
 0.0.0.0 scontent.fgdl3-1.fna.fbcdn.net
 0.0.0.0 scontent.fgdl4-1.fna.fbcdn.net
-0.0.0.0 scontent.fgdl5-1.fna.fbcdn.net
 0.0.0.0 scontent.fgdl5-2.fna.fbcdn.net
 0.0.0.0 scontent.fgdl5-3.fna.fbcdn.net
 0.0.0.0 scontent.fgig4-1.fna.fbcdn.net
@@ -16319,7 +16258,6 @@
 0.0.0.0 scontent.fzrh1-1.fna.fbcdn.net
 0.0.0.0 scontent.fzrh3-1.fna.fbcdn.net
 0.0.0.0 scontent.whatsapp.net
-0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 scotiabank.m.facebook.com
 0.0.0.0 scripts.giphy.com
 0.0.0.0 sdvg.facebook.com
@@ -16584,7 +16522,6 @@
 0.0.0.0 snaptu-d-shv-05-frc3.facebook.com
 0.0.0.0 snaptu-d-shv-10-frc1.facebook.com
 0.0.0.0 snaptu-d.facebook.com
-0.0.0.0 snaptu-mini.facebook.com
 0.0.0.0 snaptu-p1.facebook.com
 0.0.0.0 snaptu-p2.facebook.com
 0.0.0.0 snaptu-z.facebook.com
@@ -17167,8 +17104,6 @@
 0.0.0.0 stanleyblackanddecker.m.facebook.com
 0.0.0.0 star-any2-1.c10r.facebook.com
 0.0.0.0 star-mini-any2-1.c10r.facebook.com
-0.0.0.0 star-mini.c10r.facebook.com
-0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star.facebook.com
 0.0.0.0 starbuckspt-br.fbjs.facebook.com
 0.0.0.0 startup.fb.com
@@ -17178,8 +17113,6 @@
 0.0.0.0 static-arn2-1.xx.fbcdn.net
 0.0.0.0 static-dfw5-1.xx.fbcdn.net
 0.0.0.0 static.0.facebook.com
-0.0.0.0 static.addtoany.com
-0.0.0.0 static.ak.connect.facebook.com
 0.0.0.0 static.ak.facebook.com
 0.0.0.0 static.ak.facebook.com.edgesuite.net
 0.0.0.0 static.ak.fbcdn.net
@@ -17196,9 +17129,7 @@
 0.0.0.0 static.oculus.com
 0.0.0.0 static.oculusvr.com
 0.0.0.0 static.whatsapp.net
-0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 staticxx.beta.facebook.com
-0.0.0.0 staticxx.facebook.com
 0.0.0.0 staticxx.intern.facebook.com
 0.0.0.0 staticxx.ja-jp.ms-my.fbjs.facebook.com
 0.0.0.0 staticxx.new.facebook.com
@@ -18034,7 +17965,6 @@
 0.0.0.0 uz.m.beta.facebook.com
 0.0.0.0 v4help.facebook.com
 0.0.0.0 v.whatsapp.com
-0.0.0.0 v.whatsapp.net
 0.0.0.0 vaccin-timisoara.beta.facebook.com
 0.0.0.0 vaccin.ro-ro.fbjs.facebook.com
 0.0.0.0 vaccine-bc-huang.latest.facebook.com
@@ -18800,13 +18730,10 @@
 0.0.0.0 web11333autodiscover.oculusvr.com
 0.0.0.0 web11367.live.oculusvr.com
 0.0.0.0 web-prod.giphy.com
-0.0.0.0 web.beta.facebook.com
-0.0.0.0 web.facebook.com
 0.0.0.0 web.fb.me
 0.0.0.0 web.intern.facebook.com
 0.0.0.0 web.messenger.com
 0.0.0.0 web.prod.facebook.com
-0.0.0.0 web.whatsapp.com
 0.0.0.0 webdav.facebook.com
 0.0.0.0 webdisk.lms.live.oculusvr.com
 0.0.0.0 webex.messenger.com
@@ -18915,7 +18842,6 @@
 0.0.0.0 whatsapp-pp-shv-01-dfw5.fbcdn.net
 0.0.0.0 whatsapp.com
 0.0.0.0 whatsapp.messenger.com
-0.0.0.0 whatsapp.net
 0.0.0.0 whatsapppolicy.fb.com
 0.0.0.0 whatvirus.m.beta.facebook.com
 0.0.0.0 white.instagram.com
@@ -21238,7 +21164,6 @@
 0.0.0.0 z-1-scontent.xx.fbcdn.net
 0.0.0.0 z-1-video.fpoa10-1.fna.fbcdn.net
 0.0.0.0 z-1-video.fszb1-1.fna.fbcdn.net
-0.0.0.0 z-1.c10r.facebook.com
 0.0.0.0 z-1.facebook.com
 0.0.0.0 z-m-api.facebook.com
 0.0.0.0 z-m-fbcdn-mini-shv-01-ord1.fbcdn.net
@@ -21396,8 +21321,6 @@
 0.0.0.0 z-m-video-waw.xx.fbcdn.net
 0.0.0.0 z-m-video-yyz.xx.fbcdn.net
 0.0.0.0 z-m-www.facebook.com
-0.0.0.0 z-m.c10r.facebook.com
-0.0.0.0 z-m.facebook.com
 0.0.0.0 z-p1-api.facebook.com
 0.0.0.0 z-p1-api.latest.facebook.com
 0.0.0.0 z-p1-graph.facebook.com
@@ -21678,7 +21601,6 @@
 0.0.0.0 z.facebook.com
 0.0.0.0 za.messenger.com
 0.0.0.0 zero.beta.facebook.com
-0.0.0.0 zero.facebook.com
 0.0.0.0 zero.fb.me
 0.0.0.0 zero.freebasics.com
 0.0.0.0 zero.internet.org

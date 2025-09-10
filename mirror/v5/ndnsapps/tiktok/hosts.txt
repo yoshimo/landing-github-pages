@@ -1,6 +1,5 @@
 *.muscdn.com
 *.muscdn.com.akamaized.net
-*.musical.ly
 *.tiktok.com
 *.tiktok.com.edgesuite.net
 *.tiktokcdn.com

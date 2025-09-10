@@ -3,8 +3,6 @@
 *.ebay.be
 *.ebay.ca
 *.ebay.ch
-*.ebay.co.uk
-*.ebay.com
 *.ebay.com.au
 *.ebay.com.cn
 *.ebay.com.hk

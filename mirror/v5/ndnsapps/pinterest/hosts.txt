@@ -12,7 +12,6 @@
 *.pinterest.co.kr
 *.pinterest.co.nz
 *.pinterest.co.uk
-*.pinterest.com
 *.pinterest.com.au
 *.pinterest.com.bo
 *.pinterest.com.ec

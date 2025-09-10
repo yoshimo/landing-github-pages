@@ -4,20 +4,13 @@
 
 # Facebook
 127.0.0.1 0-act.channel.facebook.com
-127.0.0.1 0-edge-chat.facebook.com
 127.0.0.1 0.beta.facebook.com
 127.0.0.1 1-act.channel.facebook.com
-127.0.0.1 1-edge-chat.facebook.com
 127.0.0.1 2-act.channel.facebook.com
-127.0.0.1 2-edge-chat.facebook.com
 127.0.0.1 3-act.channel.facebook.com
-127.0.0.1 3-edge-chat.facebook.com
 127.0.0.1 4-act.channel.facebook.com
-127.0.0.1 4-edge-chat.facebook.com
 127.0.0.1 5-act.channel.facebook.com
-127.0.0.1 5-edge-chat.facebook.com
 127.0.0.1 6-act.channel.facebook.com
-127.0.0.1 6-edge-chat.facebook.com
 127.0.0.1 a.ns.facebook.com
 127.0.0.1 a1qa.m.facebook.com
 127.0.0.1 a3.sphotos.ak.fbcdn.net
@@ -292,9 +285,7 @@
 127.0.0.1 api-read.facebook.com
 127.0.0.1 api.ak.facebook.com
 127.0.0.1 api.connect.facebook.com
-127.0.0.1 api.facebook.com
 127.0.0.1 app.facebook.com
-127.0.0.1 apps.facebook.com
 127.0.0.1 ar-ar.facebook.com
 127.0.0.1 ar-ar.fr-fr.es-es.prod.facebook.com
 127.0.0.1 ash1.fbcdn.net
@@ -320,10 +311,7 @@
 127.0.0.1 axiata.m.facebook.com
 127.0.0.1 axis.m.facebook.com
 127.0.0.1 az-az.facebook.com
-127.0.0.1 b-api.facebook.com
-127.0.0.1 b-graph.facebook.com
 127.0.0.1 b-m.facebook.com
-127.0.0.1 b-www.facebook.com
 127.0.0.1 b.ns.facebook.com
 127.0.0.1 b.static.ak.facebook.com
 127.0.0.1 b.static.ak.fbcdn.net
@@ -363,20 +351,15 @@
 127.0.0.1 channel-proxy-test-shv-07-ash2.facebook.com
 127.0.0.1 channel-staging-ecmp-05-ash3.facebook.com
 127.0.0.1 channel-testing-ecmp-05-ash3.facebook.com
-127.0.0.1 check4.facebook.com
-127.0.0.1 check6.facebook.com
 127.0.0.1 clubmed.m.facebook.com
 127.0.0.1 code.facebook.com
 127.0.0.1 com0.facebook.com
 127.0.0.1 comfytrade.m.facebook.com
 127.0.0.1 connect.facebook.com
-127.0.0.1 connect.facebook.net
 127.0.0.1 connect.facebook.net.edgekey.net
-127.0.0.1 creative.ak.fbcdn.net
 127.0.0.1 creators.facebook.com
 127.0.0.1 cs-cz.facebook.com
 127.0.0.1 csf.facebook.com
-127.0.0.1 ct-m-fbx.fbsbx.com
 127.0.0.1 d.facebook.com
 127.0.0.1 d.vvv.facebook.com
 127.0.0.1 da-dk.facebook.com
@@ -444,7 +427,6 @@
 127.0.0.1 edge-atlas-shv-13-frc1.facebook.com
 127.0.0.1 edge-atlas-shv-17-prn1.facebook.com
 127.0.0.1 edge-atlas-shv-18-prn1.facebook.com
-127.0.0.1 edge-chat.facebook.com
 127.0.0.1 edge-liverail-shv-01-ams2.facebook.com
 127.0.0.1 edge-liverail-shv-01-ams3.facebook.com
 127.0.0.1 edge-liverail-shv-01-ash5.facebook.com
@@ -544,7 +526,6 @@
 127.0.0.1 edge-mqtt-shv-13-frc1.facebook.com
 127.0.0.1 edge-mqtt-shv-17-prn1.facebook.com
 127.0.0.1 edge-mqtt-shv-18-prn1.facebook.com
-127.0.0.1 edge-mqtt.facebook.com
 127.0.0.1 edge-oculus-shv-01-lga3.fbcdn.net
 127.0.0.1 edge-oculus-shv-01-mia3.fbcdn.net
 127.0.0.1 edge-oculus-shv-01-sea1.fbcdn.net
@@ -717,7 +698,6 @@
 127.0.0.1 ent-c.xx.fbcdn.net
 127.0.0.1 ent-d.xx.fbcdn.net
 127.0.0.1 ent-e.xx.fbcdn.net
-127.0.0.1 error.facebook.com
 127.0.0.1 es-es.facebook.com
 127.0.0.1 es-es.facebook.es
 127.0.0.1 es-es.facebook.mx
@@ -768,7 +748,6 @@
 127.0.0.1 facebook.ca
 127.0.0.1 facebook.co
 127.0.0.1 facebook.co.za
-127.0.0.1 facebook.com
 127.0.0.1 facebook.com.au
 127.0.0.1 facebook.com.br
 127.0.0.1 facebook.com.es
@@ -784,7 +763,6 @@
 127.0.0.1 facebook.it
 127.0.0.1 facebook.jp
 127.0.0.1 facebook.mx
-127.0.0.1 facebook.net
 127.0.0.1 facebook.nl
 127.0.0.1 facebook.no
 127.0.0.1 facebook.org
@@ -793,14 +771,10 @@
 127.0.0.1 facebook.se
 127.0.0.1 facebook.us
 127.0.0.1 fb-lt.facebook.com
-127.0.0.1 fb.com
 127.0.0.1 fb.m.facebook.com
-127.0.0.1 fb.me
 127.0.0.1 fbcallback.wechat.com
-127.0.0.1 fbcdn-creative-a.akamaihd.net
 127.0.0.1 fbcdn-photos-a.akamaihd.net
 127.0.0.1 fbcdn-photos-e-a.akamaihd.net
-127.0.0.1 fbcdn-profile-a.akamaihd.net
 127.0.0.1 fbcdn-sphotos-a-a.akamaihd.net
 127.0.0.1 fbcdn-sphotos-a.akamaihd.net
 127.0.0.1 fbcdn-sphotos-b-a.akamaihd.net
@@ -828,7 +802,6 @@
 127.0.0.1 fbcdn-video-p-a.akamaihd.net
 127.0.0.1 fbcdn-vthumb-a.akamaihd.net
 127.0.0.1 fbcdn.com
-127.0.0.1 fbcdn.net
 127.0.0.1 fbexternal-a.akamaihd.net
 127.0.0.1 fbjs.facebook.com
 127.0.0.1 fblite-p1.c10r.facebook.com
@@ -851,7 +824,6 @@
 127.0.0.1 fr-fr.facebook.fr
 127.0.0.1 fr.facebook.com
 127.0.0.1 free.beta.facebook.com
-127.0.0.1 free.facebook.com
 127.0.0.1 free.freebasics.com
 127.0.0.1 free.internet.org
 127.0.0.1 freebasics.com
@@ -863,11 +835,8 @@
 127.0.0.1 govtech.m.facebook.com
 127.0.0.1 govtrequests.facebook.com
 127.0.0.1 graph-video.facebook.com
-127.0.0.1 graph.facebook.com
 127.0.0.1 grupoboticario.m.facebook.com
 127.0.0.1 h-ct-m-fbx.fbsbx.com.online-metrix.net
-127.0.0.1 h.beta.facebook.com
-127.0.0.1 h.facebook.com
 127.0.0.1 hclinfosystems.m.facebook.com
 127.0.0.1 he-il.facebook.com
 127.0.0.1 herningrideklub.netscontent-a-ams.xx.fbcdn.net
@@ -898,21 +867,16 @@
 127.0.0.1 ka-ge.facebook.com
 127.0.0.1 ko-kr.facebook.com
 127.0.0.1 kyivstar.m.facebook.com
-127.0.0.1 l.facebook.com
 127.0.0.1 landmarkgroup.m.facebook.com
 127.0.0.1 latest.facebook.com
 127.0.0.1 leclerc.m.facebook.com
 127.0.0.1 lists.facebook.com
-127.0.0.1 lithium.facebook.com
 127.0.0.1 liverail.c10r.facebook.com
-127.0.0.1 lm.facebook.com
 127.0.0.1 lntecc.m.facebook.com
 127.0.0.1 lntinfotech.m.facebook.com
 127.0.0.1 login.facebook.com
-127.0.0.1 lookaside.facebook.com
 127.0.0.1 lt-lt.facebook.com
 127.0.0.1 lv-lv.facebook.com
-127.0.0.1 m.facebook.com
 127.0.0.1 m.me
 127.0.0.1 mahindra.m.facebook.com
 127.0.0.1 mbasic.facebook.com
@@ -924,14 +888,10 @@
 127.0.0.1 mietra-de.m.facebook.com
 127.0.0.1 miroglio.m.facebook.com
 127.0.0.1 mm.m.facebook.com
-127.0.0.1 mobile.beta.facebook.com
-127.0.0.1 mobile.facebook.com
 127.0.0.1 moelven.m.facebook.com
 127.0.0.1 mqtt-ig-p4.facebook.com
 127.0.0.1 mqtt-mini.c10r.facebook.com
-127.0.0.1 mqtt-mini.facebook.com
 127.0.0.1 mqtt-p4.facebook.com
-127.0.0.1 mqtt.c10r.facebook.com
 127.0.0.1 mqtt.facebook.com
 127.0.0.1 mqtt.vvv.facebook.com
 127.0.0.1 ms-my.facebook.com
@@ -1046,9 +1006,7 @@
 127.0.0.1 research.facebook.com
 127.0.0.1 ro-ro.facebook.com
 127.0.0.1 ru-ru.facebook.com
-127.0.0.1 rupload.facebook.com
 127.0.0.1 s-external.ak.fbcdn.net
-127.0.0.1 s-static.ak.facebook.com
 127.0.0.1 s-static.ak.facebook.com.edgekey.net
 127.0.0.1 s-static.ak.fbcdn.net
 127.0.0.1 s-static.facebook.com
@@ -1125,11 +1083,9 @@
 127.0.0.1 scontent-lga.xx.fbcdn.net
 127.0.0.1 scontent-lga3-1.xx.fbcdn.net
 127.0.0.1 scontent-lhr.xx.fbcdn.net
-127.0.0.1 scontent-lhr3-1.xx.fbcdn.net
 127.0.0.1 scontent-lht6-1.xx.fbcdn.net
 127.0.0.1 scontent-mia.xx.fbcdn.net
 127.0.0.1 scontent-mxp.xx.fbcdn.net
-127.0.0.1 scontent-nrt1-1.xx.fbcdn.net
 127.0.0.1 scontent-ord.xx.fbcdn.net
 127.0.0.1 scontent-otp1-1.xx.fbcdn.net
 127.0.0.1 scontent-sea.xx.fbcdn.net
@@ -1190,7 +1146,6 @@
 127.0.0.1 scontent.ffor10-1.fna.fbcdn.net
 127.0.0.1 scontent.ffor11-1.fna.fbcdn.net
 127.0.0.1 scontent.ffru1-1.fna.fbcdn.net
-127.0.0.1 scontent.fgdl5-1.fna.fbcdn.net
 127.0.0.1 scontent.fgua1-1.fna.fbcdn.net
 127.0.0.1 scontent.fhel1-1.fna.fbcdn.net
 127.0.0.1 scontent.fhel2-1.fna.fbcdn.net
@@ -1284,7 +1239,6 @@
 127.0.0.1 scontent.fwbw1-1.fna.fbcdn.net
 127.0.0.1 scontent.fybz2-2.fna.fbcdn.net
 127.0.0.1 scontent.fymy1-2.fna.fbcdn.net
-127.0.0.1 scontent.xx.fbcdn.net
 127.0.0.1 scotiabank.m.facebook.com
 127.0.0.1 secure-media-snc1.fbcdn.net
 127.0.0.1 secure-media.fbcdn.net
@@ -1297,7 +1251,6 @@
 127.0.0.1 snaptu-d-shv-05-frc3.facebook.com
 127.0.0.1 snaptu-d-shv-10-frc1.facebook.com
 127.0.0.1 snaptu-d.facebook.com
-127.0.0.1 snaptu-mini.facebook.com
 127.0.0.1 snaptu-p1.facebook.com
 127.0.0.1 snaptu-p2.facebook.com
 127.0.0.1 snaptu-z.facebook.com
@@ -1353,11 +1306,8 @@
 127.0.0.1 ssl.connect.facebook.com
 127.0.0.1 ssl.facebook.com
 127.0.0.1 stanleyblackanddecker.m.facebook.com
-127.0.0.1 star-mini.c10r.facebook.com
-127.0.0.1 star.c10r.facebook.com
 127.0.0.1 star.facebook.com
 127.0.0.1 static-ak.facebook.com
-127.0.0.1 static.ak.connect.facebook.com
 127.0.0.1 static.ak.facebook.com
 127.0.0.1 static.ak.facebook.com.edgesuite.net
 127.0.0.1 static.ak.fbcdn.net
@@ -1365,8 +1315,6 @@
 127.0.0.1 static.fdel11-1.fna.fbcdn.net
 127.0.0.1 static.fsea1-1.fna.fbcdn.net
 127.0.0.1 static.thefacebook.com
-127.0.0.1 static.xx.fbcdn.net
-127.0.0.1 staticxx.facebook.com
 127.0.0.1 stormberg.m.facebook.com
 127.0.0.1 sv-se.facebook.com
 127.0.0.1 sv-se.facebook.se
@@ -1448,10 +1396,7 @@
 127.0.0.1 vupload.facebook.com
 127.0.0.1 vupload2.vvv.facebook.com
 127.0.0.1 w.facebook.com
-127.0.0.1 web-chat-e2ee.facebook.com
 127.0.0.1 web-fallback.facebook.com
-127.0.0.1 web.beta.facebook.com
-127.0.0.1 web.facebook.com
 127.0.0.1 webdav.facebook.com
 127.0.0.1 wooga.m.facebook.com
 127.0.0.1 work-98949980.facebook.com
@@ -1574,7 +1519,6 @@
 127.0.0.1 z-1-scontent.xx.fbcdn.net
 127.0.0.1 z-1-video.fpoa10-1.fna.fbcdn.net
 127.0.0.1 z-1-video.fszb1-1.fna.fbcdn.net
-127.0.0.1 z-1.c10r.facebook.com
 127.0.0.1 z-1.facebook.com
 127.0.0.1 z-m-api.facebook.com
 127.0.0.1 z-m-fbcdn-mini-shv-01-ord1.fbcdn.net
@@ -1701,8 +1645,6 @@
 127.0.0.1 z-m-video-waw.xx.fbcdn.net
 127.0.0.1 z-m-video-yyz.xx.fbcdn.net
 127.0.0.1 z-m-www.facebook.com
-127.0.0.1 z-m.c10r.facebook.com
-127.0.0.1 z-m.facebook.com
 127.0.0.1 z-p1-api.facebook.com
 127.0.0.1 z-p1-graph.facebook.com
 127.0.0.1 z-p1-upload.facebook.com
@@ -1749,7 +1691,6 @@
 127.0.0.1 z-upload.facebook.com
 127.0.0.1 z.facebook.com
 127.0.0.1 zero.beta.facebook.com
-127.0.0.1 zero.facebook.com
 127.0.0.1 zero.freebasics.com
 127.0.0.1 zero.internet.org
 127.0.0.1 zh-cn.facebook.com
@@ -1764,7 +1705,6 @@
 127.0.0.1 black.ish.instagram.com
 127.0.0.1 business.instagram.com
 127.0.0.1 c.ns.cdninstagram.com
-127.0.0.1 cdninstagram.com
 127.0.0.1 creative.cdninstagram.com
 127.0.0.1 d.ns.cdninstagram.com
 127.0.0.1 dragon.cdninstagram.com
@@ -1827,17 +1767,14 @@
 127.0.0.1 instagram-shv-13-frc1.fbcdn.net
 127.0.0.1 instagram-shv-17-prn1.fbcdn.net
 127.0.0.1 instagram-shv-18-prn1.fbcdn.net
-127.0.0.1 instagram.c10r.facebook.com
 127.0.0.1 instagram.c10r.instagram.com
 127.0.0.1 instagram.co
-127.0.0.1 instagram.com
 127.0.0.1 instagram.com.br
 127.0.0.1 instagram.de
 127.0.0.1 instagram.fr
 127.0.0.1 instagram.net
 127.0.0.1 instagramstatic-a.akamaihd.net
 127.0.0.1 instagramstatic-a.akamaihd.net.edgesuite.net
-127.0.0.1 l.instagram.com
 127.0.0.1 logger.instagram.com
 127.0.0.1 openvpn.cdninstagram.com
 127.0.0.1 photos-a.ak.instagram.com
@@ -2075,7 +2012,6 @@
 127.0.0.1 scontent-xsp1-2.cdninstagram.com
 127.0.0.1 scontent-yyz1-1.cdninstagram.com
 127.0.0.1 scontent-zrh1-1.cdninstagram.com
-127.0.0.1 scontent.cdninstagram.com
 127.0.0.1 static.cdninstagram.com
 127.0.0.1 telegraph-ash.instagram.com
 127.0.0.1 video-nrt1-1.cdninstagram.com
@@ -2310,7 +2246,6 @@
 127.0.0.1 translate.whatsapp.com
 127.0.0.1 up.web.whatsapp.com
 127.0.0.1 v.whatsapp.com
-127.0.0.1 v.whatsapp.net
 127.0.0.1 w1.web.whatsapp.com
 127.0.0.1 w2.web.whatsapp.com
 127.0.0.1 w3.web.whatsapp.com
@@ -2320,7 +2255,6 @@
 127.0.0.1 w7.web.whatsapp.com
 127.0.0.1 w8.web.whatsapp.com
 127.0.0.1 w9.web.whatsapp.com
-127.0.0.1 web.whatsapp.com
 127.0.0.1 whatsapp-cdn-shv-01-arn2.fbcdn.net
 127.0.0.1 whatsapp-cdn-shv-01-atl1.fbcdn.net
 127.0.0.1 whatsapp-cdn-shv-01-bom1.fbcdn.net
@@ -2348,7 +2282,6 @@
 127.0.0.1 whatsapp-cdn-shv-01-vie1.fbcdn.net
 127.0.0.1 whatsapp-cdn-shv-02-sin6.fbcdn.net
 127.0.0.1 whatsapp.com
-127.0.0.1 whatsapp.net
 127.0.0.1 www-cdn.whatsapp.net
 127.0.0.1 www.whatsapp.com
 127.0.0.1 wwwl.whatsapp.com
@@ -2372,7 +2305,6 @@
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads.twitter.com
 127.0.0.1 amp.twimg.com
-127.0.0.1 analytics.twitter.com
 127.0.0.1 api-0-4-0.twitter.com
 127.0.0.1 api-0-4-2.twitter.com
 127.0.0.1 api-0-4-3.twitter.com
@@ -2409,7 +2341,6 @@
 127.0.0.1 api-46-0-0.twitter.com
 127.0.0.1 api-stream.twitter.com
 127.0.0.1 api-test.twitter.com
-127.0.0.1 api.twitter.com
 127.0.0.1 api2.twitter.com
 127.0.0.1 api4.twitter.com
 127.0.0.1 app.tweet.twitter.com
@@ -2421,8 +2352,6 @@
 127.0.0.1 caps.twitter.com
 127.0.0.1 cards-dev.twitter.com
 127.0.0.1 cards.twitter.com
-127.0.0.1 cdn.syndication.twimg.com
-127.0.0.1 cdn.syndication.twitter.com
 127.0.0.1 click.e.twitter.com
 127.0.0.1 content.twitter.com
 127.0.0.1 d2rdfnizen5apl.cloudfront.net
@@ -2479,9 +2408,7 @@
 127.0.0.1 partnerstream1.twitter.com
 127.0.0.1 partnerstream2.twitter.com
 127.0.0.1 pay.twitter.com
-127.0.0.1 pbs.twimg.com
 127.0.0.1 pic.twitter.com
-127.0.0.1 platform.twitter.com
 127.0.0.1 platform.twitter.map.fastly.net
 127.0.0.1 pro.twitter.com
 127.0.0.1 probe.twitter.com
@@ -2504,9 +2431,7 @@
 127.0.0.1 studio.twitter.com
 127.0.0.1 support.twitter.com
 127.0.0.1 syndication-o.twimg.com
-127.0.0.1 syndication.twimg.com
 127.0.0.1 syndication.twitter.com
-127.0.0.1 t.co
 127.0.0.1 tailfeather.twimg.com
 127.0.0.1 td.twitter.com
 127.0.0.1 ton.twimg.com
@@ -2515,7 +2440,6 @@
 127.0.0.1 twimg.twitter.map.fastly.net
 127.0.0.1 twimg0-0.akamaihd.net
 127.0.0.1 twitter.co
-127.0.0.1 twitter.com
 127.0.0.1 twitter.de
 127.0.0.1 twitter.map.fastly.net
 127.0.0.1 upload.twitter.com
@@ -2523,7 +2447,6 @@
 127.0.0.1 video.twitter.com
 127.0.0.1 video.twitter.map.fastly.net
 127.0.0.1 widgets.platform.twitter.com
-127.0.0.1 widgets.twimg.com
 127.0.0.1 www.ads-twitter.com
 127.0.0.1 www.t.co
 127.0.0.1 www.twitter.com
@@ -2628,7 +2551,6 @@
 127.0.0.1 lan.sdk.linkedin.com
 127.0.0.1 learning.linkedin.com
 127.0.0.1 lifg.linkedin.com
-127.0.0.1 linkedin.com
 127.0.0.1 linkedinforgood.linkedin.com
 127.0.0.1 lists.linkedin.com
 127.0.0.1 live.linkedin.com
@@ -2703,7 +2625,6 @@
 127.0.0.1 si.linkedin.com
 127.0.0.1 signin.lms.linkedin.com
 127.0.0.1 smallbusiness.linkedin.com
-127.0.0.1 snap.licdn.com
 127.0.0.1 specialedition.linkedin.com
 127.0.0.1 static-akam.licdn.com
 127.0.0.1 static-azur.licdn.com
@@ -2744,7 +2665,6 @@
 127.0.0.1 www.imagine.linkedin.com
 127.0.0.1 www.licdn.com
 127.0.0.1 www.lifg.linkedin.com
-127.0.0.1 www.linkedin.com
 127.0.0.1 www.linkedinforgood.linkedin.com
 127.0.0.1 www.live.linkedin.com
 127.0.0.1 www.members.linkedin.com
@@ -2791,7 +2711,6 @@
 127.0.0.1 messages.myspace.com
 127.0.0.1 music.myspace.com
 127.0.0.1 mx2.myspace.com
-127.0.0.1 myspace.com
 127.0.0.1 myspacecdn.com
 127.0.0.1 ns1.myspace.com
 127.0.0.1 ns2.myspace.com
@@ -2825,13 +2744,11 @@
 127.0.0.1 about.pinterest.com
 127.0.0.1 accounts.pinterest.com
 127.0.0.1 ads.pinterest.com
-127.0.0.1 api.pinterest.com
 127.0.0.1 api.pinterest.com.gslb.pinterest.com
 127.0.0.1 assets.pinterest.com
 127.0.0.1 blog.pinterest.com
 127.0.0.1 br.pinterest.com
 127.0.0.1 business.pinterest.com
-127.0.0.1 ct.pinterest.com
 127.0.0.1 developers.pinterest.com
 127.0.0.1 dualstack.pinterest.map.fastly.net
 127.0.0.1 engineering.pinterest.com
@@ -2845,7 +2762,6 @@
 127.0.0.1 log.pinterest.com
 127.0.0.1 pin.it
 127.0.0.1 pinimg.com
-127.0.0.1 pinterest.com
 127.0.0.1 post.pinterest.com
 127.0.0.1 prod.pinterest.global.map.fastly.net
 127.0.0.1 s-passets.pinimg.com
@@ -2879,7 +2795,6 @@
 127.0.0.1 68.media.tumblr.com
 127.0.0.1 78.media.tumblr.com
 127.0.0.1 a.tumblr.com
-127.0.0.1 api.tumblr.com
 127.0.0.1 assets.tumblr.com
 127.0.0.1 cookiex.ngd.yahoo.com
 127.0.0.1 embed.tumblr.com
@@ -2889,30 +2804,24 @@
 127.0.0.1 secure.assets.tumblr.com
 127.0.0.1 secure.static.tumblr.com
 127.0.0.1 staff.tumblr.com
-127.0.0.1 static.tumblr.com
-127.0.0.1 tumblr.com
 127.0.0.1 tumblr.tumblr.com
 127.0.0.1 v.tumblr.com
-127.0.0.1 vt.tumblr.com
 127.0.0.1 www.tumblr.com
 
 # Reddit
 127.0.0.1 a.thumbs.redditmedia.com
 127.0.0.1 about.reddit.com
 127.0.0.1 accounts.reddit.com
-127.0.0.1 alb.reddit.com
 127.0.0.1 amp-reddit-com.cdn.ampproject.org
 127.0.0.1 b.thumbs.redditmedia.com
 127.0.0.1 c.thumbs.redditmedia.com
 127.0.0.1 d.thumbs.redditmedia.com
-127.0.0.1 e.reddit.com
 127.0.0.1 e.thumbs.redditmedia.com
 127.0.0.1 embed.reddit.com
 127.0.0.1 emoji.redditmedia.com
 127.0.0.1 en.reddit.com
 127.0.0.1 events.reddit.com
 127.0.0.1 events.redditmedia.com
-127.0.0.1 external-preview.redd.it
 127.0.0.1 f.thumbs.redditmedia.com
 127.0.0.1 fr.reddit.com
 127.0.0.1 g.redditmedia.com
@@ -2922,7 +2831,6 @@
 127.0.0.1 gql-realtime.reddit.com
 127.0.0.1 gql.reddit.com
 127.0.0.1 hw.reddit.com
-127.0.0.1 i.redd.it
 127.0.0.1 i.reddit.com
 127.0.0.1 i.redditmedia.com
 127.0.0.1 i.reddituploads.com
@@ -2938,20 +2846,17 @@
 127.0.0.1 oops.redditmedia.com
 127.0.0.1 out.reddit.com
 127.0.0.1 pixel.redditmedia.com
-127.0.0.1 preview.redd.it
 127.0.0.1 redd.it
 127.0.0.1 reddit-image.s3.amazonaws.com
 127.0.0.1 reddit-stream.com
 127.0.0.1 reddit-uploaded-media.s3-accelerate.amazonaws.com
 127.0.0.1 reddit-uploaded-video.s3-accelerate.amazonaws.com
-127.0.0.1 reddit.com
 127.0.0.1 reddit.map.fastly.net
 127.0.0.1 redditama.reddit.com
 127.0.0.1 redditblog.com
 127.0.0.1 redditgifts.com
 127.0.0.1 redditgifts.s3.amazonaws.com
 127.0.0.1 redditmedia.com
-127.0.0.1 s.reddit.com
 127.0.0.1 s.redditmedia.com
 127.0.0.1 sendbird.reddit.com
 127.0.0.1 ssl.reddit.com
@@ -3020,14 +2925,11 @@
 127.0.0.1 mon.tiktokv.com.edgesuite.net
 127.0.0.1 muscdn.com
 127.0.0.1 musemuse.cn
-127.0.0.1 musical.ly
 127.0.0.1 musically.ly
 127.0.0.1 p1-tt-ipv6.byteimg.com
 127.0.0.1 p1-tt.byteimg.com
 127.0.0.1 p16-ad-sg.ibyteimg.com
 127.0.0.1 p16-pu-sign-ie.tiktokcdn-eu.com
-127.0.0.1 p16-sign-sg.tiktokcdn.com
-127.0.0.1 p16-sign-va.tiktokcdn.com
 127.0.0.1 p16-sign.tiktokcdn-us.com
 127.0.0.1 p16-tiktok-sg.ibyteimg.com
 127.0.0.1 p16-tiktok-sign-va-h2.ibyteimg.com
@@ -3038,7 +2940,6 @@
 127.0.0.1 p16.hypstarcdn.com
 127.0.0.1 p16.tiktokcdn-us.com
 127.0.0.1 p19-pu-ie.tiktokcdn-eu.com
-127.0.0.7 p19-sign.tiktokcdn-us.com
 127.0.0.1 p26-tt.byteimg.com
 127.0.0.1 p3-tt-ipv6.byteimg.com
 127.0.0.1 p77-va.tiktokcdn.com
@@ -3204,7 +3105,6 @@
 127.0.0.1 aws.api.snapchat.com
 127.0.0.1 aws-cf.api.snapchat.com
 127.0.0.1 aws.duplex.snapchat.com
-127.0.0.1 aws-proxy-gcp.api.snapchat.com
 127.0.0.1 bitmoji.api.snapchat.com
 127.0.0.1 chat-gateway-prod.chat.snapchat.com
 127.0.0.1 click.snapchat.com
@@ -3254,7 +3154,6 @@
 
 # Twitch
 # from https://www.netify.ai/resources/applications/twitch & Browser Networktraffic
-127.0.0.1 twitch.tv
 127.0.0.1 www.twitch.tv
 127.0.0.1 ttvnw.net
 127.0.0.1 live-video.net
@@ -3267,13 +3166,10 @@
 127.0.0.1 twitchsvc-staging.tech
 127.0.0.1 twitchsvc.net
 127.0.0.1 assets.twitch.tv
-127.0.0.1 k.twitchcdn.net
 127.0.0.1 hermes.twitch.tv
 127.0.0.1 irc-ws.chat.twitch.tv
 127.0.0.1 gql.twitch.tv
-127.0.0.1 static-cdn.jtvnw.net
 127.0.0.1 pubsub-edge.twitch.tv
-127.0.0.1 usher.ttvnw.net
 127.0.0.1 global.poe.live-video.net
 127.0.0.1 supervisor.ext-twitch.tv
 127.0.0.1 extensions-discovery-images.twitch.tv

@@ -1,7 +1,7 @@
 # ddgtrackerradar standard
 # This host file is based on DuckDuckGo Tracker Radar.
 # More info at https://go.blokada.org/ddgtrackerradar
-# Generated at 2025-09-10 18:41:05.118630
+# Generated at 2025-09-10 20:48:38.421577
 # Made by Blokada
 
 *.rentcafe.com.cdn.cloudflare.net

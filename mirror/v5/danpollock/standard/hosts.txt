@@ -1,8 +1,8 @@
 # This hosts file is brought to you by Dan Pollock and can be found at
 # http://someonewhocares.org/hosts/
 # You are free to copy and distribute this file for non-commercial uses,
-# as long the original URL and attribution is included. 
-# 
+# as long the original URL and attribution is included.
+#
 # See below for acknowledgements.
 
 # Please forward any additions, corrections or comments by email to
@@ -11,17 +11,17 @@
 # Last updated: Wed, 03 Sep 2025 at 19:33:58 GMT
 
 # Use this file to prevent your computer from connecting to selected
-# internet hosts. This is an easy and effective way to protect you from 
-# many types of spyware, reduces bandwidth use, blocks certain pop-up 
+# internet hosts. This is an easy and effective way to protect you from
+# many types of spyware, reduces bandwidth use, blocks certain pop-up
 # traps, prevents user tracking by way of "web bugs" embedded in spam,
 # provides partial protection to IE from certain web-based exploits and
-# blocks most advertising you would otherwise be subjected to on the 
-# internet. 
+# blocks most advertising you would otherwise be subjected to on the
+# internet.
 
-# There is a version of this file that uses 0.0.0.0 instead of 127.0.0.1 
+# There is a version of this file that uses 0.0.0.0 instead of 127.0.0.1
 # available at http://someonewhocares.org/hosts/zero/.
 # On some machines the zero version may run minutely faster, however it
-# may not be compatible with all systems. 
+# may not be compatible with all systems.
 
 # This file must be saved as a text file with no extension. (This means
 # that the file name should be exactly as below, without a ".txt" appended.)
@@ -48,7 +48,7 @@
 # On a Netware system, the location is System\etc\hosts"
 # For Macintosh (pre OS X) place it in the Mac System Folder or Preferences
 #    folder and reboot. (something like HD:System Folder:Preferences:Hosts)
-#    Alternatively you can save it elsewhere on your machine, then go to the 
+#    Alternatively you can save it elsewhere on your machine, then go to the
 #    TCP/IP control panel and click on "Select hosts file" to read it in.
 #    ------------------
 #    | As well, note that the format is different on old macs, so
@@ -83,7 +83,7 @@ ff02::3		ip6-allhosts
 
 #<shock-sites>
 # For example, to block unpleasant pages, try:
-127.0.0.1 goatse.cx       # More information on sites such as 
+127.0.0.1 goatse.cx       # More information on sites such as
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
 127.0.0.1 www.oralse.cx
@@ -115,7 +115,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 4girlsfingerpaint.org
 127.0.0.1 bagslap.com
 127.0.0.1 ballsack.org
-127.0.0.1 bestgore.fun
 127.0.0.1 bestshockers.com
 127.0.0.1 bluewaffle.biz
 127.0.0.1 bottleguy.com
@@ -279,12 +278,12 @@ ff02::3		ip6-allhosts
 #</shortcut-examples>
 
 #<hijack-sites>
-# The sites ads234.com and ads345.com -- These sites hijack internet explorer 
-# and redirect all requests through their servers. You may need to use spyware 
-# removal programs such as SpyBotS&amp;D, AdAware or HijackThis to remove this 
-# nasty parasite. It's possible that blocking these sites using a hosts file 
+# The sites ads234.com and ads345.com -- These sites hijack internet explorer
+# and redirect all requests through their servers. You may need to use spyware
+# removal programs such as SpyBotS&amp;D, AdAware or HijackThis to remove this
+# nasty parasite. It's possible that blocking these sites using a hosts file
 # may not work, in which case you should remove the following lines from this
-# file and try the tools listed above immediately. Don't forget to reboot 
+# file and try the tools listed above immediately. Don't forget to reboot
 # after a scan.
 127.0.0.1 ads234.com
 127.0.0.1 ads345.com
@@ -298,35 +297,35 @@ ff02::3		ip6-allhosts
 # By entering domains here, it will prevent certain companies from
 # gathering information on your surfing habits. These servers do not
 # necessarily serve ads, instead some are used by certain products to
-# "phone home". Others use web cookies to gather statistics on surfing 
-# habits. Among other uses, this is a common tactic by spammers, to 
-# let them know that you have read your mail. 
+# "phone home". Others use web cookies to gather statistics on surfing
+# habits. Among other uses, this is a common tactic by spammers, to
+# let them know that you have read your mail.
 # Uncomment (remove the #) the lines that you wish to block, as some
 # may provide you with services you like.
 
 #<maybe-spy>
 #127.0.0.1 auto.search.msn.com  # Microsoft uses this server to redirect
-                                # mistyped URLs to search engines. They
-                                # log all such errors.
-#127.0.0.1 sitefinder.verisign.com	# Verisign has joined the game 
+# mistyped URLs to search engines. They
+# log all such errors.
+#127.0.0.1 sitefinder.verisign.com	# Verisign has joined the game
 #127.0.0.1 sitefinder-idn.verisign.com	# of trying to hijack mistyped
-					# URLs to their site. 
-					# May break iOS Game Center.
+# URLs to their site.
+# May break iOS Game Center.
 
-#127.0.0.1 s0.2mdn.net		# This may interfere with some streaming 
-				# video on sites such as cbc.ca
+#127.0.0.1 s0.2mdn.net		# This may interfere with some streaming
+# video on sites such as cbc.ca
 #127.0.0.1 ad.doubleclick.net   # This may interefere with www.sears.com
-				# and potentially other sites. 
+# and potentially other sites.
 127.0.0.1 media.fastclick.net	# Likewise, this may interfere with some
-127.0.0.1 cdn.fastclick.net	# sites. 
+127.0.0.1 cdn.fastclick.net	# sites.
 #127.0.0.1 ebay.doubleclick.net		# may interfere with ebay
 #127.0.0.1 google-analytics.com			# breaks some sites
 #127.0.0.1 ssl.google-analytics.com
 #127.0.0.1 www.google-analytics.l.google.com
-#127.0.0.1 stat.livejournal.com		# There are reports that this may mess 
- 					# up CSS on livejournal
-#127.0.0.1 stats.surfaid.ihost.com	# This has been known cause 
-					# problems with NPR.org
+#127.0.0.1 stat.livejournal.com		# There are reports that this may mess
+# up CSS on livejournal
+#127.0.0.1 stats.surfaid.ihost.com	# This has been known cause
+# problems with NPR.org
 #127.0.0.1 www.google-analytics.com		# breaks some sites
 #127.0.0.1 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
 #</maybe-spy>
@@ -354,8 +353,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 1xxx.cqcounter.com
 127.0.0.1 20585485p.rfihub.com
 127.0.0.1 3dns-1.adobe.com
-127.0.0.1 3dns-2.adobe.com
-127.0.0.1 3dns-3.adobe.com
 127.0.0.1 3dns-4.adobe.com
 127.0.0.1 3dns.adobe.com
 127.0.0.1 4-counter.com
@@ -373,9 +370,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 addfreestats.com
 127.0.0.1 adelogs.adobe.com	#See http://www.theregister.co.uk/2014/10/07/adobe_digital_editions_4_caught_snooping_into_ebook_collections_of_users/
 127.0.0.1 ademails.com
-127.0.0.1 adlog.com.com # Used by Ziff Davis to serve 
-  # ads and track users across 
-  # the com.com family of sites
+127.0.0.1 adlog.com.com # Used by Ziff Davis to serve
+# ads and track users across
+# the com.com family of sites
 127.0.0.1 admin.iovation.com
 127.0.0.1 adopt.specificclick.net
 127.0.0.1 adpatrof.com
@@ -419,7 +416,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 aus-mec-tracking.adalyser.com
 127.0.0.1 aus-smv-tracking.adalyser.com
 127.0.0.1 auspice.augur.io
-127.0.0.1 b.stats.paypal.com
 127.0.0.1 bam.nr-data.net
 127.0.0.1 banner.0catch.com
 127.0.0.1 banners.webcounter.com
@@ -439,7 +435,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 bindedge.com
 127.0.0.1 bindfast.com
 127.0.0.1 biomagin.com
-127.0.0.1 bkrtx.com
 127.0.0.1 bleachbit.com
 127.0.0.1 bluekai.com
 127.0.0.1 bluestreak.com
@@ -479,7 +474,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 cashcounter.com
 127.0.0.1 cb1.counterbot.com
 127.0.0.1 ccleaner.fr
-127.0.0.1 cdn-gl.imrworldwide.com
 127.0.0.1 cdn-social.janrain.com
 127.0.0.1 cdn.decibelinsight.net
 127.0.0.1 cdn.doublepimpssl.com
@@ -658,8 +652,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 counteraport.spylog.com
 127.0.0.1 counterbot.com
 127.0.0.1 countercrazy.com
-127.0.0.1 counters.auctionhelper.com		# comment these 
-127.0.0.1 counters.auctionwatch.com		# out to allow 
+127.0.0.1 counters.auctionhelper.com		# comment these
+127.0.0.1 counters.auctionwatch.com		# out to allow
 127.0.0.1 counters.auctiva.com			# tracking by
 127.0.0.1 counters.honesty.com			# ebay users
 127.0.0.1 cs.sexcounter.com
@@ -688,7 +682,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 dkb01.webtrekk.net
 127.0.0.1 dnsdelegation.io
 127.0.0.1 dotcomsecrets.com
-127.0.0.1 dpbolvw.net
 127.0.0.1 dwclick.com
 127.0.0.1 dyn.emetriq.de
 127.0.0.1 e-2dj6wfk4ehd5afq.stats.esomniture.com
@@ -769,7 +762,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 eu-track.inside-graph.com
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 exch.quantserve.com
-127.0.0.1 extremereach.com
 127.0.0.1 eztrck.com
 127.0.0.1 fastcounter.com
 127.0.0.1 fastcounter.linkexchange.net
@@ -805,10 +797,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 gj.mmstat.com
 127.0.0.1 goldstats.com
 127.0.0.1 googfle.com
-127.0.0.1 googletagservices.com
 127.0.0.1 gostats.com
 127.0.0.1 grafix.xxxcounter.com
-127.0.0.1 gscounters.us1.gigya.com
 127.0.0.1 gslbeacon.lijit.com
 127.0.0.1 gtcc1.acecounter.com
 127.0.0.1 hbopenbid.pubmatic.com
@@ -834,7 +824,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 idm.hit.gemius.pl
 127.0.0.1 ieplugin.com
 127.0.0.1 iesnare.co.uk
-127.0.0.1 iesnare.com		# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 127.0.0.1 ilead.itrack.it
 127.0.0.1 images-aud.freshmeat.net
 127.0.0.1 images-aud.slashdot.org
@@ -864,7 +853,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 int.sitestat.com
 127.0.0.1 intljs.rmtag.com
 127.0.0.1 iovation.co.uk
-127.0.0.1 iovation.com
 127.0.0.1 iplogger.org
 127.0.0.1 iprocollect.realmedia.com
 127.0.0.1 istat.biz
@@ -878,7 +866,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 justtrck.com
 127.0.0.1 k.clarity.ms
 127.0.0.1 kissmetrics.com
-127.0.0.1 kqzyfj.com
 127.0.0.1 kt4.kliptracker.com
 127.0.0.1 lcprd1.samsungcloudsolution.net
 127.0.0.1 lcprd2.samsungcloudsolution.net
@@ -918,7 +905,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 m1.nedstatbasic.net
 127.0.0.1 m1.webstats4u.com
 127.0.0.1 mailcheckisp.biz	# "spam bugs"
-127.0.0.1 mailfoogae.appspot.com	# Streak email tracker
 127.0.0.1 mailtrack.me
 127.0.0.1 marketaff.com
 127.0.0.1 mature.xxxcounter.com
@@ -978,7 +964,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 metrics.yellowpages.com
 127.0.0.1 metrics.yousendit.com
 127.0.0.1 mktg.actonsoftware.com
-127.0.0.1 mmstat.com
 127.0.0.1 mng1.clickalyzer.com
 127.0.0.1 mobile.webvisor.com
 127.0.0.1 mononoteapp.firebaseio.com
@@ -990,7 +975,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 mtrcs.popcap.com
 127.0.0.1 murdoog.com
 127.0.0.1 mvtracker.com
-127.0.0.1 mybbc-analytics.files.bbci.co.uk
 127.0.0.1 nedstat.s0.nl
 127.0.0.1 net-radar.com
 127.0.0.1 nethit-free.nl
@@ -1006,7 +990,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 objects.tremormedia.com
 127.0.0.1 okcounter.com
 127.0.0.1 omniture.theglobeandmail.com
-127.0.0.1 omtrdc.net
 127.0.0.1 one.123counters.com
 127.0.0.1 open.oneplus.net
 127.0.0.1 other.xxxcounter.com
@@ -1038,7 +1021,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 postmedia.us.janrainsso.com
 127.0.0.1 precisioncounter.com
 127.0.0.1 printmail.biz
-127.0.0.1 privacy-policy.truste.com
 127.0.0.1 prof.estat.com
 127.0.0.1 propeller-tracking.com
 127.0.0.1 quantcast584928381.s.moatpixel.com
@@ -1056,7 +1038,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 s.bl-1.com
 127.0.0.1 s.clickability.com
 127.0.0.1 s.go-mpulse.net
-127.0.0.1 s.update.fbsbx.com 
+127.0.0.1 s.update.fbsbx.com
 127.0.0.1 s1-tracking.adalyser.com
 127.0.0.1 s1.shinystat.it
 127.0.0.1 s10.histats.com
@@ -1068,7 +1050,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 sact.atdmt.com
 127.0.0.1 sc-analytics.appspot.com
 127.0.0.1 sclk.org
-127.0.0.1 scorecardresearch.com
 127.0.0.1 scribe.twitter.com
 127.0.0.1 scrooge.click10.com
 127.0.0.1 scrooge.nbc11.com
@@ -1129,7 +1110,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 stat.yellowtracker.com
 127.0.0.1 stat1.z-stat.com
 127.0.0.1 stat3.cybermonitor.com
-127.0.0.1 statcounter.com
 127.0.0.1 static.audienceinsights.net
 127.0.0.1 static.kibboko.com
 127.0.0.1 static.smni.com		# Santa Monica - popunders
@@ -1208,7 +1188,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 superstats.com
 127.0.0.1 sync.bfmio.com
 127.0.0.1 sync.clickonometrics.pl
-127.0.0.1 systweak.com
 127.0.0.1 t.senaldos.com
 127.0.0.1 t.senaluno.com
 127.0.0.1 t.signaletre.com
@@ -1216,7 +1195,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 t.update.fbsbx.com
 127.0.0.1 t.yesware.com
 127.0.0.1 tag.crsspxl.com
-127.0.0.1 tags.bkrtx.com
 127.0.0.1 targetnet.com
 127.0.0.1 tates.freestats.com
 127.0.0.1 tcookie.usatoday.com
@@ -1234,7 +1212,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 tour.SweetDiscreet.com
 127.0.0.1 tour.xxxblackbook.com
 127.0.0.1 tr.adinterax.com
-127.0.0.1 track.adform.net
 127.0.0.1 track.adrevolver.com
 127.0.0.1 track.bannerbridge.net
 127.0.0.1 track.brucelead.com
@@ -1322,7 +1299,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 track.searchignite.com
 127.0.0.1 track.upaknee.com
 127.0.0.1 track.vivid.com
-127.0.0.1 track.webgains.com
 127.0.0.1 track.xapads.com
 127.0.0.1 track.zipalerts.com
 127.0.0.1 track.ziprecruiter.com
@@ -1378,12 +1354,10 @@ ff02::3		ip6-allhosts
 127.0.0.1 tradedoubler.com
 127.0.0.1 tradedoubler.sonvideopro.com
 127.0.0.1 traffic-stats.streamsolutions.co.uk
-127.0.0.1 traffic.spot.im
 127.0.0.1 trafficopen.com
 127.0.0.1 trax.gamespot.com
 127.0.0.1 trc.taboolasyndication.com
 127.0.0.1 trcko.com
-127.0.0.1 treasuredata.com
 127.0.0.1 trk.cachemetracking.com
 127.0.0.1 trk.kissmetrics.com
 127.0.0.1 trk.securesmrt-dt.com
@@ -1498,7 +1472,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.counter9.sextracker.be
 127.0.0.1 www.counterguide.com
 127.0.0.1 www.cw.nu
-127.0.0.1 www.dpbolvw.net
 127.0.0.1 www.dwclick.com
 127.0.0.1 www.easycounter.com
 127.0.0.1 www.fastcounter.linkexchange.nl
@@ -1514,7 +1487,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.iovation.co.uk
 127.0.0.1 www.iovation.com
 127.0.0.1 www.jellycounter.com
-127.0.0.1 www.kqzyfj.com
 127.0.0.1 www.lansrv050.com
 127.0.0.1 www.leadpub.com
 127.0.0.1 www.linkcounter.com
@@ -1540,7 +1512,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.specificpop.com
 127.0.0.1 www.spklds.com
 127.0.0.1 www.statcount.com
-127.0.0.1 www.statcounter.com
 127.0.0.1 www.statsession.com
 127.0.0.1 www.stattrax.com
 127.0.0.1 www.stiffnetwork.com
@@ -2948,7 +2919,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 scure-royaibamk.com
 127.0.0.1 scwharzkopf.fr
 127.0.0.1 scyxj.comfortykive.xyz
-127.0.0.1 sea.net.edu.cn
 127.0.0.1 search.buzzdock.com
 127.0.0.1 search.conduit.com
 127.0.0.1 search.privitize.com
@@ -3431,7 +3401,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 ad.br.doubleclick.net
 127.0.0.1 ad.de.doubleclick.net
 127.0.0.1 ad.dk.doubleclick.net
-127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.es.doubleclick.net
 127.0.0.1 ad.fi.doubleclick.net
 127.0.0.1 ad.fr.doubleclick.net
@@ -3454,7 +3423,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 creative.cc-dt.com
 127.0.0.1 doubleclick.com
 127.0.0.1 doubleclick.de
-127.0.0.1 doubleclick.net
 127.0.0.1 feedads.g.doubleclick.net
 127.0.0.1 fls.doubleclick.net
 127.0.0.1 googleads.g.doubleclick.net
@@ -3463,7 +3431,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 m.doubleclick.net
 127.0.0.1 m1.2mdn.net
 127.0.0.1 n479ad.doubleclick.net
-127.0.0.1 pagead.l.doubleclick.net
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.l.doubleclick.net
@@ -3505,7 +3472,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 fe1-au.imrworldwide.com
 127.0.0.1 fe2-au.imrworldwide.com
 127.0.0.1 fe3-au.imrworldwide.com
-127.0.0.1 imrworldwide.com
 127.0.0.1 lycos-eu.imrworldwide.com
 127.0.0.1 ninemsn.imrworldwide.com
 127.0.0.1 rc-au.imrworldwide.com
@@ -3618,10 +3584,8 @@ ff02::3		ip6-allhosts
 #127.0.0.1 applestoreus.112.2o7.net	#breaks apple.com
 127.0.0.1 102.112.2o7.net
 127.0.0.1 102.122.2o7.net
-127.0.0.1 112.2o7.net
 127.0.0.1 122.2o7.net
 127.0.0.1 192.168.112.2o7.net
-127.0.0.1 2o7.net
 127.0.0.1 actforvictory.112.2o7.net
 127.0.0.1 adbrite.112.2o7.net
 127.0.0.1 adbrite.122.2o7.net
@@ -4813,17 +4777,14 @@ ff02::3		ip6-allhosts
 127.0.0.1 a3.suntimes.com
 127.0.0.1 a7cleaner.com
 127.0.0.1 aa.agkn.com
-127.0.0.1 aa.tweakers.nl
 127.0.0.1 aaa-architecten.nl
 127.0.0.1 aaa-arcobaleno.it
 127.0.0.1 aads.treehugger.com
-127.0.0.1 aan.amazon.com
 127.0.0.1 aarth.net
 127.0.0.1 aax-cpm.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-us-pdx.amazon-adsystem.com
 127.0.0.1 aax.amazon-adsystem.com
-127.0.0.1 ab.tweakers.nl
 127.0.0.1 ab913aa797e78b3.com
 127.0.0.1 abi83-schramberg.de
 127.0.0.1 abourselfi.com
@@ -5267,7 +5228,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 admanage.com
 127.0.0.1 admanager.btopenworld.com
 127.0.0.1 admanager.collegepublisher.com
-127.0.0.1 admarkt.marktplaats.nl
 127.0.0.1 admatch-syndication.mochila.com
 127.0.0.1 admatcher.videostrip.com
 127.0.0.1 admd.yam.com
@@ -5293,7 +5253,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 adnxs.revsci.net
 127.0.0.1 adobe.tt.omtrdc.net
 127.0.0.1 adobee.com
-127.0.0.1 adocean.pl
 127.0.0.1 adonline.e-kolay.net
 127.0.0.1 adopt.euroclick.com
 127.0.0.1 adopt.precisead.com
@@ -6161,7 +6120,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 adtech.com
 127.0.0.1 adtech.de
 127.0.0.1 adtech.panthercustomer.com
-127.0.0.1 adtechus.com
 127.0.0.1 adtegrity.spinbox.net
 127.0.0.1 adtext.pl
 127.0.0.1 adthru.com
@@ -6402,7 +6360,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 asv.nuggad.net
 127.0.0.1 at-adserver.alltop.com
 127.0.0.1 at.m1.nedstatbasic.net
-127.0.0.1 atdmt.com
 127.0.0.1 atemda.com
 127.0.0.1 athena-ads.wikia.com
 127.0.0.1 atout-energie-69.com
@@ -6545,7 +6502,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 bet-at-home.com
 127.0.0.1 beta.hotkeys.com
 127.0.0.1 betclic.com
-127.0.0.1 bfast.com
 127.0.0.1 bgrel.bonedmilfs.com
 127.0.0.1 bicoinsprofit.com
 127.0.0.1 bid.contextweb.com
@@ -6600,7 +6556,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 bodelen.com
 127.0.0.1 boksy.dir.onet.pl
 127.0.0.1 boksy.onet.pl
-127.0.0.1 bongacams.com
 127.0.0.1 bookpdf.services
 127.0.0.1 bootsstation-reiherhals.de
 127.0.0.1 boroskola.info
@@ -6692,7 +6647,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 c.pt.msn.com
 127.0.0.1 c.ru.msn.com
 127.0.0.1 c.se.msn.com
-127.0.0.1 c.seznam.cz
 127.0.0.1 c.sg.msn.com
 127.0.0.1 c.silvinst.com
 127.0.0.1 c.th.msn.com
@@ -6773,7 +6727,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 cb.baidu.com
 127.0.0.1 cbango.com.ar
 127.0.0.1 cbanners.virtuagirlhd.com
-127.0.0.1 cc-dt.com
 127.0.0.1 ccb.myzen.co.uk
 127.0.0.1 ccpmo.com
 127.0.0.1 cctv.adsunion.com
@@ -6842,7 +6795,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 cdn1.adexprt.com
 127.0.0.1 cdn1.ads.contentabc.com
 127.0.0.1 cdn1.rmgserving.com
-127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 cdn1.traffichaus.com
 127.0.0.1 cdn1sitescout.edgesuite.net
 127.0.0.1 cdn2.ad-center.com
@@ -6926,7 +6878,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 clicks.walla.co.il
 127.0.0.1 clicks2.virtuagirl.com
 127.0.0.1 clickserv.sitescout.com
-127.0.0.1 clickserve.cc-dt.com
 127.0.0.1 clickserve.eu.dartsearch.net
 127.0.0.1 clickserve.uk.dartsearch.net
 127.0.0.1 clickserve.us2.dartsearch.net
@@ -6938,7 +6889,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 clients-share.com
 127.0.0.1 clk.addmt.com
 127.0.0.1 clk.atdmt.com
-127.0.0.1 clk.tradedoubler.com
 127.0.0.1 clkads.com
 127.0.0.1 clktrk.com
 127.0.0.1 clkuk.tradedoubler.com
@@ -7316,7 +7266,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 esd-secure.taboola.com.edgekey.net
 127.0.0.1 esoterik-lenormand.com
 127.0.0.1 etahub.com
-127.0.0.1 etrk.asus.com
 127.0.0.1 etype.adbureau.net
 127.0.0.1 eu-global-online.com
 127.0.0.1 eu-global.com
@@ -7523,12 +7472,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 geoads.com
 127.0.0.1 geoads.osdn.com
 127.0.0.1 geoloc11.geovisite.com
-127.0.0.1 geolocation-db.com
 127.0.0.1 geoweb.e-kolay.net
 127.0.0.1 get-downloads.com
-127.0.0.1 get-express-vpn.com
 127.0.0.1 get.optad360.io
-127.0.0.1 get.x-link.pl
 127.0.0.1 getagiftonline.com
 127.0.0.1 getlink-service.com
 127.0.0.1 getlink.pw
@@ -7552,7 +7498,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 global.adserver.yahoo.com
 127.0.0.1 global.ymtrack.com
 127.0.0.1 globalwebads.com
-127.0.0.1 gm.mmstat.com
 127.0.0.1 gmads.net
 127.0.0.1 go.admulti.com
 127.0.0.1 go.bb007.bbelements.com
@@ -7586,7 +7531,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 graphics.pop6.com
 127.0.0.1 gravitron.chron.com
 127.0.0.1 greasypalm.com
-127.0.0.1 gremimedia.pl
 127.0.0.1 grfx.mp3.com
 127.0.0.1 groupm.com
 127.0.0.1 grtexch.com
@@ -7770,7 +7714,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 images.people2people.com
 127.0.0.1 images.persgroepadvertising.be
 127.0.0.1 images.sexlist.com
-127.0.0.1 images.sohu.com
 127.0.0.1 images.steamray.com
 127.0.0.1 images.taboola.com
 127.0.0.1 images.trafficmp.com
@@ -7783,7 +7726,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 imc.l.qq.com
 127.0.0.1 img-a2.ak.imagevz.net
 127.0.0.1 img.3lift.com
-127.0.0.1 img.alibaba.com
 127.0.0.1 img.awr.im
 127.0.0.1 img.blogads.com
 127.0.0.1 img.directtrack.com
@@ -7868,7 +7810,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 ipm-provider.ff.avast.com
 127.0.0.1 iq001.adtech.fr
 127.0.0.1 iq001.adtech.us
-127.0.0.1 iqoption.com
 127.0.0.1 ir-de.amazon-adsystem.com
 127.0.0.1 ir-na.amazon-adsystem.com
 127.0.0.1 ir2.beap.gemini.yahoo.com
@@ -7936,7 +7877,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 js.goods.redtram.com
 127.0.0.1 js.himediads.com
 127.0.0.1 js.hotkeys.com
-127.0.0.1 js.hs-scripts.com
 127.0.0.1 js.hscollectedforms.net
 127.0.0.1 js.hsleadflows.net
 127.0.0.1 js.moatads.com
@@ -8157,9 +8097,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 m.servedby-buysellads.com
 127.0.0.1 m.tidebuy.com
 127.0.0.1 m.tribalfusion.com
-127.0.0.1 m1.nsimg.net
 127.0.0.1 m2.media-box.co
-127.0.0.1 m2.nsimg.net
 127.0.0.1 m4.media-box.co
 127.0.0.1 ma-kaeser.ch
 127.0.0.1 ma-plastifieuse.info
@@ -8667,7 +8605,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 p7.preppypm.com
 127.0.0.1 paclitor.com
 127.0.0.1 page.0ffer.eu
-127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pageplop.com
 127.0.0.1 pagesense.com
 127.0.0.1 paid.outbrain.com
@@ -8696,7 +8633,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 partner.wapster.pl
 127.0.0.1 partnerprogramma.bol.com
 127.0.0.1 partners.adklick.de
-127.0.0.1 partners.webmasterplan.com
 127.0.0.1 passeura.com
 127.0.0.1 passivemarcoanyhow.com
 127.0.0.1 pathforpoints.com
@@ -9166,7 +9102,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 runtime.lemonpi.io
 127.0.0.1 rv.adcpx.v1.de.eusem.adaos-ads.net
 127.0.0.1 s-adserver.sandbox.cxad.cxense.com
-127.0.0.1 s-bid.rmp.rakuten.com
 127.0.0.1 s-clk.rmp.rakuten.com
 127.0.0.1 s.ad131m.com
 127.0.0.1 s.admulti.com
@@ -9174,7 +9109,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 s.atemda.com
 127.0.0.1 s.baidu.com
 127.0.0.1 s.boom.ro
-127.0.0.1 s.click.aliexpress.com
 127.0.0.1 s.clickiocdn.com
 127.0.0.1 s.clicktale.net
 127.0.0.1 s.di.com.pl
@@ -9182,7 +9116,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 s.dynad.net
 127.0.0.1 s.flite.com
 127.0.0.1 s.innovid.com
-127.0.0.1 s.media-imdb.com
 127.0.0.1 s.megaclick.com
 127.0.0.1 s.moatads.com
 127.0.0.1 s.ntv.io
@@ -9272,7 +9205,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 secure.netscope.marktest.pt
 127.0.0.1 secure.webconnect.net
 127.0.0.1 securecloud-smart.com
-127.0.0.1 secureir.ebaystatic.com
 127.0.0.1 securerr.com
 127.0.0.1 securerunner.com
 127.0.0.1 security60-e.com
@@ -9350,8 +9282,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 share-clouds.com
 127.0.0.1 share-server.com
 127.0.0.1 share-stores.com
-127.0.0.1 shareaholic.com
-127.0.0.1 shareasale.com
 127.0.0.1 sharebar.addthiscdn.com
 127.0.0.1 shared-download.com
 127.0.0.1 sharefile-us.com
@@ -9532,7 +9462,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 staticd.cdn.adblade.com
 127.0.0.1 statistic.ads24h.net
 127.0.0.1 statistik-gallup.dk
-127.0.0.1 stats.appsflyer.com
 127.0.0.1 stats.askmoses.com
 127.0.0.1 stats.defense.gov
 127.0.0.1 stats.fd.nl
@@ -9766,7 +9695,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 tracking.joker.com
 127.0.0.1 tracking.keywordmax.com
 127.0.0.1 tracking.scientific-meets.com
-127.0.0.1 tracking.truthfinder.com
 127.0.0.1 tracking.vcommission.com
 127.0.0.1 tracking.veoxa.com
 127.0.0.1 trackvoluum.com
@@ -9774,7 +9702,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 tradecore.tradehouse.media
 127.0.0.1 tradelax.com
 127.0.0.1 tradem.com
-127.0.0.1 tradetracker.net
 127.0.0.1 traffic.adxprts.com
 127.0.0.1 traffic.adxprtz.com
 127.0.0.1 traffic.focuusing.com
@@ -9920,7 +9847,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 ve1.techgeetam.com
 127.0.0.1 ve2.techgeetam.com
 127.0.0.1 veirregnant.club
-127.0.0.1 vendorlist.consensu.org
 127.0.0.1 venetia.iad.appboy.com
 127.0.0.1 vhowland.co.uk
 127.0.0.1 vht.tradedoubler.com
@@ -9947,7 +9873,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 view.binlayer.com
 127.0.0.1 view.jamba.de
 127.0.0.1 views.m4n.nl
-127.0.0.1 viglink.com
 127.0.0.1 viglink.pgpartner.com
 127.0.0.1 vilagfigyelo.com
 127.0.0.1 vilaghelyzete.blogspot.com
@@ -10072,7 +9997,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 worry-free-savings.com
 127.0.0.1 wowanalytics.co.uk
 127.0.0.1 wppluginspro.com
-127.0.0.1 ws-na.amazon-adsystem.com
 127.0.0.1 wtp101.com
 127.0.0.1 ww1.flashx.net
 127.0.0.1 ww1510.smartadserver.com
@@ -10096,7 +10020,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.805m.com
 127.0.0.1 www.888.com
 127.0.0.1 www.888casino.com
-127.0.0.1 www.888poker.com
 127.0.0.1 www.90offbags.com
 127.0.0.1 www.961.com
 127.0.0.1 www.aandgwright.plus.com
@@ -10193,7 +10116,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.andyhawk.free-online.co.uk
 127.0.0.1 www.andymurray.plus.com
 127.0.0.1 www.annuaire-autosurf.com
-127.0.0.1 www.anrdoezrs.net
 127.0.0.1 www.api.taboola.com
 127.0.0.1 www.apogara.plus.com
 127.0.0.1 www.applelounge.com
@@ -10434,7 +10356,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.gigdnetwork.com
 127.0.0.1 www.gm4pgv.plus.com
 127.0.0.1 www.gmads.net
-127.0.0.1 www.googleadservices.com
 127.0.0.1 www.grabbit-rabbit.com
 127.0.0.1 www.greasypalm.com
 127.0.0.1 www.greatdexchange.com
@@ -10889,7 +10810,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www3.haberturk.com
 127.0.0.1 www3.smartadserver.com
 127.0.0.1 www3.telus.net
-127.0.0.1 www3.webhostingtalk.com
 127.0.0.1 www30.glam.com
 127.0.0.1 www30a1-orig.glam.com
 127.0.0.1 www30a1.glam.com
@@ -11022,7 +10942,6 @@ ff02::3		ip6-allhosts
 #<evercookies-sites>
 127.0.0.1 ar.hao123.com
 127.0.0.1 irs01.net
-127.0.0.1 kiks.yandex.ru
 127.0.0.1 y3.ifengimg.com
 #</evercookies-sites>
 
@@ -11532,9 +11451,8 @@ ff02::3		ip6-allhosts
 
 #<ecard-scam-sites>
 
-# malicious e-card -- these sites send out mass quantities of spam 
-	# and some distribute adware and spyware
-127.0.0.1 123greetings.com	# contains one link to distributor of adware or spyware
+# malicious e-card -- these sites send out mass quantities of spam
+# and some distribute adware and spyware
 127.0.0.1 2000greetings.com
 127.0.0.1 celebwelove.com
 127.0.0.1 ecard4all.com
@@ -11566,8 +11484,8 @@ ff02::3		ip6-allhosts
 
 #<wiki-spam-sites>
 
-# message board and wiki spam -- these sites are linked in 
-	# message board spam and are unlikely to be real sites
+# message board and wiki spam -- these sites are linked in
+# message board spam and are unlikely to be real sites
 127.0.0.1 21jewelry.com
 127.0.0.1 24x7.soliday.org
 127.0.0.1 2site.com
@@ -12067,7 +11985,7 @@ ff02::3		ip6-allhosts
 
 #<Windows10>
 
-# Windows 10 reporting domains. 
+# Windows 10 reporting domains.
 127.0.0.1 a.ads2.msads.net
 127.0.0.1 adnexus.net
 127.0.0.1 aidps.atdmt.com
@@ -12098,31 +12016,31 @@ ff02::3		ip6-allhosts
 # I'd like to thank the following people for submitting sites, and
 # helping promote the site.
 
-# Bill Allison, Harj Basi, Lance Russhing, Marshall Drew-Brook, 
+# Bill Allison, Harj Basi, Lance Russhing, Marshall Drew-Brook,
 #  Leigh Brasington, Scott Terbush, Cary Newfeldt, Kaye, Jeff
 #  Scrivener, Mark Hudson, Matt Bells, T. Kim Nguyen, Lino Demasi,
 #  Marcelo Volmaro, Troy Martin, Donald Kerns, B.Patten-Walsh,
 #  bobeangi, Chris Maniscalco, George Gilbert, Kim Nilsson, zeromus,
-#  Robert Petty, Rob Morrison, Clive Smith, Cecilia Varni, OleKing 
+#  Robert Petty, Rob Morrison, Clive Smith, Cecilia Varni, OleKing
 #  Cole, William Jones, Brian Small, Raj Tailor, Richard Heritage,
-#  Alan Harrison, Ordorica, Crimson, Joseph Cianci, sirapacz, 
-#  Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas 
-#  Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson, 
+#  Alan Harrison, Ordorica, Crimson, Joseph Cianci, sirapacz,
+#  Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas
+#  Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson,
 #  Simon Manderson, Spectre Ghost, Darren Tay, Dallas Eschenauer, Cecilia
-#  Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike 
-#  Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus, 
+#  Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike
+#  Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus,
 #  Zube, Johny Provoost, Peter Grafton, Johann Burkard, Magus, Ron Karner,
-#  Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers, 
+#  Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers,
 #  Shaika-Dzari, Vartkes Goetcherian, Michael McCown, Garth, Richard Nairn,
 #  Exzar Reed, Robert Gauthier, Floyd Wilder, Mark Drissel, Kenny Lyons,
 #  Paul Dunne, Tirath Pannu, Mike Lambert, Dan Kolcun, Daniel Aleksandersen,
-#  Chris Heegard, Miles Golding, Daniel Bisca, Frederic Begou, Charles 
-#  Fordyce, Mark Lehrer, Sebastien Nadeau-Jean, Russell Gordon, Alexey 
+#  Chris Heegard, Miles Golding, Daniel Bisca, Frederic Begou, Charles
+#  Fordyce, Mark Lehrer, Sebastien Nadeau-Jean, Russell Gordon, Alexey
 #  Gopachenko, Stirling Pearson, Alan Segal, Bobin Joseph, Chris Wall, Sean
 #  Flesch, Brent Getz, Jerry Cain, Brian Micek, Lee Hancock, Kay Thiele,
-#  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas 
+#  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas
 #  Marschall, Michael Tompkins, Michael O'Donnell, Jos&eacute; Lucas Teixeira
-#  de Oliveira, M. &Ouml;mer G&ouml;lgeli, and Anthony Gelibert for helping to build 
+#  de Oliveira, M. &Ouml;mer G&ouml;lgeli, and Anthony Gelibert for helping to build
 #  the hosts file.
 # Russell O'Connor for OS/2 information
 # kwadronaut for Windows 7 and Vista information

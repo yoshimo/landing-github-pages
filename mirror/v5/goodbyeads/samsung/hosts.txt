@@ -18,7 +18,7 @@
 #
 # --------------------------------------------
 # G O O D B Y E A D S  B E G I N S
-# --------------------------------------------   
+# --------------------------------------------
 0.0.0.0 a460.cell.phone.ringtone.samsung.sms13.de
 0.0.0.0 abtauthprd.samsungcloudsolution.com
 0.0.0.0 acr0.samsungcloudsolution.com
@@ -39,7 +39,6 @@
 0.0.0.0 coordinator-production-28516768.us-east-1.elb.amazonaws.com
 0.0.0.0 cpu.samsungelectronics.com
 0.0.0.0 d179kwmlpc4o47.cloudfront.net
-0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
 0.0.0.0 d2tnx644ijgq6i.cloudfront.net
 0.0.0.0 d3mjsomixevyw7.cloudfront.net
 0.0.0.0 events.samsungads.com
@@ -49,7 +48,6 @@
 0.0.0.0 gld.samsungosp.com
 0.0.0.0 gpm.samsungqbe.com
 0.0.0.0 infolink.pavv.co.kr
-0.0.0.0 insights.samsung.com
 0.0.0.0 invitation.samsungiotcloud.com
 0.0.0.0 kpu.samsungelectronics.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
@@ -69,7 +67,6 @@
 0.0.0.0 noticecdn.samsungcloudsolution.com
 0.0.0.0 noticefile.samsungcloudsolution.com
 0.0.0.0 ns11.whois.co.kr
-0.0.0.0 oempprd.samsungcloudsolution.com
 0.0.0.0 openapi.samsung.com
 0.0.0.0 osb-krsvc.samsungqbe.com
 0.0.0.0 osb-ussvc.samsungqbe.com
@@ -101,7 +98,6 @@
 0.0.0.0 samsungus.btttag.com
 0.0.0.0 sca.samsung.com
 0.0.0.0 smetrics.samsung.com
-0.0.0.0 sso.internetat.tv
 0.0.0.0 syncplusconfig.s3.amazonaws.com
 0.0.0.0 t.email1.samsung.ca
 0.0.0.0 targeted-config-test.samsungacr.com

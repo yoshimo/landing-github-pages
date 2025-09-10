@@ -1714,7 +1714,6 @@
 0.0.0.0 statement.third-domain.su
 0.0.0.0 static.168.181.132.142.clients.your-server.de
 0.0.0.0 static.194.154.201.138.clients.your-server.de
-0.0.0.0 static.3001.net
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.zongheng.com

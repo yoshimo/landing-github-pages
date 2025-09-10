@@ -20,14 +20,12 @@
 0.0.0.0 advice-ads.s3.amazonaws.com
 
 # --- Google Ads
-0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 adservice.google.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 afs.googlesyndication.com
 
 # --- Doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 ad.doubleclick.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 m.doubleclick.net
 0.0.0.0 mediavisor.doubleclick.net
@@ -47,10 +45,7 @@
 #========= Analytics ==========
 
 # --- Google Analytics
-0.0.0.0 analytics.google.com
 0.0.0.0 click.googleanalytics.com
-0.0.0.0 google-analytics.com
-0.0.0.0 ssl.google-analytics.com
 
 # --- Hotjar
 0.0.0.0 adm.hotjar.com
@@ -119,7 +114,6 @@
 # --- Pinterest
 0.0.0.0 ads.pinterest.com
 0.0.0.0 log.pinterest.com
-0.0.0.0 analytics.pinterest.com
 0.0.0.0 trk.pinterest.com
 
 # --- Reddit
@@ -145,7 +139,6 @@
 0.0.0.0 ads.yahoo.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 geo.yahoo.com
-0.0.0.0 udc.yahoo.com
 0.0.0.0 udcm.yahoo.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 partnerads.ysm.yahoo.com
@@ -177,8 +170,6 @@
 0.0.0.0 bdapi-in-ads.realmemobile.com
 
 # --- Xiaomi
-0.0.0.0 api.ad.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
@@ -211,7 +202,6 @@
 0.0.0.0 analytics-api.samsunghealthcn.com
 
 # --- Apple
-0.0.0.0 iadsdk.apple.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 api-adservices.apple.com

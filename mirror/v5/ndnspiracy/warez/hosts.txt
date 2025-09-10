@@ -72,7 +72,6 @@
 *.psychodownloads.com
 *.puredl.org
 *.puzo.org
-*.raidforums.com
 *.rapidheaven.com
 *.risbb.ru
 *.rlslog.net
@@ -80,7 +79,6 @@
 *.root-warez.com
 *.scnsrc.me
 *.sdcv.pl
-*.serials.ws
 *.sinister.ly
 *.snahp.it
 *.softddl.org
@@ -100,7 +98,6 @@
 *.volno.org
 *.vorek.pl
 *.warez-bb.icu
-*.warez-bb.org
 *.warez-host.com
 *.warez-serbia.com
 *.warez-ts.org

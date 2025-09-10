@@ -1,5 +1,4 @@
 *.1fichier.com
-*.4shared.com
 *.alfafile.net
 *.alldebrid.com
 *.alldebrid.de
@@ -63,7 +62,6 @@
 *.mixdrop.co
 *.nelion.me
 *.netu.best
-*.nitroflare.com
 *.nitroflare.net
 *.novafile.com
 *.openload.co
@@ -72,9 +70,7 @@
 *.playvidto.com
 *.prefiles.com
 *.putlockertv.to
-*.rapidgator.net
 *.real-debrid.com
-*.scribd.com
 *.sendit.cloud
 *.sendspace.com
 *.simfileshare.net
@@ -99,7 +95,6 @@
 *.vidoza.net
 *.vidoza.org
 *.vidtodo.com
-*.vk.com
 *.wayupload.com
 *.wdupload.com
 *.wipfiles.net
