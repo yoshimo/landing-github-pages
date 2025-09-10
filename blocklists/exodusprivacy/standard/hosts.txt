@@ -1,7 +1,7 @@
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
 # More info at https://go.blokada.org/exodusprivacy
-# Generated at 2025-09-10 08:31:37.937216
+# Generated at 2025-09-10 08:36:03.679984
 # Made by Blokada
 
 databerries.com
@@ -523,7 +523,6 @@ radar.cedexis.com
 tele.fm
 cdn-api.swirl.com
 sdk6.ibm.xtify.com
-marketo.com
 marketo.net
 mktoedge.com
 mktossl.com

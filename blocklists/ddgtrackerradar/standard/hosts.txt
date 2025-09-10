@@ -1,7 +1,7 @@
 # ddgtrackerradar standard
 # This host file is based on DuckDuckGo Tracker Radar.
 # More info at https://go.blokada.org/ddgtrackerradar
-# Generated at 2025-09-10 08:31:37.432340
+# Generated at 2025-09-10 08:36:03.245305
 # Made by Blokada
 
 *.rentcafe.com.cdn.cloudflare.net
@@ -616,7 +616,6 @@ a.storyblok.com
 a.teads.tv
 a.tempsreel.infoclimat.net
 a.tiaa-cdn.net
-a.tile.openstreetmap.fr
 a.tile.opentopomap.org
 a.travel-assets.com
 a.tribalfusion.com
@@ -629,6 +628,7 @@ a.videobaba.xyz
 a.vidoomy.com
 a.visitor-speed.com
 a.vstatic.com.edgekey.net
+a.w.bilicdn1.com
 a05edadd.with.contentpass.net
 a0813b15.with.contentpass.net
 a0d5709d-e980-4aa1-b073-95d386732732.rlets.com
@@ -684,9 +684,6 @@ aax-fe.amazon-adsystem.com
 aax.amazon-adsystem.com
 ab.g.globo
 ab59b707-5888-4db1-9e60-56f8e5177813.rlets.com
-abrtp1.marketo.com
-abrtp2.marketo.com
-abrtp3.marketo.com
 absolute-snow.freshchat.com
 abuwjaawap.cloudimg.io
 abyss-cloud.uhg.com
@@ -697,6 +694,7 @@ ac8911c4-5fc1-45f5-9255-f2e342bf287d.rlets.com
 ac8cd466-b88e-4e9a-adff-94c16d0d9226.rlets.com
 acbm.dragonforms.com
 accdn-vip.lpsnmedia.net
+accdn.lpsnmedia.net
 access.eye-able.com
 access.mp.lura.live
 access.redhat.com2.edgekey.net
@@ -1115,6 +1113,7 @@ announcements.catapultcms.com
 anonym.data.funkedigital.de
 answers-bot.frase.io
 answers.yext-pixel.com
+answersstatus.pagescdn.com
 antennasdirect-org-a6261e5de077f7817247342.freshchat.com
 anti-bot.n.shifen.com
 any.r10s.jp.edgekey.net
@@ -1144,17 +1143,6 @@ apopharmacy.adspirit.de
 app-37v3j6cu.marketingautomation.services
 app-3qni2m45hg.marketingautomation.services
 app-3qnujfskn4.marketingautomation.services
-app-ab04.marketo.com
-app-ab06.marketo.com
-app-ab10.marketo.com
-app-ab13.marketo.com
-app-ab20.marketo.com
-app-ab22.marketo.com
-app-ab24.marketo.com
-app-ab30.marketo.com
-app-ab46.marketo.com
-app-ab48.marketo.com
-app-aba.marketo.com
 app-api-resp.makeupar.com
 app-api.carebox.global
 app-api.gopf.com
@@ -1167,23 +1155,9 @@ app-cf.bc0a.com
 app-data.gcs.trstatic.net
 app-login-s6web-prod-skyplus6e.goindigo.in.edgekey.net
 app-login-sso-s6web-prod-skyplus6e.goindigo.in.edgekey.net
-app-lon03.marketo.com
 app-pages.storylane.io
 app-premium.onlim.com
 app-rsrc.getbee.io
-app-sj05.marketo.com
-app-sj06.marketo.com
-app-sj07.marketo.com
-app-sj11.marketo.com
-app-sj19.marketo.com
-app-sj21.marketo.com
-app-sj24.marketo.com
-app-sj26.marketo.com
-app-sj28.marketo.com
-app-sj30.marketo.com
-app-sjn.marketo.com
-app-sn01.marketo.com
-app-sn05.marketo.com
 app-widgets.jotform.io
 app-worker.visitor-analytics.io
 app.1clickpopup.com
@@ -1204,7 +1178,6 @@ app.authorizedpartner.com
 app.avada.io
 app.avrebo.net
 app.backinstock.org
-app.bentonow.com
 app.ca.five9.com
 app.campussuite.com
 app.careerarc.com
@@ -1217,7 +1190,6 @@ app.chatwoot.com
 app.cobrowser.com
 app.commslayer.com
 app.conversation24.com
-app.convertbox.com
 app.convertflow.co
 app.convertkit.com
 app.cpscentral.com
@@ -1236,6 +1208,7 @@ app.eu1.usercentrics.eu
 app.fastbots.ai
 app.five9.com
 app.flirtbees.com
+app.framerstatic.com
 app.friendlyanalytics.ch
 app.gatedcontent.com
 app.gatherup.com
@@ -1552,7 +1525,6 @@ assets.bosecreative.com
 assets.bounceexchange.com
 assets.bouyguestelecom.fr.edgekey.net
 assets.box.com.cdn.cloudflare.net
-assets.brevo.com
 assets.burberry.com.edgekey.net
 assets.byteplus.com.ttdns2.com
 assets.byub.org
@@ -2014,7 +1986,6 @@ b.sf-syn.com
 b.st-hatena.com
 b.stripecdn.com
 b.tempsreel.infoclimat.net
-b.tile.openstreetmap.fr
 b.triptease.io
 b.us5.us.criteo.com
 b.videoamp.com
@@ -2129,6 +2100,7 @@ bdc2020.o0bc.com
 bduhb.customers.edgetag.io
 be.durationmedia.net
 be3c876b-227c-40a3-81f1-e50138b0424a.rlets.com
+beacon-v2.helpscout.net
 beacon.beyondpricing.com
 beacon.cdnma.com
 beacon.lynx.cognitivlabs.com
@@ -2242,7 +2214,6 @@ blogparts.dgpot.com
 blogroll.livedoor.net
 blogto.dragonforms.com
 bloximages.chicago2.vip.townnews.com
-bloximages.newyork1.vip.townnews.com
 bluefcu.mpeasylink.com
 bluemercury-us.attn.tv
 blum.piwik.pro
@@ -2456,13 +2427,11 @@ c.sproutvideo.com
 c.staticblitz.com
 c.ststat.net
 c.tadst.com.cdn.cloudflare.net
-c.tile.openstreetmap.fr
 c.time1.me
 c.travel-assets.com
 c.us.heap-api.com
 c.webtrends-optimize.com
 c.woopic.com
-c02.purpledshub.com
 c03f.app.slickstream.com
 c04f.app.slickstream.com
 c05f.app.slickstream.com
@@ -2625,6 +2594,7 @@ capig.stape.vip
 capitalbluecross.mpeasylink.com
 capitalone-resources.digital-cloud.medallia.com
 capitalone.edge.nc0.co
+captcha.gtimg.com
 captcha.perimeterx.net
 captcha.px-cdn.net
 captcha.px-cloud.net
@@ -2858,7 +2828,6 @@ chlbanners.creativecirclemedia.com
 chm-images-prd.forward-publishing.io
 chm-web-app-assets.prod-ext.chmfin.com
 choczero-us.attn.tv
-choiceclips.whatfinger.com
 choices.consentframework.com
 choices.trustarc.com
 choices.truste.com
@@ -2889,6 +2858,7 @@ cioulgu25w.data.adobedc.net
 citizen-us.attn.tv
 citizenwatch.widen.net
 citybbq-us.attn.tv
+citynews.stgy.ovh
 cityofboise.jotform.com
 cityweekly.friends2follow.com
 civilbeat.coral.coralproject.net
@@ -2915,6 +2885,7 @@ cl-ms77f5af87.edgecdn.ru
 cl-msd7d209a7.mf.cdnmgf.megafon.ru
 cl-pbr.cxr.skeepers.io
 cl-ppr.rr.skeepers.io
+cl.avis-verifies.com
 cl.imghosts.com
 cl.k5a.io
 cl.qualaroo.com
@@ -3159,7 +3130,6 @@ commerceops.tryzens-analytics.com
 common.recipesgenerator.com
 commonwealthuprod.prod.acquia-sites.com
 comms.omnichannelengagementhub.com
-community.fastly.steamstatic.com
 community.vodafoneziggo.nl
 comoto.blueconic.net
 compare.allevents.in.clicktripz.com
@@ -3195,6 +3165,8 @@ components.myrocket.com
 components.netdirector.auto
 components.otstatic.com
 components.unidadeditorial.es
+components2.gazzettaobjects.it
+components2.rcsobjects.it
 composer.nprstations.org
 concertads-configs.vox-cdn.com
 concierge.capacity.com
@@ -3358,7 +3330,6 @@ contenu.snaping.net
 contextual-content.sirdata.io
 contextual.media.net
 conversational-eu-west-1.api.insided.com
-conversations-widget.brevo.com
 conversions.digitalwerksautomation.com
 cookie-bar.conversionbear.com
 cookie-cdn.cookiepro.com
@@ -3474,6 +3445,7 @@ cricket.att.ada.support
 cricket.inq.com
 cricketventures.ladesk.com
 crimages-rc.recoverybrands.com
+crm-static.wondershare.cc
 crm.wondershare.com
 cro-lab.novapower.io
 cro.crocdn.co.uk
@@ -3507,12 +3479,10 @@ cs10.pndoms.com
 cs11.adtazwhite.com
 cs11.pndoms.com
 cs2.bestchat.com
-cs3.wettercomassets.com
 cscript-cdn-irl.cassiecloud.com
 cscript-cdn-use.cassiecloud.com
 cse.expertrec.com
 csekhvms53-dsn.algolia.net
-csm.cxpublic.com
 csr--ion.bluenile.com.edgekey.net
 csr.onet.pl
 css-components.rxweb-prd.com
@@ -4168,7 +4138,6 @@ edge.api.flagsmith.com
 edge.approachguides.com
 edge.atmtd.com
 edge.cookiefirst.com
-edge.curalate.com
 edge.eu1.fullstory.com
 edge.flags.zappos.app
 edge.fullstory.com
@@ -4240,7 +4209,9 @@ email.ap.quiksilver.com
 embed-1100265.secondstreetapp.com
 embed-1110555.secondstreetapp.com
 embed-v2.testimonial.to
+embed.acast.com
 embed.adabundle.com
+embed.bsky.app
 embed.cartfulsolutions.com
 embed.chatling.ai
 embed.creator-spring.com
@@ -4371,6 +4342,9 @@ eu-assets.simpleview-europe.com
 eu-cdn.acsbapp.com
 eu-cdn.inside-graph.com
 eu-cdn.walkme.com
+eu-central-1-gamescom.graphassets.com
+eu-central-1-shared-euc1-02.graphassets.com
+eu-central-1.graphassets.com
 eu-data.kameleoon.eu
 eu-data.kameleoon.io
 eu-images.contentstack.com
@@ -4379,6 +4353,7 @@ eu-u.openx.net
 eu-us-cdn.consentmanager.net
 eu-west-1-chat-server.frontapp.com
 eu-west-1-wtb-tag-api.swaven.com
+eu-west-2.graphassets.com
 eu.accelerate.altis.cloud
 eu.acsbapp.com
 eu.b2c.com
@@ -4620,6 +4595,7 @@ feed.solads.media
 feedback.goto.com
 feedback.hubapi.com
 feedback.smg.com
+feeder.acast.com
 feeds.statepoint.net
 fees-next-front.mageworx.com
 feliz-web.data.tm-awx.com
@@ -4665,6 +4641,7 @@ files.holidaycottages.co.uk
 files.imbox.io
 files.interactives.dk
 files.jotform.com
+files.kick.com
 files.logoscdn.com
 files.mtstatic.com
 files.nc.gov
@@ -4960,7 +4937,6 @@ gastrosuisse-de.bubble-chat.ch
 gateway.bibliocommons.com
 gateway.bridged.media
 gateway.foresee.com
-gateway.kleinanzeigen.de.edgekey.net
 gateway.salesdish.com
 gateway.tweakwisenavigator.net
 gateway.us.zip.co
@@ -5178,6 +5154,8 @@ gql.contenthub.dev
 gr161.infusionsoft.com
 grace.prod.psjh.digcnp.io
 graco.ada.support
+gradio-fake-gan.hf.space
+gradio-map-airbnb.hf.space
 grandbrass2.services.answerbase.com
 grandviewmercantile-us.attn.tv
 granity-pinklabel-static-assets-production.xcdnpro.com
@@ -5723,7 +5701,6 @@ ik.imgkit.net
 ikkru.customers.edgetag.io
 ikunyxpe.use.stape.io
 il-trc-events.taboola.com
-in-automate.brevo.com
 in.au1.segmentapis.com
 in.getclicky.com
 in.stape.io
@@ -5967,6 +5944,7 @@ js.hsforms.net
 js.hsleadflows.net
 js.icony.com
 js.instant.one
+js.iplsc.com
 js.jotform.com
 js.js-bn.com.edgekey.net
 js.juicyads.com
@@ -5992,7 +5970,6 @@ js.refiner.io
 js.rev.iq
 js.sddan.com
 js.sitesearch360.com
-js.skyscnr.com.cdn.skyscannerplatform.net
 js.smct.io
 js.smile.io
 js.sparkloop.app
@@ -6039,6 +6016,8 @@ k7g2e5d2.delivery.rocketcdn.me
 k7g2e5d2.rocketcdn.me
 k886tw.a.searchspring.io
 k9monster.z00.monster
+kajabi-app-assets.kajabi-cdn.com
+kajabi-storefronts-production.kajabi-cdn.com
 kajabiaarnyhwq.dataplane.rudderstack.com
 kalahariresorts.cname.getrockerbox.com
 kalamazoocomi.api.civicclerk.com
@@ -6431,7 +6410,6 @@ lonewolf-us.attn.tv
 longandfosterimages.fnistools.com
 longines.com.dv.edgekey.net
 longwood-prod.lwcal.com
-lonrtp1.marketo.com
 look.ams-osram.com
 loopearplugs-gr.ada.support
 lop.perfecttitspics.com
@@ -6454,8 +6432,10 @@ lp-01.asynchronousmessaging.dashboard.co.uk
 lpcdn-gcp.lpsnmedia.net
 lpcdn-vip.lpsnmedia.net
 lpcdn.asynchronousmessaging.dashboard.co.uk
+lpcdn.lpsnmedia.net
 lpcdn2.lpsnmedia.net
 lpgear-us.attn.tv
+lptag.liveperson.net
 lsav.stape.io
 lscluster.hockeytech.com
 lt2.pigugroup.eu
@@ -6652,6 +6632,7 @@ mc.yandex.by
 mc.yandex.com
 mc.yandex.com.tr
 mc.yandex.fr
+mc.yango.com
 mcd-playlist.ex.co
 mcgeeandco.api.kustomerapp.com
 mcl.spur.us
@@ -6697,6 +6678,7 @@ media-eu2.digital.nuance.com
 media-foto.tcccdn.com
 media-jl-cdn.materlotteries.com.au.cdn.cloudflare.net
 media-public-ht.project1content.com
+media-s3-us-east-1.ceros.com
 media-thomascook.ipresso.pl
 media-triangle.canadiantire.ca.edgekey.net
 media-tvn24.ipresso.pl
@@ -6744,6 +6726,7 @@ media.flixcar.com
 media.focal-naim.com
 media.freeones.com
 media.gcflearnfree.org
+media.graphassets.com
 media.hellofresh.com
 media.holidaypirates.group
 media.images.ahpc.us
@@ -6770,26 +6753,12 @@ media.myteamscoop.com
 media.nationthailand.com.093fbdd4.c.cdnhwc7.com
 media.nationwide.com
 media.nationwide.com.edgekey.net
-media.nbcbayarea.com.edgekey.net
-media.nbcboston.com.edgekey.net
-media.nbcchicago.com.edgekey.net
-media.nbcconnecticut.com.edgekey.net
-media.nbcdfw.com.edgekey.net
-media.nbclosangeles.com.edgekey.net
-media.nbcmiami.com.edgekey.net
-media.nbcnewyork.com.edgekey.net
-media.nbcphiladelphia.com.edgekey.net
-media.nbcsandiego.com.edgekey.net
-media.nbcsportsbayarea.com.edgekey.net
-media.nbcsportsboston.com.edgekey.net
-media.nbcsportsphiladelphia.com.edgekey.net
-media.nbcwashington.com.edgekey.net
 media.nisbets.com
 media.olivegarden.com.edgekey.net
-media.os.fressnapf.com
 media.owcnow.com
 media.pelicaninternational.com
 media.post.rvohealth.io
+media.power-cdn.net
 media.printables.com
 media.prod.kkeu.de
 media.prusaprinters.org
@@ -6812,6 +6781,7 @@ media.sephora.eu
 media.sezzle.com
 media.soliver.com
 media.sperry.com.edgekey.net
+media.stubhubstatic.com
 media.sumome.com
 media.swagit.com
 media.swansonvitamins.com.cdn.cloudflare.net
@@ -7279,7 +7249,6 @@ nova.collect.igodigital.com
 nowoptics.bynder.com
 np-coburg.weekli.de
 npid.gmg.io
-npr.brightspotcdn.com
 nr-events.taboola.com
 nrma.inq.com
 nsf1.service-now.com
@@ -7575,6 +7544,7 @@ p-pc-weboff.byteimg.com.bytedns1.com
 p.ad.gt
 p.alcmpn.com
 p.alocdn.com
+p.bstarstatic.com
 p.conversion.ai
 p.cpx.to
 p.dmm.co.jp
@@ -7891,6 +7861,7 @@ player.lhserever.cc
 player.mediafuse.com
 player.orangeclickmedia.com
 player.pervyvideos.com
+player.podigee-cdn.net
 player.prisamedia.com
 player.qualifio.com
 player.redpineapplemedia.com
@@ -8267,6 +8238,7 @@ public.leafly.com.cdn.cloudflare.net
 public.monimaster.com.a.lahuashanbx.com
 public.powrcdn.com
 public.punchout2go.com
+public.rive.app
 public.tableau.com
 public.tockify.com
 public.topmediai.com.a.lahuashanbx.com
@@ -8378,7 +8350,6 @@ r-r10s-jp.gslb.rdcnw.net
 r.adgeek.net
 r.cdn.autotraderspecialty.com
 r.cdnpure.com
-r.curalate.com
 r.getcandid.com
 r.lgrckt-in.com
 r.logr-ingest.com
@@ -8783,7 +8754,6 @@ rtg.wewomedia.com
 rtic-us.attn.tv
 rtnc.maillist-manage.com
 rtnum.customers.edgetag.io
-rtp-static.marketo.com
 rts-static-prod.freshworksapi.com
 rtube.rctiplus.id
 rtve.reco.ebu.io
@@ -8993,7 +8963,6 @@ san-ion.noicp.scene7.com.edgekey.net
 san-ion.secure3.scene7.com.edgekey.net
 san-ion.secure4.scene7.com.edgekey.net
 san-www.racing.com.edgekey.net
-san.activision.com.edgekey.net
 san.foxsports.com.edgekey.net
 san.mcmaster.com.edgekey.net
 san.musely.edgekey.net
@@ -9207,10 +9176,12 @@ search.unbxd.io
 search.virail.app
 search.wiser.nl
 searchassets.oneorigin.us
+searchg2.crownpeak.net
 seasaltcornwall.api.useinsider.com
 seatcoversunlimited.services.answerbase.com
 seattle.redata.com
 seattlecu.eltropy.com
+seattleseahawks.cdn.usestoryteller.com
 seattletimes.coral.coralproject.net
 seb.humany.net
 sec.webeyez.com
@@ -9289,7 +9260,6 @@ servedby-us.flashtalking.com
 servedby.adhunter.de
 servedby.aqua-adserver.com
 servedby.flashtalking.com
-servedby.flaviar.com
 servedby.jewishcontentnetwork.com
 servedby.mannixmarketing.com
 servedby.revive-adserver.net
@@ -9445,7 +9415,6 @@ shop.batteryjoe.com
 shop.ldrescdn.com
 shop.mysynchrony.com
 shopbeam-us.attn.tv
-shopfairphonecom-7f4b2d14.deltablue.io
 shopify-cdn.getredo.com
 shopify-extension.getredo.com
 shopify-gtm-suite.getelevar.com
@@ -9532,17 +9501,10 @@ sitecore-cd.shangri-la.com.w.cdngslb.com
 sitegenesis.production.ua.coremedia.cloud
 siteintercept.qprod2.net
 sites-assets.faithlifecdn.com
+sites.ml.com.pagescdn.com
 siteusagetools.nerdwallet.com.cdn.cloudflare.net
 size-guides.esc-apps-cdn.com
 sjc.cloud.optable.co
-sjrtp1.marketo.com
-sjrtp2.marketo.com
-sjrtp4.marketo.com
-sjrtp5.marketo.com
-sjrtp6.marketo.com
-sjrtp7.marketo.com
-sjrtp8.marketo.com
-sjrtp9.marketo.com
 sk.search.etargetnet.com
 skanfil-signalr-prod.service.signalr.net
 skatedeluxe.ladesk.com
@@ -9620,7 +9582,6 @@ snir.asosservices.com.edgekey.net
 snir.www.asos.com.v4.edgekey.net
 snmzj.customers.edgetag.io
 snocks.app.baqend.com
-snrtp1.marketo.com
 snssdk-eu.ninebot.com
 snssdk.gatedata.org
 snssdk.insta360.com.cdn.cloudflare.net
@@ -9856,11 +9817,11 @@ static-assets-us.libcal.com
 static-assets-us.libguides.com
 static-assets.cargurus.com
 static-assets.dev.fs.liveperson.com
+static-assets.fs.liveperson.com
 static-assets.guccidigital.io
 static-assets.ny.gov.cdn.cloudflare.net
 static-autocomplete.fastsimon.com
 static-ca-cdn.eporner.com
-static-cdn.arte.tv-v1.edgekey.net
 static-cdn.bauersecure.com
 static-cdn.dragonforms.com
 static-cdn.mycliplister.com
@@ -9893,6 +9854,7 @@ static-news.ubisoft.com.edgekey.net
 static-origin.ctripgslb.com
 static-overlay.ubisoft.com.edgekey.net
 static-p02.thgnet.dk
+static-playback.prod.vidiocdn.com
 static-prod-us-east-1.campusgroups.com
 static-prod.castlery.co
 static-r2.gear4music.com
@@ -9908,6 +9870,7 @@ static-ud.udeskglobal.com
 static-ui-public.reputation.com
 static-us.vee24.com
 static-visual.fastsimon.com
+static-web.prod.vidiocdn.com
 static.24fastload.net
 static.972mag.com.cdn.cloudflare.net
 static.a-ads.com
@@ -10331,6 +10294,7 @@ static01-cms-evilangel.gammacdn.com
 static01-cms-fame.gammacdn.com
 static01-cms-openlife.gammacdn.com
 static03.galaxus.com
+static1.anpoimages.com
 static1.evcdn.net
 static1.hotcarsimages.com
 static1.howtogeekimages.com
@@ -10454,10 +10418,8 @@ store-cdn.djiits.com
 store-fe.bblcdn.com
 store-g64i9l.mybigcommerce.com
 store-gluxo.mybigcommerce.com
-store-images.s-microsoft.com-c.edgekey.net
 store-k9nvqai7wz.mybigcommerce.com
 store.bblcdn.com
-store.fastly.steamstatic.com
 storefront-solstorefront.frontastic.live
 storefront.api.nacelle.com
 storefront.personalizer.io
@@ -10469,6 +10431,7 @@ storefrontgateway.smartandfinal.com.cdn.cloudflare.net
 stories-api.pickystory.com
 stories.join-stories.com
 stories.mundodeportivo.com-v5.edgekey.net
+stories.usestoryteller.com
 stormdoorparts.services.answerbase.com
 storyblok.cdn.vmo2digital.co.uk
 storyblok.pleinaircdn.com
@@ -10499,6 +10462,7 @@ studio.airtory.com
 studio.simplifai.ai
 stuff.coral.coralproject.net
 stumptown-us.attn.tv
+style-cdn.ravelrycache.com
 stylecraze-proxy.ad-network-admin.workers.dev
 styles-cdn.maptoolkit.net
 su.semasio.net
@@ -10787,6 +10751,7 @@ tags.wnba.com.greylabeldelivery.com
 tags.woolworths.co.nz.greylabeldelivery.com
 tagservice.maximus.mobkoi.com
 taj1.ebis.ne.jp
+talk.hyvor.com
 talkdeskchatsdk.talkdeskapp.com
 tamaris.app.baqend.com
 tamu-prod.lwcal.com
@@ -10919,6 +10884,7 @@ thumb-v-nss.xhpingcdn.com
 thumb.live.mmcdn.com
 thumb.viva.id
 thumbnail.vidstream.pw
+thumbor.prod.vidiocdn.com
 thumbs.externulls.com
 thumbs.nosto.com
 thumbs.onlyfans.com
@@ -11223,6 +11189,7 @@ tvppl.hit.gemius.pl
 tvs-us.attn.tv
 tvwgg5.a.searchspring.io
 twa.netcoresmartech.com
+twdc-dtci.edge.nc0.co
 txgvmuseast2-ingress.baifentan.com
 type.cargo.site
 tyre-shoppergw.whoson.com
@@ -11302,7 +11269,6 @@ umami.kyluat.com
 umami.patrickdankers.nl
 umami.prowoodcrafts.com
 umami.staging1.ixchosted.com
-umap.openstreetmap.fr
 umbrella.data.naturalint.com
 umbrella.s3.naturalint.com
 umflint.campusgroups.com
@@ -11339,6 +11305,7 @@ up.clickiocdn.com
 upfitsupply.myconvermax.com
 upgradbalcvjs.dataplane.rudderstack.com
 uploads-cdn.stackla.com
+uploads-ssl.webflow.com
 uploads-us-west-2.insided.com
 uploads.deseret.com
 upmc.containers.piwik.pro
@@ -11362,7 +11329,9 @@ us-cdn.inside-graph.com
 us-central.dx.dialpad.com
 us-central1-gcp.api.sc-gw.com
 us-content.vergic.com
+us-east-1-bandai.graphassets.com
 us-east-1-cdn-ui.motorsport.com
+us-east-1-msg.graphassets.com
 us-east.dx.dialpad.com
 us-events.api.iheart.com
 us-jcpenney.vergic.com
@@ -11371,6 +11340,7 @@ us-transcoremdta.vergic.com
 us-u.openx.net
 us-west-1-chat-server.frontapp.com
 us-west-2-chat-server.frontapp.com
+us-west-2.graphassets.com
 us-west-2.symbeeconnect.com
 us.api.iheart.com
 us.app.unleash-hosted.com
@@ -11493,7 +11463,9 @@ v5.mpsuadv.ru
 v6.truvidplayer.com
 v8z9y6z5.delivery.rocketcdn.me
 v9fkoj.a.searchspring.io
+va.idp.liveperson.net
 va.nice-cdn.com
+va.v.liveperson.net
 vaa.edge.nc0.co
 vacdn.tsyndicate.com
 vaildaily.friends2follow.com
@@ -11602,6 +11574,7 @@ videos.walz.de
 videosvc.ezoic.com
 videothumb.gammacdn.com
 vidstat.taboola.com
+view.ceros.com
 view.h264.cam
 view.publitas.com
 view.skynav.app
@@ -11683,6 +11656,7 @@ vw-tam.lighthouselabs.eu
 vw1136.a.searchspring.io
 vxml4.plavxml.com
 vxy259ii.api.sanity.io
+vz-e097dd9c-65d.becdn.net
 vzh.15gifts.com
 vzoco.customers.edgetag.io
 w.ad.style
@@ -11987,6 +11961,7 @@ widget.leadferno.com
 widget.lifeinside.io
 widget.manychat.com
 widget.moin.ai
+widget.nfusionsolutions.com
 widget.nissandime.com
 widget.piggy.eu
 widget.playoncenter.com
@@ -12136,6 +12111,7 @@ wmchat.chatrandom.com
 wmchat.flingster.com
 wmicentral.friends2follow.com
 wms-api.jnm.digital
+wnba.cdn.usestoryteller.com
 wnw-us.attn.tv
 woerterbuch.hantrainerpro.de
 wohealth-relay.iocnt.net
