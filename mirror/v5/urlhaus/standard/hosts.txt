@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: 2025-09-10T00:10:59Z
+# Updated: 2025-09-10T12:10:40Z
 # Expires: 12 hours (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
@@ -165,7 +165,6 @@
 0.0.0.0 acheminement-mr.com
 0.0.0.0 acms.saleseos.com
 0.0.0.0 acrobat-updater.com
-0.0.0.0 activity-cha53sp.duckdns.org
 0.0.0.0 ad0besenderforward.com
 0.0.0.0 adapadske.org
 0.0.0.0 addicted.lovestoblog.com
@@ -188,7 +187,6 @@
 0.0.0.0 aestheticbalance.bg
 0.0.0.0 af252586-b8bc-483a-8746-8f15528289b9.random.patria.duckdns.org
 0.0.0.0 affordableasphalt-paving.com
-0.0.0.0 afrihealthexpo.org
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 agenciacrabli.com
 0.0.0.0 agriculture-lawyer.com
@@ -214,14 +212,15 @@
 0.0.0.0 amazeriencequant.net
 0.0.0.0 amazon-us53.com
 0.0.0.0 amuletweb.com
-0.0.0.0 amzsecure5sklp.duckdns.org
 0.0.0.0 anapa-zarya.ru
 0.0.0.0 andrefelipedonascime1753562407700.0461178.meusitehostgator.com.br
 0.0.0.0 andrefelipedonascime1756166725866.0531865.meusitehostgator.com.br
 0.0.0.0 angry-vaughan.196-251-72-205.plesk.page
 0.0.0.0 anonhax.site
+0.0.0.0 antvietnam.com
 0.0.0.0 anydeesk.ink
 0.0.0.0 anydeske.icu
+0.0.0.0 anyhoo.testeaza.eu
 0.0.0.0 apex.mk
 0.0.0.0 apexkolp.today
 0.0.0.0 apexservices.duckdns.org
@@ -293,6 +292,7 @@
 0.0.0.0 b2breservas.shop
 0.0.0.0 b6b7f61f7d406149.daemon.panel.gg
 0.0.0.0 babaobabaowin.shop
+0.0.0.0 babayaga.ro
 0.0.0.0 backupso.com
 0.0.0.0 badabyms.site
 0.0.0.0 bafybeiczynxttyfuspwnuinsw54och2tkicvhh3czwlxvmjlvjfkabw764.ipfs.dweb.link
@@ -312,7 +312,6 @@
 0.0.0.0 barrysploitbucket.s3.us-west-2.amazonaws.com
 0.0.0.0 baxes.joumizni.de
 0.0.0.0 bbk33.in
-0.0.0.0 bblissmassage.com
 0.0.0.0 bbrlxwtkbgvpnpfykexu.supabase.co
 0.0.0.0 bedoueroom.top
 0.0.0.0 bee496bd.pythonanywhere.com
@@ -402,6 +401,7 @@
 0.0.0.0 bypass287win.xyz
 0.0.0.0 c0e5b87c.solaraweb-alj.pages.dev
 0.0.0.0 c2.atomdata.xyz
+0.0.0.0 c2.mc-live.online
 0.0.0.0 c2.sombras.space
 0.0.0.0 c3436037.salamanderprocessing.pages.dev
 0.0.0.0 c9791c08-f1e4-4402-9510-d04c13c50ea3.selstorage.ru
@@ -449,7 +449,6 @@
 0.0.0.0 cdn.xiaoduoai.com
 0.0.0.0 ce06346ab546e95714b24383642e7e33.loophole.site
 0.0.0.0 cegelecinfo.fr
-0.0.0.0 celebratingseniors.net
 0.0.0.0 cerni-mix-01174839212-snort-20.resourcemaster.net
 0.0.0.0 certifica-lt.com
 0.0.0.0 cf-2-up.com
@@ -462,6 +461,7 @@
 0.0.0.0 chaparral.es
 0.0.0.0 chaparstore.com
 0.0.0.0 chapters-sofa-shopper-pasta.trycloudflare.com
+0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkerken.kernaltpoiceplaned.com
 0.0.0.0 checkerken1.kernaltpoiceplaned.com
 0.0.0.0 checkerken2.kernaltpoiceplaned.com
@@ -481,6 +481,7 @@
 0.0.0.0 ck.mize0ao1.ru
 0.0.0.0 ck1.bnwqdudbwqxxbiqwnjdwnqw.cfd
 0.0.0.0 class1004.dothome.co.kr
+0.0.0.0 classroomseven.com
 0.0.0.0 clc.is
 0.0.0.0 clgnymc.org
 0.0.0.0 clientes.sangrecreativa.com
@@ -781,6 +782,7 @@
 0.0.0.0 dow.895628.xyz
 0.0.0.0 down.54nb.com
 0.0.0.0 down.ftp21.cc
+0.0.0.0 down.fwqlt.com
 0.0.0.0 down.magicpacketlease.org
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
@@ -807,6 +809,7 @@
 0.0.0.0 download05.pdfgj.com
 0.0.0.0 download06.internetdownloadhub.biz
 0.0.0.0 downoadfilesfast.com
+0.0.0.0 dr.gowuhei.ru
 0.0.0.0 dr.hulenao.ru
 0.0.0.0 drbowale.kernaltpoiceplaned.com
 0.0.0.0 drgenov.com
@@ -832,6 +835,7 @@
 0.0.0.0 electrum-dogecoin.com
 0.0.0.0 electrum-wallet.icu
 0.0.0.0 elemasyon.com
+0.0.0.0 elisans.novayonetim.com
 0.0.0.0 embedone.com
 0.0.0.0 emergency-enquiries-standing-blake.trycloudflare.com
 0.0.0.0 empiricaludder.top
@@ -881,7 +885,6 @@
 0.0.0.0 fdsgfdsgdfgdf3446534653.icu
 0.0.0.0 fdstat.vip
 0.0.0.0 festive-heyrovsky.196-251-72-205.plesk.page
-0.0.0.0 ffclive.com
 0.0.0.0 fhasjcasd.click
 0.0.0.0 fiatie.top
 0.0.0.0 ficksau.work.gd
@@ -958,7 +961,6 @@
 0.0.0.0 gpbtpz.rodeo
 0.0.0.0 graceparkhawthornclub.com
 0.0.0.0 greenmile.ng
-0.0.0.0 greenpackages.biz
 0.0.0.0 gri.cyzukae.ru
 0.0.0.0 gridnodeessentials.com
 0.0.0.0 grikom.info
@@ -996,7 +998,6 @@
 0.0.0.0 hitstation.nl
 0.0.0.0 hkuu.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 hnjgdl.geps.glodon.com
-0.0.0.0 hobobot.net
 0.0.0.0 hogarsancamilo.org
 0.0.0.0 hollywoodcafeonmain.com
 0.0.0.0 home.organzoperate.com
@@ -1012,6 +1013,7 @@
 0.0.0.0 hqo.pewi2ee5.ru
 0.0.0.0 hr.silk-gen.com
 0.0.0.0 hranenie.pereezd-24.com
+0.0.0.0 hs.fypufea.ru
 0.0.0.0 hs.tyjyxie.ru
 0.0.0.0 huadongrubbercable.com
 0.0.0.0 hub.joumizni.de
@@ -1030,7 +1032,6 @@
 0.0.0.0 img.silk-gen.com
 0.0.0.0 imgredientbatchingsystems.com
 0.0.0.0 immobilien.ink
-0.0.0.0 imported-recommendations-let-ripe.trycloudflare.com
 0.0.0.0 imtoken8.cc
 0.0.0.0 in-mum-m11.icewarpcloud.in
 0.0.0.0 industries-ii-wine-details.trycloudflare.com
@@ -1110,6 +1111,7 @@
 0.0.0.0 khavar.com
 0.0.0.0 kind-leakey.196-251-114-105.plesk.page
 0.0.0.0 kingship101.lovestoblog.com
+0.0.0.0 kl.zyrupoe.ru
 0.0.0.0 klo.xevenyu.ru
 0.0.0.0 knmvrf.com
 0.0.0.0 koalaai.vip
@@ -1144,7 +1146,7 @@
 0.0.0.0 lena25vp.beget.tech
 0.0.0.0 letrucvert.com
 0.0.0.0 limitedexchange.cz
-0.0.0.0 lindenappliances.co.za
+0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 link.emcdn.ru
 0.0.0.0 link.scogo.in
 0.0.0.0 link.sowl.to
@@ -1152,7 +1154,6 @@
 0.0.0.0 linkssl.com
 0.0.0.0 linkury.s3-us-west-2.amazonaws.com
 0.0.0.0 linomu.com
-0.0.0.0 livetrack.in
 0.0.0.0 lj.gily1yo3.ru
 0.0.0.0 lmaitfy-beta.vercel.app
 0.0.0.0 loader.oxy.st
@@ -1176,6 +1177,7 @@
 0.0.0.0 lrs.gov-antivirus.com
 0.0.0.0 ltdpdf.net
 0.0.0.0 lunazinvest.com
+0.0.0.0 lup.gowuhei.ru
 0.0.0.0 luuk-lifestyle.eu
 0.0.0.0 m-global.hksty.net
 0.0.0.0 m.bal-stroi.ru
@@ -1186,7 +1188,6 @@
 0.0.0.0 mafia.trumdvfb.com
 0.0.0.0 mag0med.my.id
 0.0.0.0 mail-me.shop
-0.0.0.0 mail.amzsecure5sklp.duckdns.org
 0.0.0.0 mail.fuckingfor.live
 0.0.0.0 mail.mestierecolombia.com
 0.0.0.0 mail.silk-gen.com
@@ -1248,7 +1249,6 @@
 0.0.0.0 minute-madonna-cakes-supplemental.trycloudflare.com
 0.0.0.0 misshon.com
 0.0.0.0 mistlatch.click
-0.0.0.0 mitreart.com
 0.0.0.0 mixturro.com
 0.0.0.0 mizunoaoi.com
 0.0.0.0 mncxzswedf.lovestoblog.com
@@ -1266,6 +1266,7 @@
 0.0.0.0 moruk.xyz
 0.0.0.0 motre.jbvpshosti.com
 0.0.0.0 mra.teziriy.ru
+0.0.0.0 mri.jozotea.ru
 0.0.0.0 mrsitvm.org
 0.0.0.0 mrst2020.mse.mcut.edu.tw
 0.0.0.0 ms-team-ping2.com
@@ -1274,7 +1275,7 @@
 0.0.0.0 mundocarnes.cl
 0.0.0.0 muriaspetin.es
 0.0.0.0 murphkirk.com
-0.0.0.0 mvmconstructores.com
+0.0.0.0 muzzumilruheel.com
 0.0.0.0 mx.puva6ey2.ru
 0.0.0.0 mx1.sweatscissors.com
 0.0.0.0 mx2.sweatscissors.com
@@ -1345,11 +1346,13 @@
 0.0.0.0 ntf.mohtash.ir
 0.0.0.0 nueva2024.duckdns.org
 0.0.0.0 nusatoyota.co.id
+0.0.0.0 nutrisc.com.br
 0.0.0.0 nvtai.id.vn
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 o24o.ru
 0.0.0.0 o365drive-support.com
 0.0.0.0 oatmealyeah.com
+0.0.0.0 oborploiesti.ro
 0.0.0.0 office-service-cdt.com
 0.0.0.0 ofice365.github.io
 0.0.0.0 oh-my-oh.my
@@ -1369,13 +1372,12 @@
 0.0.0.0 onlinemicrosoft-1318069902.cos.ap-chengdu.myqcloud.com
 0.0.0.0 onlinetanecni.cz
 0.0.0.0 onyxaquarius.de
-0.0.0.0 onyxarmorcrypt.de
+0.0.0.0 onyxcryptorix.de
 0.0.0.0 onyxcyberapex.de
 0.0.0.0 onyxcyberedge.de
 0.0.0.0 onyxfortifypro.de
 0.0.0.0 onyxfortitech.de
 0.0.0.0 onyxguardify.de
-0.0.0.0 onyxguardshift.de
 0.0.0.0 onyxguardwave.de
 0.0.0.0 onyxironvault.de
 0.0.0.0 onyxleo.de
@@ -1478,7 +1480,6 @@
 0.0.0.0 printwithonestart.com
 0.0.0.0 procuratio.nu
 0.0.0.0 produos.net
-0.0.0.0 programandojuntos.us.tempcloudsite.com
 0.0.0.0 programme-newspaper.gl.at.ply.gg
 0.0.0.0 progressdev.xyz
 0.0.0.0 project.tmnstudio.com
@@ -1522,6 +1523,7 @@
 0.0.0.0 qtrexa.com
 0.0.0.0 queue.joumizni.de
 0.0.0.0 qv.hicymui.ru
+0.0.0.0 qx.jozotea.ru
 0.0.0.0 radicadoscol001.infy.uk
 0.0.0.0 ramactools.net
 0.0.0.0 ransokk.de
@@ -1529,12 +1531,11 @@
 0.0.0.0 rapitec.net
 0.0.0.0 raw.brrewsh.org
 0.0.0.0 raw.vaticanc2.top
-0.0.0.0 razorcrypter.com
 0.0.0.0 rc.tigelie.ru
 0.0.0.0 rdm.91yunma.cn
 0.0.0.0 readme-dw.online
-0.0.0.0 records.dennisign.se
 0.0.0.0 recruitmentsadd.lovestoblog.com
+0.0.0.0 redeamazoniaazul.org
 0.0.0.0 redempti.com
 0.0.0.0 redlk.com
 0.0.0.0 redroademail.com
@@ -1613,7 +1614,6 @@
 0.0.0.0 seamlessvideowall.com
 0.0.0.0 sec.xiaoshabi.nl
 0.0.0.0 sector-panel-ymc.gvaz.net
-0.0.0.0 secure-chase07awebactivity098392039023.duckdns.org
 0.0.0.0 secure.internxt.com
 0.0.0.0 secure.silk-gen.com
 0.0.0.0 secure.third-domain.su
@@ -1698,7 +1698,6 @@
 0.0.0.0 spider-wamp.com
 0.0.0.0 spoar.org.in
 0.0.0.0 spost.vip
-0.0.0.0 spst.hqup.in
 0.0.0.0 spurdoverse.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 srv841721.hstgr.cloud
@@ -1724,7 +1723,6 @@
 0.0.0.0 statuevert.4pu.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 stioman.com
-0.0.0.0 stonecradle.com
 0.0.0.0 store.cloudsdog.top
 0.0.0.0 storeshomeestudiosfluworks.xyz
 0.0.0.0 storeshomeestusfluwork.store
@@ -1821,6 +1819,7 @@
 0.0.0.0 tiktokbot.org
 0.0.0.0 timconnorscoach.com
 0.0.0.0 tirtasentosa.com
+0.0.0.0 tiv.lizusey.ru
 0.0.0.0 tiwanlinm.duckdns.org
 0.0.0.0 tjljk.info
 0.0.0.0 tku.rowe6yi5.ru
@@ -1861,6 +1860,8 @@
 0.0.0.0 tz.vikidii.ru
 0.0.0.0 u6.bhahkt1.sa.com
 0.0.0.0 uat.joumizni.de
+0.0.0.0 uc35f76040a49200c98fb0a2bdfe.dl.dropboxusercontent.com
+0.0.0.0 uce38661e24f2091d9f1858b7225.dl.dropboxusercontent.com
 0.0.0.0 udadu.org
 0.0.0.0 udobrit.ru
 0.0.0.0 uk.silk-gen.com
@@ -1870,6 +1871,7 @@
 0.0.0.0 unimed-corporation.com
 0.0.0.0 union-victor.gl.at.ply.gg
 0.0.0.0 unique-kataifi-8d2aac.netlify.app
+0.0.0.0 universitariaglobal.com
 0.0.0.0 unjiproxy.p-e.kr
 0.0.0.0 unknown-host.ddns.net
 0.0.0.0 upchemicals.co.in
@@ -1914,6 +1916,7 @@
 0.0.0.0 verification84125.info
 0.0.0.0 veritas-digital.lovestoblog.com
 0.0.0.0 veryboys.com
+0.0.0.0 vex.zyrupoe.ru
 0.0.0.0 vfbkix.com
 0.0.0.0 vfutok.com
 0.0.0.0 vgd.vg
@@ -2004,6 +2007,7 @@
 0.0.0.0 www-account-booking.com
 0.0.0.0 www2.0zz0.com
 0.0.0.0 www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com
+0.0.0.0 www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 x-web-drv.net
@@ -2041,6 +2045,7 @@
 0.0.0.0 yhc-home-panel.gvaz.net
 0.0.0.0 yho-homepage.gvaz.net
 0.0.0.0 ykapi.luyou.360.cn
+0.0.0.0 ym.lizusey.ru
 0.0.0.0 yongtai.cn
 0.0.0.0 yorja.org
 0.0.0.0 yosa.com
@@ -2067,7 +2072,6 @@
 0.0.0.0 youwhotravel.com
 0.0.0.0 yoyely.nl
 0.0.0.0 yp.rijo6oe1.ru
-0.0.0.0 ysbaojia.com
 0.0.0.0 yujuseguros.net
 0.0.0.0 yuliyayantsevich.by
 0.0.0.0 yumdigital.com
