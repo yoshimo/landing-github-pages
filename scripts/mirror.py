@@ -34,6 +34,7 @@ import getopt
 import urllib.request
 from shutil import copyfile
 from os import path
+from whitelist_filter import WhitelistFilter
 
 
 def main(argv):
@@ -45,16 +46,14 @@ def main(argv):
 
     base_path = "."
     
-    # load whitelist if any
-    whitelist = []
-    try:
-        with open(path.join(base_path, "whitelist")) as f:
-            whitelist = f.read().split("\n")
-        print(f"  Loaded whitelist with {len(whitelist)} entries")
-    except FileNotFoundError:
+    # Initialize whitelist filter
+    whitelist_filter = WhitelistFilter()
+    whitelist_path = path.join(base_path, "whitelist")
+    
+    if whitelist_filter.load_whitelist(whitelist_path):
+        print(f"  Loaded whitelist with {len(whitelist_filter.whitelist)} entries")
+    else:
         print("  No whitelist file found, proceeding without filtering")
-    except Exception as e:
-        print(f"  Failed to load whitelist: {e}")
     
     config = {
         "mode": "v5",
@@ -857,48 +856,9 @@ def main(argv):
                     copyfile(url, file_path)
 
                 # Apply whitelist filtering if whitelist is loaded
-                if whitelist:
+                if whitelist_filter.whitelist:
                     print(f"  Applying whitelist filtering to: {file_path}")
-                    filtered_lines = []
-                    original_count = 0
-                    filtered_count = 0
-                    
-                    with open(file_path, "r") as file:
-                        for line in file:
-                            original_count += 1
-                            line = line.strip()
-                            if not line or line.startswith("#"):
-                                filtered_lines.append(line + "\n")
-                                continue
-                            
-                            # Extract domain from various host file formats
-                            parts = line.split()
-                            domain = ""
-                            
-                            if len(parts) >= 2:
-                                # Format: "0.0.0.0 domain.com" or "127.0.0.1 domain.com"
-                                domain = parts[1]
-                            elif len(parts) == 1:
-                                # Format: "domain.com"
-                                domain = parts[0]
-                            
-                            # Clean up domain
-                            domain = domain.strip().lower()
-                            if domain.startswith("*."):
-                                domain = domain[2:]
-                            
-                            # Check if domain is in whitelist
-                            if domain and domain in whitelist:
-                                print(f"  Skipping (whitelisted): {domain}")
-                                filtered_count += 1
-                                continue
-                            
-                            filtered_lines.append(line + "\n")
-                    
-                    # Write filtered content back to file
-                    with open(file_path, "w") as file:
-                        for line in filtered_lines:
-                            file.write(line)
+                    original_count, filtered_count = whitelist_filter.filter_blocklist_file(file_path)
                     
                     if filtered_count > 0:
                         print(f"  Filtered out {filtered_count} whitelisted domains from {original_count} total lines")
