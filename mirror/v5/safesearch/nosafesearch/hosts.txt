@@ -65,6 +65,7 @@ search.spaeth.me
 search.st8.at
 search.stinpriza.org
 search.yahoo.com
+searchencrypt.com
 searchx.mobi
 searx.32bitflo.at
 searx.alec.ninja

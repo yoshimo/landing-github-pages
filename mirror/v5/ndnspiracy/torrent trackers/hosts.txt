@@ -223,6 +223,7 @@
 *.tracker.bz
 *.tracker.coppersurfer.tk
 *.tracker.corpscorp.online
+*.tracker.cyber-hub.net
 *.tracker.cyberia.is
 *.tracker.dler.org
 *.tracker.ds.is
@@ -296,6 +297,7 @@
 *.tracker.torrentsnows.com
 *.tracker.torrenty.org
 *.tracker.torrentyorg.pl
+*.tracker.trackerfix.com
 *.tracker.trackton.ga
 *.tracker.tricitytorrents.com
 *.tracker.tvunderground.org.ru

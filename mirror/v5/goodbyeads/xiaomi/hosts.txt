@@ -32,6 +32,7 @@
 0.0.0.0 adfuture.cn
 0.0.0.0 adinfo.ra1.xlmc.sec.miui.com
 0.0.0.0 adsunflower.com
+0.0.0.0 adups.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 analytics3.starschina.com
@@ -234,6 +235,7 @@
 0.0.0.0 tw13b093.sandai.net
 0.0.0.0 union.dbba.cn
 0.0.0.0 upgrade.mishop.pandora.xiaomi.com
+0.0.0.0 url8807.global.passport.xiaomi.com
 0.0.0.0 userid.xiaomi.com
 0.0.0.0 v2.fm.n.duokanbox.com
 0.0.0.0 v2.reachmax.cn

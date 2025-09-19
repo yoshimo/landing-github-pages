@@ -1051,6 +1051,7 @@
 127.0.0.1 fota5t.adups.cn
 
 # [adups.com]
+127.0.0.1 adups.com
 127.0.0.1 ap.adups.com
 127.0.0.1 clean.adups.com
 127.0.0.1 fota5.adups.com
@@ -1084,6 +1085,7 @@
 127.0.0.1 advertica-cdn.com
 
 # [advertising.com]
+127.0.0.1 advertising.com
 127.0.0.1 ace-tag.advertising.com
 127.0.0.1 ads.adaptv.advertising.com
 127.0.0.1 cdn.adaptv.advertising.com
@@ -1421,6 +1423,7 @@
 127.0.0.1 z-na.amazon-adsystem.com
 
 # [amazon.com]
+127.0.0.1 aan.amazon.com
 127.0.0.1 aax-us-east-retail-direct.amazon.com
 
 # [ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com]
@@ -1601,6 +1604,7 @@
 127.0.0.1 go1.aniview.com
 127.0.0.1 gov.aniview.com
 127.0.0.1 observe.aniview.com
+127.0.0.1 play.aniview.com
 127.0.0.1 player.aniview.com
 127.0.0.1 premiumsrv.aniview.com
 127.0.0.1 s2s.aniview.com
@@ -1677,6 +1681,7 @@
 127.0.0.1 a.appbaqend.com
 
 # [appboy-images.com]
+127.0.0.1 appboy-images.com
 
 # [appboy.com]
 127.0.0.1 appboy.com
@@ -1709,6 +1714,7 @@
 127.0.0.1 appclick.co
 
 # [appdynamics.com]
+127.0.0.1 cdn.appdynamics.com
 
 # [apperol.com]
 127.0.0.1 trk.apperol.com
@@ -1833,6 +1839,7 @@
 127.0.0.1 api.appsee.com
 
 # [appsflyer.com]
+127.0.0.1 appsflyer.com
 127.0.0.1 adrevenue.appsflyer.com
 127.0.0.1 api.appsflyer.com
 127.0.0.1 api2.appsflyer.com
@@ -2119,6 +2126,7 @@
 127.0.0.1 a1.api.bbc.co.uk
 
 # [bbci.co.uk]
+127.0.0.1 mybbc-analytics.files.bbci.co.uk
 
 # [beaconsinspace.com]
 127.0.0.1 api.beaconsinspace.com
@@ -2240,7 +2248,9 @@
 127.0.0.1 tracking.bloomberg.com
 
 # [bluebillywig.com]
+127.0.0.1 cdn.bluebillywig.com
 127.0.0.1 stats.bluebillywig.com
+127.0.0.1 vms.bluebillywig.com
 
 # [bluecava.com]
 127.0.0.1 bluecava.com
@@ -2329,6 +2339,9 @@
 127.0.0.1 client-analytics.braintreegateway.com
 
 # [branch.io]
+127.0.0.1 api.branch.io
+127.0.0.1 api2.branch.io
+127.0.0.1 cdn.branch.io
 127.0.0.1 vulcan.branch.io
 
 # [brand-display.com]
@@ -2398,6 +2411,7 @@
 
 # [brid.tv]
 127.0.0.1 cdn.brid.tv
+127.0.0.1 p.brid.tv
 127.0.0.1 services.brid.tv
 127.0.0.1 stats-dev.brid.tv
 
@@ -2900,6 +2914,8 @@
 # [cnn.com]
 127.0.0.1 agility.cnn.com
 127.0.0.1 collector.cdp.cnn.com
+127.0.0.1 z.cdp-dev.cnn.com
+127.0.0.1 data.cnn.com
 127.0.0.1 lightning.cnn.com
 127.0.0.1 mms.cnn.com
 127.0.0.1 smetrics.cnn.com
@@ -2961,10 +2977,13 @@
 # [connatix.com]
 127.0.0.1 assets.connatix.com
 127.0.0.1 cdn.connatix.com
+127.0.0.1 cds.connatix.com
 127.0.0.1 ck.connatix.com
 127.0.0.1 cks.connatix.com
 127.0.0.1 core.connatix.com
 127.0.0.1 i.connatix.com
+127.0.0.1 img.connatix.com
+127.0.0.1 vid.connatix.com
 
 # [connectad.io]
 127.0.0.1 e.connectad.io
@@ -3026,6 +3045,7 @@
 127.0.0.1 cdn-3.convertexperiments.com
 
 # [conviva.com]
+127.0.0.1 conviva.com
 127.0.0.1 47e224be59415ec068b94bca857581bd7dde7fb6.cws.conviva.com
 127.0.0.1 87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
 127.0.0.1 efcad85fded269f462c434c4c5f84654a17d4a77.cws.conviva.com
@@ -3397,6 +3417,7 @@
 127.0.0.1 tag.demandbase.com
 
 # [demdex.net]
+127.0.0.1 demdex.net
 127.0.0.1 americanairlines.demdex.net
 127.0.0.1 audible.demdex.net
 127.0.0.1 bestbuy.demdex.net
@@ -3680,6 +3701,8 @@
 127.0.0.1 static.ecorebates.com
 
 # [edgekey.net]
+127.0.0.1 analytics.edgekey.net
+127.0.0.1 79423.analytics.edgekey.net
 127.0.0.1 ma1169-r.analytics.edgekey.net
 127.0.0.1 ma1275-r.analytics.edgekey.net
 127.0.0.1 ma1498-r.analytics.edgekey.net
@@ -3853,6 +3876,7 @@
 127.0.0.1 imp.emxdgt.com
 
 # [en25.com]
+127.0.0.1 img.en25.com
 
 # [engageclick.com]
 127.0.0.1 tracker.engageclick.com
@@ -4213,6 +4237,7 @@
 # [g5e.com]
 127.0.0.1 cdn.g5e.com
 127.0.0.1 ceg.g5e.com
+127.0.0.1 collecting-consent.g5e.com
 127.0.0.1 most-popular-info.g5e.com
 127.0.0.1 pgpl.g5e.com
 127.0.0.1 pushwoosh.g5e.com
@@ -4407,10 +4432,13 @@
 # [google-analytics.com]
 
 # [google.com]
+127.0.0.1 ads.google.com
 127.0.0.1 adservice.google.com
 
 # [googleadservices.com]
+127.0.0.1 googleadservices.com
 127.0.0.1 pagead2.googleadservices.com
+127.0.0.1 www.googleadservices.com
 
 # [googleadsserving.cn]
 127.0.0.1 static.googleadsserving.cn
@@ -4517,6 +4545,7 @@
 127.0.0.1 rp.gwallet.com
 
 # [h-cdn.com]
+127.0.0.1 perr.h-cdn.com
 
 # [h12-media.com]
 127.0.0.1 h12-media.com
@@ -4638,6 +4667,7 @@
 127.0.0.1 analytics.htmedia.in
 
 # [hulu.com]
+127.0.0.1 t2.hulu.com
 
 # [humann.com]
 127.0.0.1 segment-api.humann.com
@@ -4803,12 +4833,14 @@
 127.0.0.1 impression.link
 
 # [imrworldwide.com]
+127.0.0.1 cdn-gl.imrworldwide.com
 127.0.0.1 cloudapi.imrworldwide.com
 127.0.0.1 cm.imrworldwide.com
 127.0.0.1 errors.imrworldwide.com
 127.0.0.1 global.imrworldwide.com
 127.0.0.1 priv-policy.imrworldwide.com
 127.0.0.1 sdk.imrworldwide.com
+127.0.0.1 seccdn-gl.imrworldwide.com
 127.0.0.1 secure-au.imrworldwide.com
 127.0.0.1 secure-cert.imrworldwide.com
 127.0.0.1 secure-dcr.imrworldwide.com
@@ -5359,6 +5391,7 @@
 127.0.0.1 trk.kissmetrics.com
 
 # [klaviyo.com]
+127.0.0.1 a.klaviyo.com
 127.0.0.1 fast.a.klaviyo.com
 127.0.0.1 static.klaviyo.com
 127.0.0.1 telemetrics.klaviyo.com
@@ -5634,6 +5667,7 @@
 127.0.0.1 player.stats.live-video.net
 
 # [liveperson.net]
+127.0.0.1 server.iad.liveperson.net
 127.0.0.1 lptag.liveperson.net
 
 # [livesegmentservice.com]
@@ -6176,6 +6210,7 @@
 127.0.0.1 xiaomi-mipdx.cn.miaozhen.com
 
 # [micpn.com]
+127.0.0.1 assets.micpn.com
 
 # [microad.jp]
 127.0.0.1 microad.jp
@@ -6251,6 +6286,7 @@
 127.0.0.1 go.mmstat.com
 127.0.0.1 gxb.mmstat.com
 127.0.0.1 hd.mmstat.com
+127.0.0.1 log.mmstat.com
 127.0.0.1 oneid.mmstat.com
 127.0.0.1 perf.mmstat.com
 127.0.0.1 res.mmstat.com
@@ -6514,6 +6550,7 @@
 127.0.0.1 cfimage.moengage.com
 127.0.0.1 ec.moengage.com
 127.0.0.1 image.moengage.com
+127.0.0.1 sdk-02.moengage.com
 127.0.0.1 websdk.moengage.com
 
 # [monedata.io]
@@ -6713,6 +6750,7 @@
 127.0.0.1 aamt.nbcnews.com
 
 # [nbcsports.com]
+127.0.0.1 geo.nbcsports.com
 
 # [nbcuas.com]
 127.0.0.1 tracker.nbcuas.com
@@ -6894,6 +6932,7 @@
 127.0.0.1 mraid.prod.cloud.ogury.io
 127.0.0.1 ms-ads.prod.cloud.ogury.io
 127.0.0.1 wsback2b.prod.cloud.ogury.io
+127.0.0.1 consent-manager-events.ogury.io
 127.0.0.1 dsp-1.ogury.io
 
 # [okanjo.com]
@@ -6974,6 +7013,7 @@
 127.0.0.1 onetag-sys.com
 
 # [onetrust.com]
+127.0.0.1 geolocation.onetrust.com
 
 # [online-metrix.net]
 127.0.0.1 aa.online-metrix.net
@@ -7198,6 +7238,7 @@
 127.0.0.1 log.particlenews.com
 
 # [paypal.com]
+127.0.0.1 b.stats.paypal.com
 127.0.0.1 slc.stats.paypal.com
 
 # [pdbarea.com]
@@ -7682,6 +7723,7 @@
 127.0.0.1 client.rave-api.com
 
 # [ravm.tv]
+127.0.0.1 ravm.tv
 127.0.0.1 display.ravm.tv
 127.0.0.1 hb-t5u9.raps.ravm.tv
 
@@ -8042,6 +8084,7 @@
 127.0.0.1 tracker.samplicio.us
 
 # [samsung.com]
+127.0.0.1 insights.samsung.com
 
 # [samsungadhub.com]
 127.0.0.1 ad.samsungadhub.com
@@ -8135,6 +8178,7 @@
 
 # [segment.com]
 127.0.0.1 app.segment.com
+127.0.0.1 cdn.segment.com
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 idsync.segment.com
 127.0.0.1 mobile-service.segment.com
@@ -8240,6 +8284,7 @@
 127.0.0.1 t.sharethis.com
 127.0.0.1 w.sharethis.com
 127.0.0.1 wd-edge.sharethis.com
+127.0.0.1 ws.sharethis.com
 
 # [sharethrough.com]
 127.0.0.1 b.sharethrough.com
@@ -8381,6 +8426,7 @@
 127.0.0.1 tkclick.smardroid.com
 
 # [smart.link]
+127.0.0.1 smart.link
 
 # [smartadserver.com]
 127.0.0.1 diff.smartadserver.com
@@ -8684,6 +8730,7 @@
 
 # [stat24.com]
 127.0.0.1 hit.stat24.com
+127.0.0.1 ipla.hit.stat24.com
 
 # [stathat.com]
 127.0.0.1 api.stathat.com
@@ -9191,7 +9238,9 @@
 # [tinypass.com]
 127.0.0.1 api-v3.tinypass.com
 127.0.0.1 buy.tinypass.com
+127.0.0.1 cdn.tinypass.com
 127.0.0.1 dashboard.tinypass.com
+127.0.0.1 experience.tinypass.com
 127.0.0.1 id.tinypass.com
 127.0.0.1 sandbox.tinypass.com
 
@@ -9384,6 +9433,7 @@
 # [truste.com]
 127.0.0.1 choices.truste.com
 127.0.0.1 preferences.truste.com
+127.0.0.1 privacy-policy.truste.com
 
 # [trustx.org]
 127.0.0.1 sofia.trustx.org
@@ -9653,6 +9703,7 @@
 127.0.0.1 boxoffice.urbanairship.com
 127.0.0.1 c00162-dl.urbanairship.com
 127.0.0.1 combine.urbanairship.com
+127.0.0.1 device-api.urbanairship.com
 127.0.0.1 remote-data.urbanairship.com
 127.0.0.1 sbux-dl.urbanairship.com
 127.0.0.1 web-sdk.urbanairship.com
@@ -10117,6 +10168,7 @@
 
 # [worldnow.com]
 127.0.0.1 content.worldnow.com
+127.0.0.1 ftpcontent.worldnow.com
 127.0.0.1 kake.images.worldnow.com
 
 # [wowanalytics.co.uk]

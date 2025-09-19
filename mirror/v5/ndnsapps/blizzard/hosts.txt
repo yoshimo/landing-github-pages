@@ -1,1 +1,2 @@
 *.battle.net
+*.blizzard.com

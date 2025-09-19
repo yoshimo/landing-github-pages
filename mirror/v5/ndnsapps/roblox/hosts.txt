@@ -1,1 +1,2 @@
 *.rbxcdn.com
+*.roblox.com

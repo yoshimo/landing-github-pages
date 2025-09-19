@@ -855,6 +855,7 @@
 *.thepiratebay.monster
 *.thepiratebay.mrunblock.pro
 *.thepiratebay.news
+*.thepiratebay.org
 *.thepiratebay.party
 *.thepiratebay.press
 *.thepiratebay.rock
@@ -1230,6 +1231,7 @@
 *.yts.lt
 *.yts.ms
 *.yts.mt
+*.yts.mx
 *.yts.pl
 *.yts.pm
 *.yts.st

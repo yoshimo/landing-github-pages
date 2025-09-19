@@ -3,5 +3,6 @@
 *.ttvnw.net
 *.ttvnw.net
 *.twitch.map.fastly.net
+*.twitch.tv
 *.twitchcdn.net
 *.twitchsvc.net

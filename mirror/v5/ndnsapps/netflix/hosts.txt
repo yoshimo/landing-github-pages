@@ -2,3 +2,4 @@
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
+*.nflxvideo.net

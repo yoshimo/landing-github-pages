@@ -925,6 +925,7 @@ seedpeer.me
 seeneey.blogspot.com
 serialheaven.com
 serials.be
+serials.ws
 serialsite.com
 serialsws.org
 serialz.to
@@ -1085,6 +1086,7 @@ themusichutch.com
 thenightfilmes.net
 thepiratebay.cx
 thepiratebay.musicmarketonline.es
+thepiratebay.org
 thepiratebay.pe
 thepiratebay.se
 thepiratemirror.com

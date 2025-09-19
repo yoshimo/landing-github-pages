@@ -8987,6 +8987,7 @@
 0.0.0.0 instagram-shv-13-frc1.fbcdn.net
 0.0.0.0 instagram-shv-17-prn1.fbcdn.net
 0.0.0.0 instagram-shv-18-prn1.fbcdn.net
+0.0.0.0 instagram.com
 0.0.0.0 instagram.faar2-1.fna.fbcdn.net
 0.0.0.0 instagram.fabb1-1.fna.fbcdn.net
 0.0.0.0 instagram.fabj1-1.fna.fbcdn.net
@@ -13833,6 +13834,7 @@
 0.0.0.0 pimg.fb.com
 0.0.0.0 pingback-dev.giphy.com
 0.0.0.0 pingback-staging.giphy.com
+0.0.0.0 pingback.giphy.com
 0.0.0.0 pixel5.fbjs.facebook.com
 0.0.0.0 pixel-brand.fbjs.facebook.com
 0.0.0.0 pixel-demo.fbjs.facebook.com
@@ -17104,6 +17106,7 @@
 0.0.0.0 stanleyblackanddecker.m.facebook.com
 0.0.0.0 star-any2-1.c10r.facebook.com
 0.0.0.0 star-mini-any2-1.c10r.facebook.com
+0.0.0.0 star-mini.c10r.facebook.com
 0.0.0.0 star.facebook.com
 0.0.0.0 starbuckspt-br.fbjs.facebook.com
 0.0.0.0 startup.fb.com
@@ -17130,6 +17133,7 @@
 0.0.0.0 static.oculusvr.com
 0.0.0.0 static.whatsapp.net
 0.0.0.0 staticxx.beta.facebook.com
+0.0.0.0 staticxx.facebook.com
 0.0.0.0 staticxx.intern.facebook.com
 0.0.0.0 staticxx.ja-jp.ms-my.fbjs.facebook.com
 0.0.0.0 staticxx.new.facebook.com

@@ -3,6 +3,7 @@
 360.yahoo.com
 43things.com
 9rules.com
+academia.edu
 acelerame.com
 acitizen.net
 addthis.com
@@ -10,6 +11,7 @@ advogato.org
 agentb.com
 albicla.com
 allmyfavorites.net
+allrecipes.com
 amiglia.com
 amina.com
 anobii.com
@@ -112,15 +114,19 @@ de.lirio.us
 dealcomet.com
 dealigg.com
 del.icio.us
+delicious.com
 designbump.com
 designfloat.com
 designrelated.com
 developersniche.com
+deviantart.com
+digg.com
 digglicious.com
 digstock.com
 diigo.com
 disaboom.com
 discordapp.com
+disqus.com
 disqussearch.com
 dnhour.com
 dogster.com
@@ -183,12 +189,14 @@ filmcrave.com
 filmow.com
 fledgewing.com
 flick.im
+flickr.com
 flirtomatic.com
 flixster.com
 fohboh.com
 fotka.com
 fotki.com
 fotolog.com
+foursquare.com
 foxmarks.com
 frazr.com
 freagle.com.au
@@ -221,6 +229,7 @@ globalvoicesonline.org
 gogoyoko.com
 golark.com
 goldenline.pl
+goodreads.com
 goodwizz.com
 gooruze.com
 gospelshout.com
@@ -293,6 +302,7 @@ imeem.com
 indabamusic.com
 indianpad.com
 instagram-press.com
+instagram.com
 iq.lycos.co.uk
 irc-galleria.net
 italki.com
@@ -325,6 +335,7 @@ lifeknot.com
 lilisto.com
 linkagogo.com
 linkatopia.com
+linkedin.com
 linkedin.com.br
 linkedin.fr
 linkfilter.net
@@ -335,6 +346,7 @@ listible.com
 listmixer.com
 listography.com
 livecounts.org
+livejournal.com
 livemocha.com
 loopt.com
 loveandfriends.com
@@ -351,6 +363,7 @@ mbuzzy.com
 meetin.org
 meetme.com
 meettheboss.tv
+meetup.com
 meinvz.net
 metrofriendly.com
 mewe.com
@@ -391,6 +404,7 @@ mymfb.com
 mypharmanote.com
 mypip.com
 myshutterspace.com
+myspace.com
 myvmarks.com
 mywebprofile.com
 myyearbook.com
@@ -413,6 +427,7 @@ noc.social
 nowpublic.com
 numpa.nl
 odnoklassniki.ru
+ok.ru
 okcupid.com
 one.revver.com
 oneclimate.net
@@ -436,6 +451,7 @@ peacefmonline.com
 peeks.com
 petside.com
 petzume.com
+photobucket.com
 photography-network.net
 photographymentor.com
 photographyvoter.com
@@ -446,6 +462,7 @@ piczo.com
 pikapet.com
 pingsta.com
 pinimg.com
+pinterest.com
 pixelgroovy.com
 plantchange.com
 plaxo.com
@@ -481,6 +498,7 @@ recipekey.com
 recipezaar.com
 recruiting.com
 red-note.co
+reddit.com
 reddnote.com
 rednote.bio
 rednote.club
@@ -491,6 +509,7 @@ rednoteapp.org
 rednotee.com
 reelempire.com
 renren.com
+researchgate.net
 reunion.com
 reverbnation.com
 robisz.pl
@@ -529,6 +548,7 @@ socializr.com
 sociallife.com.br
 socialvibe.com
 sonico.com
+soundcloud.com
 soundpedia.com
 speeddate.com
 sphinn.com
@@ -549,6 +569,7 @@ student.com
 studentscircle.net
 studivz.net
 stufflinker.com
+stumbleupon.com
 stylecaster.com
 stylehive.com
 stylehop.com
@@ -597,6 +618,7 @@ trekcafe.com
 tribe.net
 tribel.com
 trig.com
+tripadvisor.com
 tripup.com
 trombi.com
 truemors.com
@@ -607,6 +629,7 @@ turboclip.com
 tv.oneworld.net
 tweako.com
 twikeo.com
+twitter.com
 uniteddogs.com
 upspring.com
 us.cyworld.com
@@ -622,6 +645,7 @@ videosift.com
 vimby.com
 virb.com
 vk.ru
+vkontakte.ru
 walkertracker.com
 wamba.com
 wattpad.com
@@ -631,6 +655,7 @@ wedigsports.com
 weeatt.com
 weeworld.com
 wegame.com
+weibo.com
 wellwer.com
 weourfamily.com
 wepolls.com
@@ -657,7 +682,9 @@ xanga.com
 xianz.com
 xiaohongshu.com
 xilliantv.com
+xing.com
 yammer.com
+yelp.com
 yigg.de
 yub.com
 zaadz.com

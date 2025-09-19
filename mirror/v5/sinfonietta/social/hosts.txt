@@ -1306,6 +1306,7 @@
 127.0.0.1 ssl.connect.facebook.com
 127.0.0.1 ssl.facebook.com
 127.0.0.1 stanleyblackanddecker.m.facebook.com
+127.0.0.1 star-mini.c10r.facebook.com
 127.0.0.1 star.facebook.com
 127.0.0.1 static-ak.facebook.com
 127.0.0.1 static.ak.facebook.com
@@ -1315,6 +1316,7 @@
 127.0.0.1 static.fdel11-1.fna.fbcdn.net
 127.0.0.1 static.fsea1-1.fna.fbcdn.net
 127.0.0.1 static.thefacebook.com
+127.0.0.1 staticxx.facebook.com
 127.0.0.1 stormberg.m.facebook.com
 127.0.0.1 sv-se.facebook.com
 127.0.0.1 sv-se.facebook.se
@@ -1769,6 +1771,7 @@
 127.0.0.1 instagram-shv-18-prn1.fbcdn.net
 127.0.0.1 instagram.c10r.instagram.com
 127.0.0.1 instagram.co
+127.0.0.1 instagram.com
 127.0.0.1 instagram.com.br
 127.0.0.1 instagram.de
 127.0.0.1 instagram.fr
@@ -2440,6 +2443,7 @@
 127.0.0.1 twimg.twitter.map.fastly.net
 127.0.0.1 twimg0-0.akamaihd.net
 127.0.0.1 twitter.co
+127.0.0.1 twitter.com
 127.0.0.1 twitter.de
 127.0.0.1 twitter.map.fastly.net
 127.0.0.1 upload.twitter.com
@@ -2551,6 +2555,7 @@
 127.0.0.1 lan.sdk.linkedin.com
 127.0.0.1 learning.linkedin.com
 127.0.0.1 lifg.linkedin.com
+127.0.0.1 linkedin.com
 127.0.0.1 linkedinforgood.linkedin.com
 127.0.0.1 lists.linkedin.com
 127.0.0.1 live.linkedin.com
@@ -2665,6 +2670,7 @@
 127.0.0.1 www.imagine.linkedin.com
 127.0.0.1 www.licdn.com
 127.0.0.1 www.lifg.linkedin.com
+127.0.0.1 www.linkedin.com
 127.0.0.1 www.linkedinforgood.linkedin.com
 127.0.0.1 www.live.linkedin.com
 127.0.0.1 www.members.linkedin.com
@@ -2711,6 +2717,7 @@
 127.0.0.1 messages.myspace.com
 127.0.0.1 music.myspace.com
 127.0.0.1 mx2.myspace.com
+127.0.0.1 myspace.com
 127.0.0.1 myspacecdn.com
 127.0.0.1 ns1.myspace.com
 127.0.0.1 ns2.myspace.com
@@ -2762,6 +2769,7 @@
 127.0.0.1 log.pinterest.com
 127.0.0.1 pin.it
 127.0.0.1 pinimg.com
+127.0.0.1 pinterest.com
 127.0.0.1 post.pinterest.com
 127.0.0.1 prod.pinterest.global.map.fastly.net
 127.0.0.1 s-passets.pinimg.com
@@ -2804,6 +2812,7 @@
 127.0.0.1 secure.assets.tumblr.com
 127.0.0.1 secure.static.tumblr.com
 127.0.0.1 staff.tumblr.com
+127.0.0.1 tumblr.com
 127.0.0.1 tumblr.tumblr.com
 127.0.0.1 v.tumblr.com
 127.0.0.1 www.tumblr.com
@@ -2812,6 +2821,7 @@
 127.0.0.1 a.thumbs.redditmedia.com
 127.0.0.1 about.reddit.com
 127.0.0.1 accounts.reddit.com
+127.0.0.1 alb.reddit.com
 127.0.0.1 amp-reddit-com.cdn.ampproject.org
 127.0.0.1 b.thumbs.redditmedia.com
 127.0.0.1 c.thumbs.redditmedia.com
@@ -2851,6 +2861,7 @@
 127.0.0.1 reddit-stream.com
 127.0.0.1 reddit-uploaded-media.s3-accelerate.amazonaws.com
 127.0.0.1 reddit-uploaded-video.s3-accelerate.amazonaws.com
+127.0.0.1 reddit.com
 127.0.0.1 reddit.map.fastly.net
 127.0.0.1 redditama.reddit.com
 127.0.0.1 redditblog.com
@@ -3154,6 +3165,7 @@
 
 # Twitch
 # from https://www.netify.ai/resources/applications/twitch & Browser Networktraffic
+127.0.0.1 twitch.tv
 127.0.0.1 www.twitch.tv
 127.0.0.1 ttvnw.net
 127.0.0.1 live-video.net

@@ -72,6 +72,7 @@
 *.psychodownloads.com
 *.puredl.org
 *.puzo.org
+*.raidforums.com
 *.rapidheaven.com
 *.risbb.ru
 *.rlslog.net
@@ -79,6 +80,7 @@
 *.root-warez.com
 *.scnsrc.me
 *.sdcv.pl
+*.serials.ws
 *.sinister.ly
 *.snahp.it
 *.softddl.org

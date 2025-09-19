@@ -1,2 +1,3 @@
+*.telegram.me
 *.telegram.org
 *.nicegram.app # https://github.com/nextdns/services/issues/1

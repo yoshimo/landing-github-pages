@@ -172,6 +172,7 @@
 0.0.0.0 1119706.fls.doubleclick.net
 0.0.0.0 111.onthe.io
 0.0.0.0 112.112.2o7.net
+0.0.0.0 112.2o7.net
 0.0.0.0 11262.engine.mobileapptracking.com
 0.0.0.0 112-tzm-766.mktoresp.com
 0.0.0.0 11430.engine.mobileapptracking.com
@@ -1147,6 +1148,7 @@
 0.0.0.0 2kbp2.voluumtrk.com
 0.0.0.0 2kygq.voluumtrk.com
 0.0.0.0 2o53s.voluumtrk.com
+0.0.0.0 2o7.net
 0.0.0.0 2podcast.crazyegg.com
 0.0.0.0 p.skimresources.com
 0.0.0.0 2qb5tjqwga.kameleoon.eu
@@ -4832,6 +4834,7 @@
 0.0.0.0 api.bbs.miui.com
 0.0.0.0 api.blockadblock.com
 0.0.0.0 api-b.prod.vidible.tv
+0.0.0.0 api.branch.io
 0.0.0.0 api.bricknet.com
 0.0.0.0 api.browser.intl.miui.com
 0.0.0.0 api.browser.miui.com
@@ -5075,6 +5078,7 @@
 0.0.0.0 app.appsflyer.com
 0.0.0.0 app-b.marketo.com
 0.0.0.0 appboy.com
+0.0.0.0 appboy-images.com
 0.0.0.0 appchoices.rubiconproject.com
 0.0.0.0 appcloud.ksmobile.com
 0.0.0.0 appcloud-node-stage.corp.flurry.com
@@ -5156,6 +5160,7 @@
 0.0.0.0 appsee.com
 0.0.0.0 appserver1-2.sfa15.smi2.net
 0.0.0.0 appserver1-4.sfa15.smi2.net
+0.0.0.0 appsflyer.com
 0.0.0.0 app.shoelace.com
 0.0.0.0 app-sj01.marketo.com
 0.0.0.0 app-sj02.marketo.com
@@ -6019,6 +6024,7 @@
 0.0.0.0 bg-mtg.a.videoplaza.tv
 0.0.0.0 bg-mtg.cdn.videoplaza.tv
 0.0.0.0 b-graph.accountkit.com
+0.0.0.0 graph.accountkit.com
 0.0.0.0 bgtalysteu10.112.2o7.net
 0.0.0.0 bh1.doubleclick.net
 0.0.0.0 bhcumsc.com
@@ -6850,6 +6856,7 @@
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 cdn.beginads.com
 0.0.0.0 cdn.bizible.com
+0.0.0.0 cdn.branch.io
 0.0.0.0 cdn-c.amazon-adsystem.com
 0.0.0.0 cdn-cc.taboola.com
 0.0.0.0 cdn-cf.postitial.com
@@ -6926,6 +6933,7 @@
 0.0.0.0 cdn.sailfish.media
 0.0.0.0 cdn-s.amazon-adsystem.com
 0.0.0.0 cdn-sec.tacoda.at.atwola.com
+0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.segment.io
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 cdn.shopalyst.com
@@ -8368,6 +8376,7 @@
 0.0.0.0 demand-service.adtechus.com
 0.0.0.0 de.marketo.com
 0.0.0.0 dembele.alphonso.tv
+0.0.0.0 demdex.net
 0.0.0.0 de.mediaplex.com
 0.0.0.0 demo-api.adsnative.com
 0.0.0.0 demobox.teads.tv
@@ -8449,6 +8458,7 @@
 0.0.0.0 diag.atdmt.com
 0.0.0.0 diageogreatbritainltd.d3.sc.omtrdc.net
 0.0.0.0 diagnostics-lp.inmobi.com
+0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 dialin.vertamedia.com
 0.0.0.0 diamonddiaspora-d.openx.net
 0.0.0.0 diamondnorthcu.com.102.112.2o7.net
@@ -10765,6 +10775,7 @@
 0.0.0.0 goog.applovin.com
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 googleadservices.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 google-analytics.bi.owox.com
 0.0.0.0 googleplaysetvices.com
@@ -12839,6 +12850,7 @@
 0.0.0.0 jsg.mgid.com
 0.0.0.0 js.hscta.net
 0.0.0.0 js.hsleadflows.net
+0.0.0.0 js.hs-scripts.com
 0.0.0.0 js.idio.co
 0.0.0.0 js.juicyads.com
 0.0.0.0 jsks.biz
@@ -13416,6 +13428,7 @@
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 logpostback.media.net
+0.0.0.0 log.quora.com
 0.0.0.0 log-rts24-iad01.devices.nest.com
 0.0.0.0 logs.adroll.com
 0.0.0.0 logs.algolia.net
@@ -14486,6 +14499,7 @@
 0.0.0.0 myapstore.com.102.112.2o7.net
 0.0.0.0 my-astro.cdn.videoplaza.tv
 0.0.0.0 my-astro.videoplaza.tv
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybiser.mirtesen.ru
 0.0.0.0 myb.statcounter.com
 0.0.0.0 mybuys-artsentertainment.t.domdex.com
@@ -15879,6 +15893,7 @@
 0.0.0.0 padsquad-d.openx.net
 0.0.0.0 pad.umeng.com
 0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pages2.marketo.com
 0.0.0.0 pages.adroll.com
 0.0.0.0 pages.chartboost.com
@@ -18050,6 +18065,7 @@
 0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 scheme.mobpowertech.com
 0.0.0.0 schibsted.com
+0.0.0.0 schibsted.io
 0.0.0.0 schibstedspain.sc.omtrdc.net
 0.0.0.0 schindler.com.d3.sc.omtrdc.net
 0.0.0.0 schneiderde.widget.criteo.com
@@ -18174,6 +18190,7 @@
 0.0.0.0 seb.d1.sc.omtrdc.net
 0.0.0.0 sebder.roboinside.me
 0.0.0.0 seb.scorecardresearch.com
+0.0.0.0 seccdn-gl.imrworldwide.com
 0.0.0.0 sec-cdn.static.xiaomi.net
 0.0.0.0 sec.cnzz.com
 0.0.0.0 seccosquared-d.openx.net
@@ -22751,6 +22768,7 @@
 0.0.0.0 www.get.unbounce.com
 0.0.0.0 www.go.apptimize.com
 0.0.0.0 www.go.kissmetrics.com
+0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googleads.g.doubleclick.net
 0.0.0.0 www-google--analytics-com.cdn.ampproject.org
 0.0.0.0 www.google-analytics.com.domain.name
@@ -28654,6 +28672,7 @@
 0.0.0.0 eb.trbas.com
 0.0.0.0 krk.kargo.com
 0.0.0.0 loggingapi.spingo.com
+0.0.0.0 ssor.tribdss.com
 0.0.0.0 videotracker.washingtonpost.com
 0.0.0.0 wp-stat.s3.amazonaws.com
 0.0.0.0 usersegment.wpdigital.net
@@ -28792,6 +28811,7 @@
 0.0.0.0 paupervice.club
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 applogmaster.test.uae.uc.cn
+0.0.0.0 bestfwdservice.com
 0.0.0.0 tracking.india.miui.com
 0.0.0.0 11x11.com
 0.0.0.0 8127020.fls.doubleclick.net
@@ -28861,6 +28881,7 @@
 0.0.0.0 api.bignox.com
 0.0.0.0 bi.yeshen.com
 0.0.0.0 brilliant.applinzi.com
+0.0.0.0 device-api.urbanairship.com
 0.0.0.0 launcher-us.yeshen.com
 0.0.0.0 msdk-files.webengage.com
 0.0.0.0 res09.bignox.com
@@ -29389,6 +29410,7 @@
 0.0.0.0 trial.tercept.com
 0.0.0.0 clicktripz.com
 0.0.0.0 entitlements.jwplayer.com
+0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 pushno.com
 0.0.0.0 timesnow.pushengage.com
 0.0.0.0 onclkds.com
@@ -29996,6 +30018,7 @@
 0.0.0.0 ads2.servebom.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adservice.google.ca
+0.0.0.0 alb.reddit.com
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 analytics.ovh.com
 0.0.0.0 api.rlcdn.com
@@ -30006,8 +30029,10 @@
 0.0.0.0 app-analytics.huami.com
 0.0.0.0 app.engage.jio.com
 0.0.0.0 arescadon.com
+0.0.0.0 b.stats.paypal.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.union.ucweb.com
+0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn.connatix.com
 0.0.0.0 cdn.pushnami.com
 0.0.0.0 cdn2.shareitgames.com
@@ -30218,7 +30243,9 @@
 0.0.0.0 www.connatix.com
 0.0.0.0 a.connatix.com
 0.0.0.0 api.connatix.com
+0.0.0.0 cds.connatix.com
 0.0.0.0 cks.connatix.com
+0.0.0.0 img.connatix.com
 0.0.0.0 integration.connatix.com
 0.0.0.0 hub.internal.connatix.com
 0.0.0.0 tc.internal.connatix.com
@@ -30235,6 +30262,7 @@
 0.0.0.0 v.connatix.com
 0.0.0.0 vapi.connatix.com
 0.0.0.0 vcore.connatix.com
+0.0.0.0 vid.connatix.com
 0.0.0.0 www.mobvista.com
 0.0.0.0 mobvista.com
 0.0.0.0 3s.mobvista.com
@@ -30331,6 +30359,7 @@
 0.0.0.0 yummy.consumable.com
 0.0.0.0 airtel.sc.omtrdc.net
 0.0.0.0 ali-stats.jpush.cn
+0.0.0.0 api2.branch.io
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 norma-external-collect.meizu.com
@@ -31182,6 +31211,7 @@
 0.0.0.0 customizations.fitanalytics.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 k.intellitxt.com
+0.0.0.0 log.mmstat.com
 0.0.0.0 metrics-nl.fitanalytics.com
 0.0.0.0 metrics.fitanalytics.com
 0.0.0.0 perf.mmstat.com
@@ -33377,6 +33407,7 @@
 0.0.0.0 style-recommender.fitanalytics.com
 0.0.0.0 wgi.fitanalytics.com
 0.0.0.0 widget.fitanalytics.com
+0.0.0.0 mmstat.com
 0.0.0.0 www.mmstat.com
 0.0.0.0 ac.mmstat.com
 0.0.0.0 cctv.mmstat.com
@@ -33995,6 +34026,7 @@
 0.0.0.0 video.mediavine.com
 0.0.0.0 video-shield.mediavine.com
 0.0.0.0 vpn.mediavine.com
+0.0.0.0 go-mpulse.net
 0.0.0.0 www.go-mpulse.net
 0.0.0.0 3211c0e1.go-mpulse.net
 0.0.0.0 3408178b.go-mpulse.net
@@ -34190,6 +34222,7 @@
 0.0.0.0 tracking.adcanopus.com
 0.0.0.0 log.go.com
 0.0.0.0 ups.analytics.yahoo.com
+0.0.0.0 79423.analytics.edgekey.net
 0.0.0.0 track.mobird.co
 0.0.0.0 a.exosrv.com
 0.0.0.0 ads.us.e-planning.net
@@ -34225,6 +34258,7 @@
 0.0.0.0 edge-mcdn-beacon.secure.yahoo.com
 0.0.0.0 yahoovod.hs.llnwd.net
 0.0.0.0 vop-yahoo.akamaized.net
+0.0.0.0 edgecast-vod.yahoo.net
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 fundingchoices.google.com
 0.0.0.0 www.datafirst.io
@@ -35058,6 +35092,7 @@
 0.0.0.0 herbalife-app.quantummetric.com
 0.0.0.0 smetrics.herbalife.com
 0.0.0.0 usmetric.rediff.com
+0.0.0.0 securemetrics.apple.com
 0.0.0.0 logssug.ucweb.com
 0.0.0.0 analytics.newscred.com
 0.0.0.0 metrics.aviasales.ru
@@ -37232,6 +37267,7 @@
 0.0.0.0 wwwedurarcom.moengage.com
 0.0.0.0 xarabcam.moengage.com
 0.0.0.0 ytechweb.moengage.com
+0.0.0.0 moengage.com
 0.0.0.0 www.optimove.net
 0.0.0.0 adoramarentalstracksdk.optimove.net
 0.0.0.0 adoramatracksdk.optimove.net
@@ -37895,6 +37931,7 @@
 0.0.0.0 d1v9u0bgi1uimx.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1zatounuylvwg.cloudfront.net
+0.0.0.0 d26b395fwzu5fz.cloudfront.net
 0.0.0.0 d28nwox1gdjlve.cloudfront.net
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d2nq0f8d9ofdwv.cloudfront.net
@@ -37905,6 +37942,7 @@
 0.0.0.0 d2swpuhpwp3khd.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2vig74li2resi.cloudfront.net
+0.0.0.0 d2zah9y47r7bi2.cloudfront.net
 0.0.0.0 d3dcugpvnepf41.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3r6awv9ysiyn4.cloudfront.net
@@ -38078,6 +38116,7 @@
 0.0.0.0 um-21.btrll.com
 0.0.0.0 unpaid-20.btrll.com
 0.0.0.0 unpaid-21.btrll.com
+0.0.0.0 analytics.google.com
 0.0.0.0 xml.acertb.com
 0.0.0.0 viatepigan.com
 0.0.0.0 www.viatepigan.com
@@ -38125,6 +38164,7 @@
 0.0.0.0 exchange.liveperson.net
 0.0.0.0 va.routingbot.ext.liveperson.net
 0.0.0.0 faas.liveperson.net
+0.0.0.0 server.iad.liveperson.net
 0.0.0.0 lo-ts.idavid.liveperson.net
 0.0.0.0 ts.idavid.liveperson.net
 0.0.0.0 z2.idavid.liveperson.net
@@ -38650,6 +38690,7 @@
 0.0.0.0 zaful.pxf.io
 0.0.0.0 zeel.pxf.io
 0.0.0.0 zola.pxf.io
+0.0.0.0 pxf.io
 0.0.0.0 adore-me.ojrq.net
 0.0.0.0 alldatadiy.ojrq.net
 0.0.0.0 allenedmonds.ojrq.net
@@ -39738,6 +39779,7 @@
 0.0.0.0 us.linkury.com
 0.0.0.0 vc-stats.linkury.com
 0.0.0.0 ws-cloud.linkury.com
+0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 clicks.beap.bc.yahoo.com
 0.0.0.0 bifrost-api.hotstar.com
 0.0.0.0 vs.hotstar.com
@@ -40768,6 +40810,7 @@
 0.0.0.0 cpu.samsungelectronics.com
 0.0.0.0 dpu.samsungelectronics.com
 0.0.0.0 events.samsungads.com
+0.0.0.0 insights.samsung.com
 0.0.0.0 invitation.samsungiotcloud.com
 0.0.0.0 kpu.samsungelectronics.com
 0.0.0.0 lcprd1.samsungcloudsolution.net

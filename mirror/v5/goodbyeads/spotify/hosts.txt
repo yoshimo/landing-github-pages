@@ -556,6 +556,7 @@
 0.0.0.0 adstudio-assets.scdn.co
 0.0.0.0 adstudio.spotify.com
 0.0.0.0 advertisers.l.doubleclick.net
+0.0.0.0 advertising.com
 0.0.0.0 ae.video-ak.cdn.spotify.com
 0.0.0.0 af.video-ak.cdn.spotify.com
 0.0.0.0 afconsult.com
@@ -595,6 +596,7 @@
 0.0.0.0 analytics-classic.spotify.com
 0.0.0.0 analytics-preview.spotify.com
 0.0.0.0 analytics.admob.com
+0.0.0.0 analytics.google.com
 0.0.0.0 analytics.spotify.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
 0.0.0.0 ap.spotify.com
@@ -1790,6 +1792,7 @@
 0.0.0.0 go.scdn.co
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 gtssl2-ocsp.geotrust.com
 0.0.0.0 gw.admob.com
@@ -2453,6 +2456,7 @@
 0.0.0.0 p.admob.com
 0.0.0.0 p1.vip.sc9.admob.com
 0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pagead46.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 paix1.sc1.admob.com
@@ -3269,6 +3273,7 @@
 0.0.0.0 ulink.adjust.com
 0.0.0.0 update.moatads.com
 0.0.0.0 updates.tune.com
+0.0.0.0 upgrade.scdn.co
 0.0.0.0 upgrade.spotify.com
 0.0.0.0 upsell.scdn.co
 0.0.0.0 upv4.moatads.com
@@ -3737,6 +3742,7 @@
 0.0.0.0 www.comscore.com
 0.0.0.0 www.cp.tune.com
 0.0.0.0 www.dev.spotify.pinterest.adtz.com
+0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.intercom.io
 0.0.0.0 www.mixpanel.com

@@ -7371,6 +7371,7 @@
 0.0.0.0 bongacams.at
 0.0.0.0 bongacams.biz
 0.0.0.0 bongacams.cam
+0.0.0.0 bongacams.com
 0.0.0.0 bongacams.dk
 0.0.0.0 bongacams.eu
 0.0.0.0 bongacams.fi
@@ -13246,6 +13247,7 @@
 0.0.0.0 www.erotelki.org
 0.0.0.0 eroterest.club
 0.0.0.0 movie.eroterest.net
+0.0.0.0 erothots.co
 0.0.0.0 erothots.com
 0.0.0.0 statics.erothots.co
 0.0.0.0 video.erothots.co
@@ -14512,6 +14514,7 @@
 0.0.0.0 www.fbbtop100.com
 0.0.0.0 fbestporn.com
 0.0.0.0 www.fbestporn.com
+0.0.0.0 fc2.com
 0.0.0.0 adult.contents.fc2.com
 0.0.0.0 angelsoi26.kt.fc2.com
 0.0.0.0 blog-imgs-63.fc2.com
@@ -26857,6 +26860,7 @@
 0.0.0.0 livehotty.com
 0.0.0.0 www.liveindianporn.com
 0.0.0.0 liveinlockdown.com
+0.0.0.0 livejasmin.com
 0.0.0.0 livejasmin.net
 0.0.0.0 livejasmin.tv
 0.0.0.0 ccs.livejasmin.com
@@ -29622,6 +29626,7 @@
 0.0.0.0 motherandsonincestporn.name
 0.0.0.0 motherfuckings.com
 0.0.0.0 motherfuckson.com
+0.0.0.0 motherless.com
 0.0.0.0 motherless.hu
 0.0.0.0 motherless.me
 0.0.0.0 motherless.pro
@@ -30063,6 +30068,7 @@
 0.0.0.0 myfirstanal.top
 0.0.0.0 myfirstpublic.com
 0.0.0.0 myfreeblack.com
+0.0.0.0 myfreecams.com
 0.0.0.0 api-edge.myfreecams.com
 0.0.0.0 assets.myfreecams.com
 0.0.0.0 video355.myfreecams.com
@@ -30071,6 +30077,7 @@
 0.0.0.0 wchat56.myfreecams.com
 0.0.0.0 wchat61.myfreecams.com
 0.0.0.0 wchat69.myfreecams.com
+0.0.0.0 www.myfreecams.com
 0.0.0.0 www.myfreehdporn.com
 0.0.0.0 www.myfreelesbianporn.com
 0.0.0.0 myfreeporn.org
@@ -31486,6 +31493,8 @@
 0.0.0.0 cdn.nsimg.net
 0.0.0.0 cl.nsimg.net
 0.0.0.0 f1cdn.nsimg.net
+0.0.0.0 m1.nsimg.net
+0.0.0.0 m2.nsimg.net
 0.0.0.0 ntr-games.com
 0.0.0.0 nu-bay.com
 0.0.0.0 cdn0.nu-bay.com
@@ -31935,6 +31944,7 @@
 0.0.0.0 www.nuindiansex.com
 0.0.0.0 nulesbiansex.com
 0.0.0.0 www.nulesbiansex.com
+0.0.0.0 nulled.to
 0.0.0.0 www.nulled.to
 0.0.0.0 number1guru.com
 0.0.0.0 numilf.com
@@ -45285,6 +45295,7 @@
 0.0.0.0 www.stickywebcams.com
 0.0.0.0 stickyzooworld.com
 0.0.0.0 stiflersmoms.com
+0.0.0.0 stileproject.com
 0.0.0.0 de.stileproject.com
 0.0.0.0 es.stileproject.com
 0.0.0.0 fr.stileproject.com
@@ -47345,6 +47356,7 @@
 0.0.0.0 thepornchick.com
 0.0.0.0 theporncouch.com
 0.0.0.0 theporndiscount.com
+0.0.0.0 theporndude.com
 0.0.0.0 theporndude.fun
 0.0.0.0 theporndude.io
 0.0.0.0 theporndude.net
@@ -49073,6 +49085,7 @@
 0.0.0.0 tube8.best
 0.0.0.0 tube8.capital
 0.0.0.0 tube8.christmas
+0.0.0.0 tube8.com
 0.0.0.0 tube8.email
 0.0.0.0 tube8.fr
 0.0.0.0 tube8.homes
@@ -56554,6 +56567,7 @@
 0.0.0.0 xxxjmp.com
 0.0.0.0 creative.xxxjmp.com
 0.0.0.0 go.xxxjmp.com
+0.0.0.0 video.xxxjmp.com
 0.0.0.0 xxxjobinterviews.com
 0.0.0.0 xxxjojo.com
 0.0.0.0 xxxjoy.net

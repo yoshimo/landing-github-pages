@@ -1,4 +1,6 @@
 *.vk-cdn.net
 *.vk-portal.net
+*.vk.cc
+*.vkontakte.ru
 *.vkuservideo.net
 *.vk.link

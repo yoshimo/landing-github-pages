@@ -45,6 +45,7 @@
 #========= Analytics ==========
 
 # --- Google Analytics
+0.0.0.0 analytics.google.com
 0.0.0.0 click.googleanalytics.com
 
 # --- Hotjar

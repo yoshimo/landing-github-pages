@@ -2,6 +2,7 @@
 *.youtube
 *.youtube.be
 *.youtube.co.uk
+*.youtube.com
 *.youtube.de
 *.youtube.fr
 *.youtube.googleapis.com

@@ -760,6 +760,7 @@
 0.0.0.0 dgw-p4.c10r.facebook.com
 0.0.0.0 edge-c2p.c10r.facebook.com
 0.0.0.0 extern.c10r.facebook.com
+0.0.0.0 star.fallback.c10r.facebook.com
 0.0.0.0 fblite-mini.c10r.facebook.com
 0.0.0.0 fblite-p1.c10r.facebook.com
 0.0.0.0 iglite-p42.c10r.facebook.com
@@ -781,6 +782,7 @@
 0.0.0.0 secure.c10r.facebook.com
 0.0.0.0 secure-latest.c10r.facebook.com
 0.0.0.0 shortwave.c10r.facebook.com
+0.0.0.0 star-mini.c10r.facebook.com
 0.0.0.0 stun.c10r.facebook.com
 0.0.0.0 wit-edge.c10r.facebook.com
 0.0.0.0 z-p1.c10r.facebook.com
@@ -20452,6 +20454,7 @@
 0.0.0.0 star.facebook.com
 0.0.0.0 starbucks.facebook.com
 0.0.0.0 static.facebook.com
+0.0.0.0 staticxx.facebook.com
 0.0.0.0 stone-co.facebook.com
 0.0.0.0 store.facebook.com
 0.0.0.0 stories.facebook.com
@@ -22714,6 +22717,7 @@
 0.0.0.0 panopticon.giphy.com
 0.0.0.0 partner-hub-api.giphy.com
 0.0.0.0 partner-hub-api-qa.giphy.com
+0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback-dev.giphy.com
 0.0.0.0 pingback-staging.giphy.com
 0.0.0.0 presentations.giphy.com
@@ -22751,6 +22755,7 @@
 0.0.0.0 www.giphy.com
 0.0.0.0 x.giphy.com
 0.0.0.0 x-qa.giphy.com
+0.0.0.0 instagram.com
 0.0.0.0 about.instagram.com
 0.0.0.0 accountscenter.instagram.com
 0.0.0.0 admin.instagram.com
